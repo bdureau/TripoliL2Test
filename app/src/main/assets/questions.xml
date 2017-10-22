@@ -1,0 +1,976 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<exam>
+<question>
+<test>Which of Newton's Laws best describes the behavior of a rocket motor?</test>
+<A>a. Newton's First Law: A body continues in its state of rest or of uniform motion in a straight line unless it is compelled to change that state by forces impressed upon it.</A>
+<B>b. Newton's Second Law: The rate of change of momentum is proportional to the force impressed and is in the same direction as that force.</B>
+<C>c. Newton's Third Law: To every action there is always an equal and opposite reaction.</C>
+<sol>C</sol>
+<ans>c. Newton's Third Law. Applying a force in one direction always results in an equal force in the opposite direction.</ans>
+</question>
+
+<question>
+<test>How does Newton's Third Law "To every action there is always an equal and opposite reaction" relate to rocketry?</test>
+<A>a. That the blast deflector must be strong enough to push the rocket off the launch pad at ignition.</A>
+<B>b. That a rocket flies because the rocket motor "pushes" the rocket in a direction opposite of the exhaust jet.</B>
+<C>c. That the thrust of a rocket motor is proportional to the air density at the launch site.</C>
+<sol>B</sol>
+<ans>b. The rocket motor's thrust causes the rocket to accelerate in the direction opposite the motor's thrust. Thus a rocket motor pushes only on the rocket, not on the air or launch pad.</ans>
+</question>
+
+<question>
+<test>What are the three forces acting upon a rocket during the course of its flight?</test>
+<A>a. Thrust, rocket diameter and finish.</A>
+<B>b. Nose cone shape, thrust and drag.</B>
+<C>c. Gravity, thrust and aerodynamic drag.</C>
+<sol>C</sol>
+<ans>c. Gravity, thrust and drag are the forces acting on a rocket.</ans>
+</question>
+
+<question>
+<test>What are the three major factors that determine the maximum altitude of a high power rocket in vertical flight?</test>
+<A>a. Lift-off weight, propellant weight and motor thrust.</A>
+<B>b. Fin size, propellant weight and motor thrust.</B>
+<C>c. Motor thrust, weight and aerodynamic drag.</C>
+<sol>C</sol>
+<ans>c. The motor thrust, weight and aerodynamic drag are the primary forces considered when determining the altitude of a rocket. Please note that the weight of the rocket must consider the lift-off weight and the weight at burn-out to be complete.</ans>
+</question>
+
+<question>
+<test>For an inherently stable rocket, which statement about the center of gravity (CG) and the center of pressure (CP) is true?</test>
+<A>a. The CG must be behind the CP relative to the desired direction of flight.</A>
+<B>b. The CG must be forward of the CP relative to the desired direction of flight.</B>
+<C>c. The CG must move forward (in the desired direction of flight) during the motor burn.</C>
+<sol>B</sol>
+<ans>b. The center of pressure (CP) is where the aerodynamic lift, due to the rocket being at a non-zero angle of attack, is centered. For an aerodynamically stable rocket with the CP behind the center of gravity (CG), the lift which is centered aft of the CG will create a corrective moment to return the rocket to zero degrees angle of attack. Conversely, if the CP is ahead of the CG the lift will attempt to turn the rocket around so that the CP will again be behind the CG. This resultant "tumbling" is characteristic of an unstable rocket.</ans>
+</question>
+
+<question>
+<test>A 4" diameter rocket with its motor is determined to have the center of gravity (CG) four inches behind the center of pressure (CP). Is this a rocket likely to be stable?</test>
+<A>a. No, the CG should be at least two body diameters behind the CP.</A>
+<B>b. No, the CP must be behind the CG for the rocket to be stable.</B>
+<C>c. Yes, the CP is one body diameter in front of the CG.</C>
+<sol>B</sol>
+<ans>b. The rocket is not stable because if the rocket rotated around its center of gravity (CG), the greater aerodynamic force forward of the CG would cause the rocket to rotate even farther, resulting in an unstable flight.</ans>
+</question>
+
+<question>
+<test>The center of pressure (CP) of a rocket is generally defined as:</test>
+<A>a. The balance point of the rocket without the motor.</A>
+<B>b. The total area of the fins, airframe and nose cone divided by two.</B>
+<C>c. The point at which aerodynamic lift on a rocket is centered.</C>
+<sol>C</sol>
+<ans>c. The center of pressure (CP) is the point on the rocket where the aerodynamic lift is centered. This means that aerodynamic lift, if the rocket is at a non-zero angle of attack, forward of this point is balanced by the aerodynamic lift aft of that point.</ans>
+</question>
+
+<question>
+<test>What is the "rule-of-thumb" for a stable rocket?</test>
+<A>a. That the center of gravity should be at least one body diameter in front of the center of pressure.</A>
+<B>b. That the center of gravity should be very nearly at the same point as the center of pressure.</B>
+<C>c. The rocket should balance near or at the center of gravity.</C>
+<sol>A</sol>
+<ans>a. Keeping the center of gravity (CG) one body diameter in front of the center of pressure (CP) typically allows an adequate margin for rocket stability.</ans>
+</question>
+
+<question>
+<test>You are at the launch site and decide to fly your rocket on a heavier motor than you simulated it on. Which statement regarding CG is true?</test>
+<A>a. One can install the motor, recovery system and payload and determine the balance point of the rocket as it is ready for flight.</A>
+<B>b. One can balance the rocket with the motor hardware alone becuase that is the condition of the rocket after motor burnout.</B>
+<C>c. It is not necessary to test for the center of gravity when using a heavier motor because it has more thrust.</C>
+<sol>A</sol>
+<ans>a. Measuring the center of gravity (CG) by balancing the rocket requires that the rocket be prepared as though ready for flight. It is especially important to check when using a heavier motor than previously flown.</ans>
+</question>
+
+<question>
+<test>What ordinarily happens to the center of gravity (CG) of a rocket during a solid rocket motor's thrusting phase?</test>
+<A>a. The CG stays the same.</A>
+<B>b. The CG shifts forward.</B>
+<C>c. The CG shifts aft.</C>
+<sol>B</sol>
+<ans>b. As the propellant burns the motor gets lighter and thus moves the balance point or center of gravity (CG) forward. This is why a marginally stable rocket may "act squirrelly" at launch, then stabilize and fly straight.</ans>
+</question>
+
+<question>
+<test>How can a statically unstable rocket be made stable?</test>
+<A>a. Using a heavier motor.</A>
+<B>b. Adding weight to the nose.</B>
+<C>c. Making the rocket shorter.</C>
+<sol>B</sol>
+<ans>b. Adding enough weight to the nose will shift the center of gravity (CG) forward of the center of pressure (CP).</ans>
+</question>
+
+<question>
+<test>What are three methods used to shift the center of gravity (CG) of a rocket forward?</test>
+<A>a. Add weight to the nose, make the rocket longer, install larger fins.</A>
+<B>b. Add weight to the nose, make the rocket longer, use a smaller (or lighter) motor.</B>
+<C>c. Add weight to the nose, make the rocket shorter, use a smaller motor.</C>
+<sol>B</sol>
+<ans>b. Moving the CG forward requires judicious design changes. The following are given as "rules of thumb": Adding weight to the nose moves the CG forward by counterbalancing the rocket. Think of the rocket as a lever; making the rocket longer shifts the CG forward by making the lever longer. Using a smaller (or lighter) motor reduces the weight aft thus shifting the CG forward.</ans>
+</question>
+
+<question>
+<test>What are three methods used to shift the center of pressure (CP) aft?</test>
+<A>a. Make the rocket shorter, use larger fins, increase the number of fins.</A>
+<B>b. Make the rocket shorter, use smaller fins, add weight to the nose.</B>
+<C>c. Make the rocket shorter, change the number of fins, use a longer launch rod.</C>
+<sol>A</sol>
+<ans>a. Moving the CP aft requires judicious design changes. The following are given as "rules of thumb": Increasing the total fin area will move the CP aft. This can be accomplished by increasing the area on each fin and/or increasing the number of fins. The CP can also be shifted aft by making the rocket shorter. This alone is generally not preferred because the CG is also shifted aft and the CP/CG stability relationship may be compromised.</ans>
+</question>
+
+<question>
+<test>The definition of coefficient of drag (C d ) is:</test>
+<A>a. A dimensionless number that represents the effect of gravity and Mach number of the rocket.</A>
+<B>b. A dimensionless number dependent on the rocket configuration, Mach number and angle of attack.</B>
+<C>c. The force, in Newtons, exerted on the rocket by the atmosphere.</C>
+<sol>B</sol>
+<ans>b. The coefficient of drag (C d ) is a number that is used in equations for calculating the aerodynamic performance of a rocket. Values that make up the C d are the rocket configuration (nose cone shape, airframe diameter(s), transition sections, fin size and shape, etc.), the rocket velocity as Mach number and the angle of attack.</ans>
+</question>
+
+<question>
+<test>What happens to the coefficient of drag (C d ) as the rocket approaches the speed of sound?</test>
+<A>a. The C d decreases.</A>
+<B>b. The C d stays the same.</B>
+<C>c. The C d increases.</C>
+<sol>C</sol>
+<ans>c. The coefficient of drag (C d ) increases and can be greater than 1 as the rocket exceeds Mach 1.</ans>
+</question>
+
+<question>
+<test>For a subsonic rocket, what factors most greatly affect the coefficient of drag (C d )?</test>
+<A>a. Motor thrust, body diameter, nosecone shape and fin shape.</A>
+<B>b. Speed, airframe dimensions, nosecone shape and fin shape.</B>
+<C>c. Gravity, airframe dimensions, nosecone shape and fin shape.</C>
+<sol>B</sol>
+<ans>b. As speed increases, the drag number changes. The length and diameter of the rocket factors into the total surface area. The nose cone shape affects the airflow over the front of the nose cone. The fin shape and fin area factor into the total surface area.</ans>
+</question>
+
+<question>
+<test>What effect does a boat tail have on a subsonic rocket's coefficient of drag (C d )?</test>
+<A>a. No effect, a boat tail is only a cosmetic design feature.</A>
+<B>b. It increases the C d by changing the airflow over the fins.</B>
+<C>c. It decreases the C d by reducing the base drag.</C>
+<sol>C</sol>
+<ans>c. A boat tail reduces the drag for a subsonic rocket by reducing the base drag resulting from the discontinuity of the air flow as it leaves the end of the rocket.</ans>
+</question>
+
+<question>
+<test>The flight of a high power rocket can be separated into three portions; they are:</test>
+<A>a. Ignition, burnout and peak altitude.</A>
+<B>b. Powered flight, un-powered ascent and peak altitude.</B>
+<C>c. Powered flight, un-powered ascent and descent.</C>
+<sol>C</sol>
+<ans>c. The three phases of flight of a high power rocket are: (1) Powered flight " the period of time when the rocket motor is producing thrust against gravity and drag; (2) Un-powered ascent " the period of time after powered flight where the rocket's momentum allows the rocket to coast to peak altitude and is affected by gravity and drag; (3) Descent " the return of the rocket to Earth affected by gravity and drag.</ans>
+</question>
+
+<question>
+<test>Which describes the thrust curve of a regressive motor burn?</test>
+<A>a. A high initial thrust relative to the ending thrust of the motor.</A>
+<B>b. A lower initial thrust relative to the ending thrust.</B>
+<C>c. The thrust curve is flat.</C>
+<sol>A</sol>
+<ans>a. As the regressive motor burns, the thrust decreases or regresses because the burning surface area of the propellant decreases. This is typical of slotted grains.</ans>
+</question>
+
+<question>
+<test>Which describes the thrust curve of a progressive motor?</test>
+<A>a. A general decrease in thrust during the burn.</A>
+<B>b. A general increase in thrust during the burn.</B>
+<C>c. About the same thrust at ignition as at burnout.</C>
+<sol>B</sol>
+<ans>b. As the progressive motor burns, the thrust increases or progresses because the burning surface area of the propellant increases. This is typical of core burning motors.</ans>
+</question>
+
+<question>
+<test>A Bates grain has an essentially neutral thrust curve because:</test>
+<A>a. Core burning motors always have a neutral.</A>
+<B>b. The area of burning propellant remains relatively constant.</B>
+<C>c. The core is centered in the propellant grain.</C>
+<sol>B</sol>
+<ans>b. As the motor burns from the core out, the ends of the grains also burn, making the grains shorter. This results in a relatively constant surface area.</ans>
+</question>
+
+<question>
+<test>What is the function of a motor liner and the O-ring seals in a solid rocket motor?</test>
+<A>a. To hold all of the parts in place prior to ignition of the rocket motor.</A>
+<B>b. To make the motor easier to clean if it is a reloadable motor.</B>
+<C>c. To keep the hot gasses of the motor from burning or melting the motor case.</C>
+<sol>C</sol>
+<ans>c. The liner serves to keep the burning propellant (typically > 5000°F) from touching the motor case (aluminum melts at 1075°F) while the O-rings seal the ends to keep the hot gasses where they belong, that is going out of the nozzle.</ans>
+</question>
+
+<question>
+<test>What is the most common oxidizer in commercially available high power composite solid rocket motors?</test>
+<A>a. Ammonium Perchlorate</A>
+<B>b. Ammonium Nitrate</B>
+<C>c. Ammonium Chlorate</C>
+<sol>A</sol>
+<ans>a. Ammonium Perchlorate is NH4 ClO4 and is used in practically all modern solid rocket motors.</ans>
+</question>
+
+<question>
+<test>What is NH4 ClO4 ?</test>
+<A>a. Ammonium Perchlorate</A>
+<B>b. Ammonium Nitrate</B>
+<C>c. Ammonium Chlorate</C>
+<sol>A</sol>
+<ans>a. NH 4 ClO 4 is the chemical formula for Ammonium Perchlorate.</ans>
+</question>
+
+<question>
+<test>A small hole is typically drilled near the top of a high power rocket's airframe, below the nosecone or payload section. Why?</test>
+<A>a. This hole vents ecxessive ejection charge pressure, reducing shock cord stress.</A>
+<B>b. The hole permits on-board altimeters to obtain air pressure readings.</B>
+<C>c. The hole vents internal air pressure as the rocket gains altitude to prevent premature separation.</C>
+<sol>C</sol>
+<ans>c. Air pressure external to the rocket decreases as the rocket ascends. Trapped (higher) pressure within the rocket can prematurely separate the rocket. The hole vents this internal pressure to prevent separation. Note: The hole size is dependent on the size of the rocket and volume of air to be vented; larger airframes require larger holes. Use caution in locating the hole so the nose cone or payload coupler does not block the hole. Be sure to position the hole such that ejection charge pressure is not vented before recovery system deployment.</ans>
+</question>
+
+<question>
+<test>What happens when the injector orifice in an ideal hybrid rocket motor is made smaller (assuming the oxidizer weight stays the same)?</test>
+<A>a. The total impulse decreases and the average thrust increases.</A>
+<B>b. The total impulse stays the same and the average thrust increases.</B>
+<C>c. The total impulse stays the same and the average thrust decreases.</C>
+<sol>C</sol>
+<ans>c. Smaller or fewer injector orifices allows a lower average oxidizer flow, reducing the average thrust. Since the same amount of oxidizer is being used, the total impulse remains the same.</ans>
+</question>
+
+<question>
+<test>What happens when the injector orifice in an ideal hybrid rocket motor is increased in diameter (assume the oxidizer weight stays the same)?</test>
+<A>a. The total impulse decreases and the average thrust increases.</A>
+<B>b. The total impulse stays the same and the average thrust increases.</B>
+<C>c. The total impulse stays the same and the average thrust decreases.</C>
+<sol>B</sol>
+<ans>b. Larger or more injector orifices allows a higher average oxidizer flow, increasing the average thrust. Since the same amount of oxidizer is being used, the total impulse remains the same.</ans>
+</question>
+
+<question>
+<test>What is the oxidizer most commonly used in a commercial hybrid rocket motor?</test>
+<A>a. N 2 O</A>
+<B>b. N 2 O 4</B>
+<C>c. NO 2</C>
+<sol>A</sol>
+<ans>a. N 2 O or nitrous oxide, also called NOX.</ans>
+</question>
+
+<question>
+<test>What is the nominal tank pressure of a nitrous oxide hybrid motor at 75°F?</test>
+<A>a. 100 psi</A>
+<B>b. 750 psi</B>
+<C>c. 1500 psi</C>
+<sol>B</sol>
+<ans>b. Nitrous oxide liquefies at 750 psi at room temperature.</ans>
+</question>
+
+<question>
+<test>Above what temperature does pressurized nitrous oxide change to a gas?</test>
+<A>a. 97°F</A>
+<B>b. 75°F</B>
+<C>c. 37°F</C>
+<sol>A</sol>
+<ans>a. Above 97°F NOX changes to a supercritical gas.</ans>
+</question>
+
+<question>
+<test>A rocket with a motor cluster consisting of a central composite motor and four black powder motors, using five identical igniters:</test>
+<A>a. Will result in all motors starting about the same time.</A>
+<B>b. Will result in the composite motor starting first followed by the black powder motors.</B>
+<C>c. Will result in the black powder motors starting first followed by the central composite motor.</C>
+<sol>C</sol>
+<ans>c. Black powder motors do not have a significant startup time and will ignite as soon as the flame front is encountered. Ammonium Perchlorate-based composite motors require heat and pressure to start the combustion process and generally require at least a half-second before ignition occurs.</ans>
+</question>
+
+<question>
+<test>What typically happens to a marginally stable rocket with a hybrid motor during the thrusting phase?</test>
+<A>a. Nothing.</A>
+<B>b. The rocket may become more stable.</B>
+<C>c. The rocket may become less stable.</C>
+<sol>C</sol>
+<ans>c. As the CG of the hybrid motor shifts aft, so does the CG of the rocket, which may result in an unstable flight.</ans>
+</question>
+
+<question>
+<test>In general terms, the specific impulse of a rocket motor is:</test>
+<A>a. The total thrust force of a motor throughout its action time.</A>
+<B>b. The total impulse divided by unit weight of propellant.</B>
+<C>c. Inversely related to the diameter and length of the propellant grain.</C>
+<sol>B</sol>
+<ans>b. Specific impulse is a term used to define the efficiency of a rocket propellant and is the total impulse derived from a given mass of propellant.</ans>
+</question>
+
+<question>
+<test>In general terms, the total impulse of a rocket motor can be described as:</test>
+<A>a. The product of the average motor thrust and burn time.</A>
+<B>b. The product of the propellant weight and burn time.</B>
+<C>c. The product of the propellant weight and the motor thrust.</C>
+<sol>A</sol>
+<ans>a. Total impulse is the amount of thrust produced by a motor over its action time. For instance, a motor may produce 10 pounds of thrust for 4 seconds resulting in a total impulse of 40 pound-seconds.</ans>
+</question>
+
+<question>
+<test>The average thrust of a rocket motor is 100 Newtons and the burn time is 4 seconds. What is the total impulse?</test>
+<A>a. 25 Newton-seconds.</A>
+<B>b. 400 newton-seconds.</B>
+<C>c. 400 Newtons.</C>
+<sol>B</sol>
+<ans>b. Multiply the average thrust (100 Newtons) by the burn time (4 seconds) to get the total impulse of 400 Newton-seconds.</ans>
+</question>
+
+<question>
+<test>Which of the motors listed below has the highest total impulse?</test>
+<A>a. J200</A>
+<B>b. J400</B>
+<C>c. K200</C>
+<sol>C</sol>
+<ans>c. The J motor has a range of 641 to 1280 Newton-seconds and the K motor has a total impulse range of 1281 to 2560 Newton-seconds.</ans>
+</question>
+
+<question>
+<test>Which of the motors listed below has the highest average thrust?</test>
+<A>a. J200</A>
+<B>b. J400</B>
+<C>c. K200</C>
+<sol>B</sol>
+<ans>b. Even though the total impulse of the K motor is greater than the J motor, the J motor's average thrust is 400 Newtons versus the K motor's 200 Newtons.</ans>
+</question>
+
+<question>
+<test>What is the difference between a J640 and a J320 high power rocket motor (assume full 1280 Newton-second J motors)?</test>
+<A>a. The J320 burns out twice as fast as the J640.</A>
+<B>b. There is no difference between the motors, the numbers are manufacturer reference only.</B>
+<C>c. The J640 burns out twice as fast as the J320.</C>
+<sol>C</sol>
+<ans>c. The burn time is determined by dividing the total impulse (J = 1280) by the average thrust of each motor. The burn time for the J640 is: 1280 Newton-seconds / 640 = 2 seconds, and for the J320 is: 1280 Newton-seconds / 320 Newtons = 4 seconds.</ans>
+</question>
+
+<question>
+<test>Which of the following has a total impulse (I t ) in the J motor range?</test>
+<A>a. I t = 600 Newton-seconds.</A>
+<B>b. I t = 1000 Newton-seconds.</B>
+<C>c. I t = 1290 Newton-seconds.</C>
+<sol>B</sol>
+<ans>b. A J motor is in the range of 640.01 to 1280 Newton-seconds. Therefore, a 1000 Newton-second motor is a midrange J. The 600 Newton-second motor is an I motor and the 1290 Newton-second motor is a K motor.</ans>
+</question>
+
+<question>
+<test>What is a Newton?</test>
+<A>a. The amount of force required to accelerate one pound one foot per second per second.</A>
+<B>b. The amount of force required to accelerate one kg one foot per second per second.</B>
+<C>c. The amount of force required to accelerate one kg one meter per second per second.</C>
+<sol>C</sol>
+<ans>c. The Newton is an international (metric) unit of force and is the force required to accelerate one kilogram (2.2 lbs) one meter (39.4 inches) per second per second.</ans>
+</question>
+
+<question>
+<test>What does the motor designation I220-8 mean?</test>
+<A>a. The motor has between 320-640 N-s of impulse, an average thrust of 220 Newtons, with 8 seconds between motor ignition and ejection.</A>
+<B>b. The motor has 220 N-s of impulse, an average thrust of 220 Newtons, with 8 seconds between motor burn-out and ejection.</B>
+<C>c. The motor has between 320-640 N-s of impulse, an average thrust of 220 Newtons, with 8 seconds between motor burn-out and ejection.</C>
+<sol>C</sol>
+<ans>c. This is an I motor with a total impulse range of 320.01 to 640 Newton-seconds, an average thrust of 220 Newtons and an ejection delay of 8 seconds from burn-out.</ans>
+</question>
+
+<question>
+<test>Rocket A is descending at 30 feet per second, rocket B weighs the same but is descending at 20 feet per second.
+Which statement is true?</test>
+<A>a. The two rockets have the same kinetic energy.</A>
+<B>b. Rocket B has twice the kinetic energy of rocket A.</B>
+<C>c. Rocket B has four times the kinetic energy of rocket A.</C>
+<sol>C</sol>
+<ans>c. Kinetic energy - energy of motion - equals 1/2 mv2. Since velocity is squared, when two objects have the same mass, one moving twice as fast has 2^2 = 4 times the kinetic energy as the slower one.</ans>
+</question>
+
+<question>
+<test>Rocket A weighs twice as much as rocket B. Both are descending at 20 feet per second. Which statement is true?</test>
+<A>a. The two rockets have the same kinetic energy.</A>
+<B>b. Rocket A has twice the kinetic energy of rocket B.</B>
+<C>c. Rocket A has four time the kinetic energy of rocket A.</C>
+<sol>B</sol>
+<ans>b. Kinetic energy - energy of motion - equals 1/2 mv2. Thus, kinetic energy is directly proportional to mass; doubling the mass will give twice the kinetic energy.</ans>
+</question>
+
+<question>
+<test>What is the purpose of a launch rod, rail or tower?</test>
+<A>a. To keep the rocket pointing in the right direction prior to flight.</A>
+<B>b. To control the rocket's flight long enough to allow aerodynamic stability.</B>
+<C>c. Both a and b.</C>
+<sol>C</sol>
+<ans>c. The launch rod, rail or tower has a dual purpose. It is pointed in a direction to govern the rocket's trajectory to a degree, and it guides the rocket at the beginning of its flight to allow it to gain sufficient velocity for a stable flight. Stable flight is achieved when the air flowing over the rocket and its fins allows the rocket to correct its flight by forcing rotation around the rocket's center of gravity.</ans>
+</question>
+
+<question>
+<test>What is the purpose of a launch lug?</test>
+<A>a. To add drag to the rocket at launch.</A>
+<B>b. To guide the rocket along the launch rod or rail.</B>
+<C>c. Both a and b.</C>
+<sol>B</sol>
+<ans>b. The launch lug or rail buttons attach the rocket to the launch rod or rail allowing the rocket to be guided by the rod or rail at launch.</ans>
+</question>
+
+<question>
+<test>For a cluster rocket, which construction technique will minimize the effect of one motor failing to ignite?</test>
+<A>a. Make the holes in the forward centering ring slightly closer to the rocket's centerline than those of the aft centering ring.</A>
+<B>b. Space the centering rings precisely one motor length apart.</B>
+<C>c. Use four smaller fins instead of three larger fins.</C>
+<sol>A</sol>
+<ans>a. If the axis of the motor passes through or very near the center of gravity, the effect of imbalanced thrust is minimized. This can be accomplished by bringing the forward end of each motor closer to the axis of the rocket.</ans>
+</question>
+
+<question>
+<test>What can happen if all the motors of a cluster do not ignite at launch?</test>
+<A>a. Nothing, the rocket is inherently stable.</A>
+<B>b. The rocket may not fly straight.</B>
+<C>c. The rocket will shred.</C>
+<sol>B</sol>
+<ans>b. Not having ignition of all clustered motors results in the thrust being unsymetrical. This unbalanced thrust may force the rocket to fly in an unanticipated arc that will not achieve a vertical flight.</ans>
+</question>
+
+<question>
+<test>What is a shred?</test>
+<A>a. A failure of the rocket air frame during boost resulting in destruction of the rocket.</A>
+<B>b. A failure of the recovery system during boost.</B>
+<C>c. A failure of the motor causing early ejection.</C>
+<sol>A</sol>
+<ans>a. A shred happens when the rocket is improperly built or has a rocket motor that is too powerful for that particular rocket. In a typical shred sequence, the velocity of the rocket has increased to a point where airframe, fins or other structural parts cannot take the loads. When that part fails, it typically causes the rocket to become unstable resulting in the rapid destruction of the rocket.</ans>
+</question>
+
+<question>
+<test>What is a cato?</test>
+<A>a. A failure of the rocket resulting in failure of the air frame during boost.</A>
+<B>b. A failure of the recovery system during boost.</B>
+<C>c. A failure of the motor causing flight termination.</C>
+<sol>C</sol>
+<ans>c. A cato is short for catastrophic motor failure. This occurs when the nozzle, forward bulkhead or casing fails. The immediate result is abrupt termination of thrust which results in the rocket failing.</ans>
+</question>
+
+<question>
+<test>What is the primary requirement for a rocket motor ignitor?</test>
+<A>a. It must transfer sufficient heat to the propellant to assure ignition.</A>
+<B>b. It must produce hot, high velocity gasses to assure ignition.</B>
+<C>c. It must have a high resistance to be reliable.</C>
+<sol>A</sol>
+<ans>a. A motor ignitor must deliver sufficient heat to the propellant to ignite it. This may be in the form of hot gas, hot burning particles, a hot wire, or a combination of all three.</ans>
+</question>
+
+<question>
+<test>Most APCP (ammonium perchlorate composite propellant) rocket motors are central-burning rather than endburning:</test>
+<A>a. Because more APCP has a specific impulse that is too low for endburning motors.</A>
+<B>b. Because most APCP has a burn rate that is too low for useful endburners.</B>
+<C>c. The premise is incorrect; most APCP motors ARE endburners.</C>
+<sol>B</sol>
+<ans>b. APCP has about three times the specific impulse of black powder. But most APCP burns slowly and must have a large burning surface area as in a Bates grain or other coreburning configuration to generate enough hot gases for flight.</ans>
+</question>
+
+<question>
+<test>What is the major obstacle in most dual-deployment rockets that use a drogue and a main parachute?</test>
+<A>a. The drogue and the main can easily tangle if not properly arranged.</A>
+<B>b. The drogue slows the rocket too much and it drifts too far.</B>
+<C>c. The drogue does not slow the rocket enough and it lands hard.</C>
+<sol>A</sol>
+<ans>a. The drogue and main parachute usually must be arranged to eject from separate sections of the rocket to minimize the possibility of tangling. In some cases a drogue is not used at all, to avoid the problem.</ans>
+</question>
+
+<question>
+<test>When using an accelerometer-based altimeter in a rocket that may exceed Mach 1:</test>
+<A>a. A "Mach delay" must be built into the altimeter to avoid deployment of the recovery system at Mach.</A>
+<B>b. One or more access holes must be drilled in the electronics bay to permit access to the atmosphere during flight.</B>
+<C>c. Neither a nor b need be done.</C>
+<sol>C</sol>
+<ans>c. Accelerometers measure acceleration internally, entirely within the accelerometer chip. Access to the atmosphere is not required, and air pressure changes such as the pressure pulse of passing Mach 1 does not affect the accelerometer chip.</ans>
+</question>
+
+<question>
+<test>When using a pressure-sensor altimeter in a rocket that will not reach Mach 1:</test>
+<A>a. One or more access holes must be drilled at the base of the nose cone to permit access to the atmosphere during flight.</A>
+<B>b. A timer, but not a motor delay, may be used as backup for deployment.</B>
+<C>c. One or more holes must be drilled in the electronics bay for atmospheric access.</C>
+<sol>C</sol>
+<ans>c. A pressure-sensor altimeter does require access to the atmosphere, so the electronics bay must be vented.</ans>
+</question>
+
+<question>
+<test>What is the major issue with accelerometer-based altimeters?</test>
+<A>a. They are larger, and usually much more expensive, than pressure-sensor altimeters.</A>
+<B>b. They do not have multiple capabilities such as dual deployment, ignition of airstarts, etc.</B>
+<C>c. They may not deploy properly if the flight is significantly non-vertical.</C>
+<sol>C</sol>
+<ans>c. Accelerometers can be quite small, need not be expensive, and can have the same multiple capabilities as pressure-sensor altimeters. But the electronics of an accelerometer assume a nearly vertical light, so that a flight that deviates significantly from vertical may have problems</ans>
+</question>
+	
+
+<question>
+<test>What is generally covered in the scope of NFPA 1127?</test>
+<A>a. Design and construction of commercial high power rocket motors, high power rocket vehicles and launch operations.</A>
+<B>b. Design and construction of all amateur high power rocket motors, high power rocket vehicles and launch operations.</B>
+<C>c. Design and construction of model and high power rocket motors, model and high power rocket vehicles and launch operations.</C>
+<sol>A</sol>
+<ans>a. 1-1 Scope</ans>
+</question>
+
+<question>
+<test>The design and construction of high power rocket motors, high power rocket vehicles and launch operations is detailed in what code?</test>
+<A>a. NFPA 1122 and the Tripoli Safety Code.</A>
+<B>b. NFPA 1125 and the Tripoli Safety Code.</B>
+<C>c. NFPA 1127 and the Tripoli Safety Code.</C>
+<sol>C</sol>
+<ans>c. 1-1 Scope</ans>
+</question>
+
+<question>
+<test>Who is exempt from NFPA 1127?</test>
+<A>a. There are no exemptions to NFPA 1127, everyone must comply.</A>
+<B>b. Federal, state and local government, colleges, universities and licensed for-profit businesses engaged in high power rocketry activities.</B>
+<C>c. Individuals manufacturing high power rocket motors for their own use and/or limited distribution.</C>
+<sol>B</sol>
+<ans>b. 1-1.4(a), (b) and (c)</ans>
+</question>
+
+<question>
+<test>Individuals, firms, partnerships, joint ventures, corporations or other business entities engaged in high power rocketry activities are exempt from NFPA 1127 until what point?</test>
+<A>a. When flying high power rockets as part of a test program.</A>
+<B>b. When selling to qualified users in conformance with NFPA 1127.</B>
+<C>c. When engaged in commercial space activities.</C>
+<sol>B</sol>
+<ans>b. 1-1.4(d)</ans>
+</question>
+
+<question>
+<test>What is the purpose of NFPA 1127 and the Tripoli Safety Code?</test>
+<A>a. To provide safe and reliable motors, establish flight operations guidelines and prevent injury.</A>
+<B>b. To promote experimentation with propellant formulas, rocket designs and payload systems.</B>
+<C>c. To prevent beginning high power hobbyists from making mistakes.</C>
+<sol>A</sol>
+<ans>a. 1-2 Purpose</ans>
+</question>
+
+<question>
+<test>What is the Authority Having Jurisdiction?</test>
+<A>a. A court proceeding that rules on high power rocketry activities.</A>
+<B>b. The individual preparing a high power rocket for flight.</B>
+<C>c. The organization, office or individual responsible for approving equipment, an installation or a procedure.</C>
+<sol>C</sol>
+<ans>c. 1-3 Definitions - Authority Having Jurisdiction</ans>
+</question>
+
+<question>
+<test>What is a complex high power rocket?</test>
+<A>a. A rocket having more than one stage.</A>
+<B>b. A rocket having a cluster of rocket motors.</B>
+<C>c. Either a or b.</C>
+<sol>C</sol>
+<ans>c. 1-3 Definitions - Complex High Power Rocket</ans>
+</question>
+
+<question>
+<test>What are the minimum criteria that defines a high power rocket?</test>
+<A>a. A rocket with a single motor with more than 160 Newton-seconds total impulse or an installed impulse of 320 Newtonseconds and no more than 40,960 Newton-seconds.</A>
+<B>b. A rocket with a single motor having an average thrust in excess of 80 Newtons.</B>
+<C>c. Either a or b.</C>
+<sol>C</sol>
+<ans>c. 1-3 Definitions - High Power Rocket</ans>
+</question>
+
+<question>
+<test>What is the lower weight limit of a high power rocket?</test>
+<A>a. A rocket weighing more than 53 ounces.</A>
+<B>b. A rocket weighing less than 112 pounds.</B>
+<C>c. Both a and b.</C>
+<sol>A</sol>
+<ans>a. 1-3 Definitions - High Power Rocket</ans>
+</question>
+
+<question>
+<test>When is a recovery device not necessary in a high power rocket?</test>
+<A>a. When the high power rocket is intended for ballistic flight.</A>
+<B>b. When the rocket has a bursting charge.</B>
+<C>c. A recovery device is always necessary.</C>
+<sol>C</sol>
+<ans>c. 1-3 Definitions - High Power Rocket</ans>
+</question>
+
+<question>
+<test>A high power rocket may be constructed of what materials?</test>
+<A>a. Paper, wood, fiberglass or plastic with a minimum amount of metallic parts.</A>
+<B>b. Paper, wood, fiberglass, plastic and aluminum.</B>
+<C>c. There are no restrictions on construction materials.</C>
+<sol>A</sol>
+<ans>a. 1-3 Definitions - High Power Rocket</ans>
+</question>
+
+<question>
+<test>What is a high power rocket motor?</test>
+<A>a. A rocket motor with more than 80 Newton-seconds of total impulse and 80 Newtons average thrust.</A>
+<B>b. A rocket motor with more than 160 Newton-seconds of total impulse or 80 Newtons average thrust.</B>
+<C>c. A rocket motor with more than 160 Newton-seconds of total impulse and 160 Newtons average thrust.</C>
+<sol>B</sol>
+<ans>b. 1-3 Definitions - High Power Rocket Motor</ans>
+</question>
+
+<question>
+<test>What are the structural or load-bearing parts of a high power rocket?</test>
+<A>a. Nose cone, body tube and motor mount.</A>
+<B>b. Nose cone, body tube and fins.</B>
+<C>c. Nose cone, motor mount and fins.</C>
+<sol>B</sol>
+<ans>b. 1-3 Definitions - Structural Parts</ans>
+</question>
+
+<question>
+<test>Who may operate a high power rocket?</test>
+<A>a. Any member of a nationally recognized rocketry organization.</A>
+<B>b. Only those licensed by the federal government.</B>
+<C>c. A person that is a certified user.</C>
+<sol>C</sol>
+<ans>c. 2-1 User Certification</ans>
+</question>
+
+<question>
+<test>What operating clearances must be complied with for flying high power rockets?</test>
+<A>a. NFPA 1122, NFPA 1127 and Federal Aviation Administration Regulation Part 101.</A>
+<B>b. NFPA 1127, Federal Aviation Administration Regulation Part 101 and applicable federal, state and local regulations.</B>
+<C>c. NFPA 1122, Federal Aviation Administration Regulation Part 101 and applicable federal, state and local regulations.</C>
+<sol>B</sol>
+<ans>b. 2-2 Operating Clearances</ans>
+</question>
+
+<question>
+<test>What criteria apply to the construction of a high power rocket?</test>
+<A>a. Use suitable materials to withstand operating stresses and retain structural integrity in flight.</A>
+<B>b. Use only the lightest weight materials for the construction of high power rockets.</B>
+<C>c. Use materials that allow minimal flex of the rocket in flight.</C>
+<sol>A</sol>
+<ans>a. 2-5 Rocket Construction</ans>
+</question>
+
+<question>
+<test>When must the stability of a rocket be determined?</test>
+<A>a. If the safety monitor requests it.</A>
+<B>b. Whenever the rocket is prepared for flight.</B>
+<C>c. Both a and b.</C>
+<sol>C</sol>
+<ans>c. 2-7 Stability</ans>
+</question>
+
+<question>
+<test>What is the maximum weight of a high power rocket?</test>
+<A>a. Less than maximum liftoff weight recommended by the motor manufacturer for a given motor.</A>
+<B>b. Less than 112 pounds or 50 kg.</B>
+<C>c. There is no maximum high power rocket weight.</C>
+<sol>A</sol>
+<ans>a. 2-8.1 Weight and Power Limits</ans>
+</question>
+
+<question>
+<test>When is it permissible to catch a high power rocket?</test>
+<A>a. If the rocket weighs less than 2.2 pounds or 1 kg.</A>
+<B>b. It is never permissible to catch a high power rocket.</B>
+<C>c. If the rocket is falling slowly enough that it is deemed not to be a hazard.</C>
+<sol>B</sol>
+<ans>b. 2-9.3 Recovery</ans>
+</question>
+
+<question>
+<test>What payloads are NOT permitted in a high power rocket?</test>
+<A>a. Payloads that are flammable or explosive or intended to cause harm.</A>
+<B>b. Vertebrate animals.</B>
+<C>c. Both a and b.</C>
+<sol>C</sol>
+<ans>c. 2-10 Payloads</ans>
+</question>
+
+<question>
+<test>When must a high power rocket launching device incorporate a blast deflector?</test>
+<A>a. When necessary to prevent the rocket motor's exhaust from impinging on flammable materials.</A>
+<B>b. All launch systems must incorporate a blast deflector.</B>
+<C>c. When the design of the launch device requires it.</C>
+<sol>A</sol>
+<ans>a. 2-11.2 Launching Devices</ans>
+</question>
+
+<question>
+<test>What is the maximum launch angle from vertical for a high power rocket?</test>
+<A>a. 30°</A>
+<B>b. 20°</B>
+<C>c. There is no maximum launch angle.</C>
+<sol>B</sol>
+<ans>b. 2-11.3 Launching Devices</ans>
+</question>
+
+<question>
+<test>What are the elements of an ignition system?</test>
+<A>a. Remotely controlled, electrically operated, a launch switch that returns to OFF when released.</A>
+<B>b. Remotely controlled, electrically operated and a removable safety interlock in series with the launch switch.</B>
+<C>c. Remotely controlled, electrically operated, a launch switch that returns to OFF when released and a removable safety interlock in series with the launch switch.</C>
+<sol>C</sol>
+<ans>c. 2-12.1/2 Ignition Systems</ans>
+</question>
+
+<question>
+<test>When shall the motor ignitor(s) be installed in a high power rocket motor?</test>
+<A>a. At the launcher or a designated area.</A>
+<B>b. When the motor is installed in the rocket.</B>
+<C>c. Neither a nor b.</C>
+<sol>A</sol>
+<ans>a. 2-12.4 Ignition Systems</ans>
+</question>
+
+<question>
+<test>When shall firing circuits be armed?</test>
+<A>a. When testing ignitor continuity.</A>
+<B>b. When the rocket is in the launching position.</B>
+<C>c. Both a and b.</C>
+<sol>B</sol>
+<ans>b. 2-12.5 Ignition Systems</ans>
+</question>
+
+<question>
+<test>What is the Launch Site Dimensions Table used for?</test>
+<A>a. For all high power rocket flights.</A>
+<B>b. When there is a question relating to the diameter of sides of the launching area.</B>
+<C>c. As the standard for minimum launch site dimensions.</C>
+<sol>C</sol>
+<ans>c. 2-13.2 Launch Site</ans>
+</question>
+
+<question>
+<test>What is the alternate launch site criterion.</test>
+<A>a. No less than 1500 feet.</A>
+<B>b. No less than one-half the maximum altitude expected or granted by the FAA.</B>
+<C>c. Both a and b.</C>
+<sol>C</sol>
+<ans>c. 2-13.4 Launch Site</ans>
+</question>
+
+<question>
+<test>What is the minimum distance from an occupied building or public highway for a launch site?</test>
+<A>a. 1000 feet.</A>
+<B>b. 1500 feet.</B>
+<C>c. No minimum distance if the building occupants are informed of the activity.</C>
+<sol>B</sol>
+<ans>b. 2-14.3 Launcher Location</ans>
+</question>
+
+<question>
+<test>How close can spectators be to a high power rocket launch?</test>
+<A>a. At the distance defined by, and behind, the Safety Monitor.</A>
+<B>b. At the distance shown in the Safe Distances Table.</B>
+<C>c. Both a and b.</C>
+<sol>A</sol>
+<ans>a. 2-15.2 Safe Distances</ans>
+</question>
+
+<question>
+<test>What is the maximum altitude allowed for flying high power rockets if there is a cloud ceiling of 3000 feet?</test>
+<A>a. 3500 feet.</A>
+<B>b. To the limited of the FAA waiver.</B>
+<C>c. Neither a nor b.</C>
+<sol>C</sol>
+<ans>c. 2-16.1 Launch Operations</ans>
+</question>
+
+<question>
+<test>What is the limit of surface wind for launching a high power rocket?</test>
+<A>a. 30 MPH.</A>
+<B>b. 20 MPH.</B>
+<C>c. 15 MPH.</C>
+<sol>B</sol>
+<ans>b. 2-16.2 Launch Operations</ans>
+</question>
+
+<question>
+<test>When may a high power rocket be launched?</test>
+<A>a. After warning the spectators and giving a 5 second countdown.</A>
+<B>b. When all systems are ready and after a 5 second countdown.</B>
+<C>c. After informing and getting permission and attention from the safety monitor.</C>
+<sol>C</sol>
+<ans>c. 2-17.1 Launch Control</ans>
+</question>
+
+<question>
+<test>Ammonium perchlorate composite propellant (APCP) reload modules and APCP high power rocket motors shall be stored in what type of container?</test>
+<A>a. A Type 3 or Type 4 indoor/outdoor magazine.</A>
+<B>b. An airtight, resealable, non-combustible container.</B>
+<C>c. A container that provides reasonably safe storage for non-explosive flammable material.</C>
+<sol>C</sol>
+<ans>c. Following conclusion of the TRA/NAR-BATFE lawsuit in March 2009, APCP has been deemed not to be an explosive, and need not be stored in an explosives magazine.</ans>
+</question>
+
+<question>
+<test>What is the minimum distance for smoking (or open flames) from high power rocket motors, motor reloading kits and pyrotechnic modules?</test>
+<A>a. 10 feet.</A>
+<B>b. 25 feet.</B>
+<C>c. There is no minimum distance.</C>
+<sol>B</sol>
+<ans>b. 2-17.5 Launch Control</ans>
+</question>
+
+<question>
+<test>What quantity of high power rocket motors, motor reloading kits and pyrotechnic modules may be stored in an indoor magazine?</test>
+<A>a. 25 pounds.</A>
+<B>b. 50 pounds.</B>
+<C>c. There is no limit.</C>
+<sol>C</sol>
+<ans>c. Following conclusion of the TRA/NAR-BATFE lawsuit in March 2009, APCP has been deemed not to be an explosive, and need not be stored in an explosives magazine.</ans>
+</question>
+
+<question>
+<test>According to NFPA 1127, who is permitted to produce for sale a solid propellant high power rocket motor?</test>
+<A>a. A commercial manufacturer.</A>
+<B>b. Anyone with the knowledge.</B>
+<C>c. Holders of a BATF Explosives Manufacturer License.</C>
+<sol>A</sol>
+<ans>a. 3-1 Certification Requirements</ans>
+</question>
+
+<question>
+<test>A commercial manufacturer of high power rocket motors may produce what kind of motors?</test>
+<A>a. Expendable, solid propellant high power rocket motors.</A>
+<B>b. Reloadable non-expendable solid propellant high power rocket motors.</B>
+<C>c. Either of the above.</C>
+<sol>C</sol>
+<ans>c. 3-1 Certification Requirements</ans>
+</question>
+
+<question>
+<test>What variation is permitted in the certified total impulse and delay time of commercial high power rocket motors?</test>
+<A>a. 10%</A>
+<B>b. 20%</B>
+<C>c. 30%</C>
+<sol>B</sol>
+<ans>b. NFPA 1125 7.8.6-1</ans>
+</question>
+
+<question>
+<test>When may a solid propellant high power rocket motor be shipped and stored with the ignitor installed?</test>
+<A>a. It is never permissible to ship or store a solid propellant high power rocket motor with the ignitor in place.</A>
+<B>b. When the rocket will be launched within 48 hours of ignitor installation.</B>
+<C>c. Neither a nor b.</C>
+<sol>A</sol>
+<ans>a. NFPA 1125 7.10</ans>
+</question>
+
+<question>
+<test>What is the key prerequisite for certification of a solid propellant high power rocket motor?</test>
+<A>a. Prior classification by the U.S. Department of Transportation as a UN Division 1.3 or 1.4 explosive or written acknowledgement of the motor or reload kit as a flammable solid.</A>
+<B>b. Authorization for manufacture of solid propellant high power rocket motors from the Authority Having Jurisdiction.</B>
+<C>c. Registration of the propellant formula and characteristics with the Bureau of Alcohol, Tobacco, Firearms and Explosives.</C>
+<sol>A</sol>
+<ans>a. NFPA 1125 8.2.1</ans>
+</question>
+
+<question>
+<test>When must the manufacturer report changes to the authority that originally certified the certified high power rocket motor?</test>
+<A>a. If the design results in greater than 20% deviation from the performance established at certification.</A>
+<B>b. Within 30 days of the change.</B>
+<C>c. No reports must be made.</C>
+<sol>B</sol>
+<ans>b. NFPA 1125 8.2.6/8.2.7</ans>
+</question>
+
+<question>
+<test>Who may receive a solid propellant high power rocket motor?</test>
+<A>a. A certified user.</A>
+<B>b. Any member of a nationally recognized rocketry organization.</B>
+<C>c. Any person over the age of 18.</C>
+<sol>A</sol>
+<ans>a. 4-1 Sales Only to Certified Users</ans>
+</question>
+
+<question>
+<test>What is the age limit Tripoli recognizes for a certified solid propellant high power rocket motor user?</test>
+<A>a. 21 years of age.</A>
+<B>b. 18 years of age.</B>
+<C>c. There is no age limit.</C>
+<sol>B</sol>
+<ans>b. It should be noted that local laws may determine otherwise. All members are encouraged to obey any law that applies to them.</ans>
+</question>
+
+<question>
+<test>When may a high power rocket motor be used for spectacular displays of color, light and/or sound?</test>
+<A>a. When used in a public display.</A>
+<B>b. When properly designed for that purpose.</B>
+<C>c. They may not be used for this application.</C>
+<sol>C</sol>
+<ans>c. NFPA 1127 6.1.1</ans>
+</question>
+
+<question>
+<test>When is the sale, offering for sale and/or exposing for sale of uncertified motors permissible?</test>
+<A>a. When the motors are not to be transported outside the state of manufacture.</A>
+<B>b. When the sale of motors are limited to certified users.</B>
+<C>c. It is never permitted.</C>
+<sol>C</sol>
+<ans>c. 5-3 Prohibited Activities</ans>
+</question>
+
+<question>
+<test>When is conveying a high power rocket motor to an uncertified person permitted?</test>
+<A>a. When the person is preparing to certify as a high power user.</A>
+<B>b. When the person is a resident of the state in which the transfer took place.</B>
+<C>c. It is never permitted.</C>
+<sol>A</sol>
+<ans>a. 5-7 Prohibited Activities</ans>
+</question>
+
+<question>
+<test>When is it permissible to consume alcohol when prepping or launching high power rockets?</test>
+<A>a. When the preparation is done the day before the launch.</A>
+<B>b. If the blood alcohol level is below the "impaired" level.</B>
+<C>c. It is never permitted.</C>
+<sol>C</sol>
+<ans>c. 5-9 Prohibited Activities</ans>
+</question>
+
+<question>
+<test>Organizations that may certify high power rocket motors include:</test>
+<A>a. Tripoli Rocketry Association (TRA) and the National Association of Rocketry (NAR) only.</A>
+<B>b. The Bureau of Alcohol, Tobacco, Firearms, and Explosives (BATFE).</B>
+<C>c. TRA, NAR, the Canadian Association of Rocketry (CAR) and the United Kingdom Rocketry Association (UKRA).</C>
+<sol>C</sol>
+<ans>c. These are the currently recognized testing authorities HPSC 3-1.</ans>
+</question>
+
+<question>
+<test>What organizations may currently certify users of high power rocket motors?</test>
+<A>a. Tripoli Rocketry Association (TRA) and the National Association of Rocketry (NAR) only.</A>
+<B>b. The Bureau of Alcohol, Tobacco, Firearms, and Explosives (BATFE).</B>
+<C>c. TRA, NAR, the Canadian Association of Rocketry (CAR), and the United Kingdom Rocketry Association (UKRA).</C>
+<sol>C</sol>
+<ans>c. These are the organizations that currently have a reciprocal certification agreement with TRA.</ans>
+</question>
+
+<question>
+<test>What document has been adopted by the Tripoli Rocketry Association as The Tripoli Safety Code?</test>
+<A>a. NFPA 1127</A>
+<B>b. NFPA 1125</B>
+<C>c. NFPA 1122</C>
+<sol>A</sol>
+<ans>a. Appendix B-1</ans>
+</question>
+
+<question>
+<test>Who in Tripoli may certify a member Level 1 or Level 2?</test>
+<A>a. The prefect.</A>
+<B>b. A TAP member.</B>
+<C>c. A member of the Board of Directors, the prefect, or a TAP member.</C>
+<sol>C</sol>
+<ans>c. Certification Rules.</ans>
+</question>
+
+<question>
+<test>Who is allowed in the launch area at a Tripoli research launch?</test>
+<A>a. Any invited person.</A>
+<B>b. Any member of TRA, NAR, CAR or UKRA.</B>
+<C>c. Any Tripoli member 18 years old or older.</C>
+<sol>C</sol>
+<ans>c. Tripoli Research Code.</ans>
+</question>
+
+<question>
+<test>When is electronically actuated recovery necessary?</test>
+<A>a. There is no requirement, it is up to the flier.</A>
+<B>b. A high powered rocket launched with an installed impulse greater than 2560 N-sec.</B>
+<C>c. A high powered rocket launched with an installed impulse greater than 5120 N-sec.</C>
+<sol>B</sol>
+<ans>b. NFPA 1127 4.10.2</ans>
+</question>
+    </exam>

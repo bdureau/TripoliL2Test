@@ -1,0 +1,872 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<exam>
+	<question>
+		<test>Quelle loi de Newton décrit-elle le mieux le comportement d’un moteur de fusée ?</test>
+	<A>a. La Première Loi : Un corps persiste dans son état de repos ou de mouvement rectiligne uniforme à moins qu’il soit obligé de changer cet état par des forces exercées sur lui.</A>
+         <B>b. La Deuxième Loi : Le taux de changement d'impulsion est proportionnel à la force exercée et est dans la même direction que cette force.</B>
+         <C>c. La Troisième Loi : A toute action correspond une réaction de force égale et opposée.</C>
+		<sol>C</sol>
+		<ans>c. La 3eme loi de Newton. Lorsque l'on applique une force dans un sens il y a toujours la même force dans le sens contraire.</ans>
+	</question>
+	<question>
+		<test>Quelle est la relation entre la Troisième Loi de Newton (à toute action correspond une réaction de force égale et opposée) et une fusée ?</test>
+	<A>a. La plaque de déviation de jet de la rampe doit être suffisamment solide pour pousser la fusée vers le haut.</A>
+         <B>b. La fusée vole, parce que le moteur « pousse » la fusée dans la direction opposée au jet de gaz.</B>
+         <C>c. La poussée d’une fusée est proportionnelle à la densité de l’air sur le site de lancement.</C>
+		<sol>B</sol>
+		<ans>b. La poussée du moteur fusée entraîne l'accélération de la fusée dans la direction opposée à la poussée du moteur. Ainsi un moteur fusée pousse seulement sur la fusée, pas sur l'air ni la rampe de lancement.</ans>
+	</question>
+	<question>
+		<test>Quelles sont les trois forces qui agissent sur une fusée pendant son vol ?</test>
+         <A>a. La poussée, le diamètre de la fusée et la finition.</A>
+         <B>b. La forme de l’ogive, la poussée et la traînée.</B>
+         <C>c. La gravité, la poussée et la traînée aérodynamique.</C>
+		<sol>C</sol>
+		<ans>c. La Gravité, la poussée et la trainée sont les forces qui agissent sur une fusée.</ans>
+	</question>
+	<question>
+		<test>Quels sont les 3 principaux facteurs qui ont le plus d’influence dans la détermination de l’altitude d’une fusée de haute puissance en vol vertical ?</test>
+         <A>a. Le poids au décollage, le poids du combustible et la poussée du moteur.</A>
+         <B>b. La taille des ailerons, le poids du combustible et la poussée du moteur.</B>
+         <C>c. La poussée du moteur, le poids et la traînée aérodynamique.</C>
+		<sol>C</sol>
+		<ans>c. La poussée du moteur, le poids et la trainée aérodynamique sont les forces primaire dont il faut tenir compte lors de la détermination de l'altitude d'une fusée. Veuillez noter que dans le poids de la fusée il faut tenir compte du poids au décollage et du poids après que la combustion soit complète.</ans>
+	</question>
+	<question>
+		<test>Pour une fusée stable, quelle est la relation entre le centre de gravité (CG) et le centre de pression (CP) ?</test>
+	<A>a.Le CG doit être derrière le CP par rapport au sens de vol.</A>
+         <B>b. Le CG doit être devant le CP par rapport au sens de vol.</B>
+         <C>c. Le CG doit avancer (par rapport au sens de vol) pendant la combustion du moteur.</C>
+		<sol>B</sol>
+		<ans>b. Le centre de pression (CP) est centré là ou il y a la portance aérodynamique, ceci est du à la fusée qui a un angle d'attaque différent de zéro. Pour une fusée aérodynamiquement stable avec le CP derrière le centre de gravité (CG), la portance qui est centrée derrière le CG créera un moment correctif pour ramener la fusée à un angle d'attaque égale à zéro degrés. A l'inverse, si le CP est devant le CG la portance tentera de retourner la fusée de manière à ce que le CP soit à nouveau derrière le CG. La "culbute" qui en résulte est caractéristique d'une fusée instable.</ans>
+	</question>
+	<question>
+		<test>Le centre de gravité (CG) d’une fusée de 10 cm (4") de diamètre avec son moteur est situé à 10 cm (4") derrière son centre de pression (CP). Cette fusée est-elle stable ?</test>
+		<A>a. Non, le CG doit être au moins deux diamètres derrière le CP.</A>
+         <B>b. Non, le CP doit être derrière le CG pour que la fusée soit stable.</B>
+         <C>c. Oui, le CP est devant le CG d’un diamètre.</C>
+		<sol>B</sol>
+		<ans>b. La fusée n’est pas stable car si la fusée est mise en rotation autours de son centre de gravité (CG), la force aérodynamique encore plus grande devant le CG mettra encore plus la fusée en rotation ce qui conduira à un vol instable.</ans>
+	</question>
+	<question>
+		<test>Le centre de pression (CP) d’une fusée est généralement défini par:</test>
+         <A>a. Le point d’équilibre de la fusée sans le moteur.</A>
+         <B>b. La moitié de l’aire totale des ailerons, de l’ogive et du corps de la fusée.</B>
+         <C>c. Le point auquel la portance aérodynamique s’applique. </C>
+		<sol>C</sol>
+		<ans>c. Le centre de pression (CP) est le point sur la fusée ou la portance aérodynamique est centrée. Cela veut dire que la portance aérodynamique si la fusée a un angle d'attaque différent de zéro devant ce point, il est équilibré par la portance aérodynamique derrière ce point.</ans>
+	</question>
+	<question>
+		<test>Quelle est la "règle générale" pour avoir une fusée stable ?</test>
+         <A>a. Le centre de gravité doit être devant le centre de pression d’un diamètre de corps de fusée.</A>
+         <B>b. Le centre de gravité doit être confondu avec le centre de pression.</B>
+         <C>c. La fusée devrait être équilibrée près ou au centre de gravité</C>
+		<sol>A</sol>
+		<ans>a. Garder le centre de gravité (CG) un diamètre de corps devant le centre de pression (CP) permet d'avoir une marge convenable pour la stabilité de la fusée.</ans>
+	</question>
+	<question>
+		<test>Pour déterminer le centre de gravité (CG) d’une fusée avec un moteur plus lourd sur le site de lancement, on peut : </test>
+         <A>a. Mettre en place le moteur, le système de récupération et la charge utile et déterminer le point d’équilibre de la fusée dans sa configuration de vol.</A>
+         <B>b. Trouver le point d’équilibre avec un moteur vide, parce que c’est dans cette configuration que la fusée sera en fin de propulsion.</B>
+         <C>c. Il n’est pas nécessaire de trouver le CG avec un moteur plus puissants, car la poussée est plus importante.</C>
+	 		<sol>A</sol>
+	 		<ans>a. Mesurer le centre de gravité (CG) en mettant en équilibre la fusée demande que la fusée soit en configuration de vol. Il est d’autant plus important de le vérifier lorsque l’on utilise un moteur plus lourd que pour le précédent vol.</ans>
+	</question>
+<question>
+		<test>Comment le centre de gravité (CG) d’une fusée évolue-t-il pendant la phase propulsive d’un moteur à combustible solide?</test>
+         <A>a. Le CG reste le même.</A>
+         <B>b. Le CG se déplace vers l’avant.</B>
+         <C>c. Le CG se déplace vers l’arrière.</C>
+		<sol>B</sol>
+		<ans>b. Lorsque le propergol brule le moteur devient plus léger ce qui déplace en avant le point d’équilibre ou le centre de gravité (CG). C’est pourquoi une fusée en limite de stabilité pourra « se comporter de façon étrange » au lancement, puis ensuite se stabiliser et voler droit.</ans>
+	</question>
+<question>
+		<test>Comment une fusée instable peut-elle être rendue stable ?</test>
+         <A>a. En utilisant un moteur plus lourd.</A>
+         <B>b. En ajoutant du poids dans l’ogive.</B>
+         <C>c. En raccourcissant la fusée.</C>
+		<sol>B</sol>
+		<ans>b. Ajouter suffisamment de poids dans l’ogive déplacera le centre de gravité (CG) plus en avant du centre de pression (CP).</ans>
+	</question>
+<question>
+		<test>Qu'elles sont les 3 méthodes utilisées pour déplacer le centre de gravité (CG) d'une fusée vers l'avant?</test>
+         <A>a. Ajout de poids dans l'ogive, allonger la fusée, installer des ailerons plus large.</A>
+         <B>b. Ajout de poids dans l'ogive, allonger la fusée,  utiliser un moteur plus petit (ou plus léger).</B>
+         <C>c. Ajout de poids dans l'ogive, raccourcir la fusée, utiliser un moteur plus petit.</C>
+		<sol>B</sol>
+		<ans>b. Déplacer le centre de gravité (CG) vers l’avant demande des changements judicieux dans la conception. Ce qui suit est donné comme règles générales : L’ajout de poids dans l’ogive déplace le CG vers l’avant en contrebalançant la fusée. Imaginez que la fusée est un levier ; allonger la fusée déplace le CG vers l’avant en faisant un levier plus long. Utiliser un moteur plus petit (plus léger) diminue le poids à l’arrière déplaçant ainsi le CG vers l’avant.</ans>
+	</question>
+<question>
+		<test>Quelles sont les 3 méthodes utilisées pour déplacer le centre de pression (CP) en arrière?</test>
+         <A>a. Racourcir la fusée, utilser des ailerons plus grand, augmenter le nombre d'ailerons.</A>
+         <B>b. Racourcir la fusée, utiliser des ailerons plus petits, ajouter du poids à l'ogive.</B>
+         <C>c. Racourcir la fusée, changer le nombre d'ailerons, utiliser une rampe de lancement plus longue.</C>
+		<sol>A</sol>
+		<ans>a. Déplacer le centre de pression (CP) vers l’avant demande des changements judicieux dans la conception. Ce qui suit est donné comme règles générales : l’augmentation de la surface des ailerons déplacera le CP vers l’arrière. Ceci peut être accompli en augmentant la surface de chaque aileron et/ou en augmentant le nombre d’ailerons. Le CP peut également être déplacé vers l’arrière en raccourcissant la fusée. Ceci est en général déconseillé car le centre de gravité (CG) peut également être déplacé vers l’arrière et la relation de stabilité CP/CG peut être compromise.</ans>
+	</question>
+<question>
+		<test>La définition du coefficient de trainée (C d ) est:</test>
+         <A>a. Un nombre sans unité qui représente l'effet de la gravité et le nombre de Mach de la fusée.</A>
+         <B>b. Un nombre sans unité lié à la configuration de la fusée, le nombre de Mach et l’angle d'attaque.</B>
+         <C>c. La force, en Newtons, exercée sur la fusée par l'atmosphère.</C>
+		<sol>B</sol>
+		<ans>b. Le coefficient de trainée (C d) est un nombre qui est utilisé dans les équations pour calculer la performance aérodynamique d’une fusée. Les valeurs constituant le C d sont la configuration de la fusée (forme de l’ogive, diamètre(s) du fuselage, sections des transitions, taille des ailerons et formes, etc.), la vitesse de la fusée en tant que  nombre de Mach  et l’angle d’attaque.</ans>
+	</question>
+<question>
+		<test>Qu'arrive t'il au coefficient de trainée (C d ) lorsque la fusée s'approche de la vitesse du son?</test>
+         <A>a. Le C d diminue.</A>
+         <B>b. Le C d reste le même.</B>
+         <C>c. Le C d augmente.</C>
+		<sol>C</sol>
+		<ans>c. Le coefficient de trainée (C d) augmente et peut être supérieur à 1 puisque la fusée dépasse Mach 1.</ans>
+	</question>
+<question>
+		<test>Pour une fusée supersonique, quels facteurs affectent principalement le coefficient de trainée (C d )?</test>
+         <A>a. Poussée du moteur, diamètre du corps, forme de l'ogive et forme des ailerons.</A>
+         <B>b. Vitesse, dimensions du fuselage, forme de l'ogive et forme des ailerons.</B>
+         <C>c. Gravité, dimensions du fuselage, forme de l'ogive et forme des ailerons.</C>
+		<sol>B</sol>
+		<ans>b. Lorsque la vitesse croit, le coefficient de trainée change. La longueur et le diamètre de la fusée rentrent en compte dans la surface totale. La forme de l’ogive affecte le flux d’air à l’avant de l’ogive. La forme des ailerons et la surface des ailerons affectent la surface totale.</ans>
+	</question>
+<question>
+		<test>Quel est l’impact d’un « boat tail » (Forme en ogive de la partie arrière de la fusée)  sur le coefficient de trainée (C d ) d’une fusée subsonique?</test>
+         <A>a. Aucun effet, un « boat tail » est une conception esthétique.</A>
+         <B>b. Il augmente le coefficient de trainée C d en modifiant le flux d’air sur les ailerons.</B>
+         <C>c. Il diminue le coefficient de trainée C d en diminuant la trainée à la base.</C>
+		<sol>C</sol>
+		<ans>c. « Un boat tail » (Forme en ogive de la partie arrière de la fusée)  réduit la trainée pour une fusée subsonique en réduisant la trainée de la base résultant de la discontinuité du flux d’air lorsqu’il quitte la fin de la fusée.</ans>
+	</question>
+<question>
+		<test>Le vol d’une fusée de haute puissance peut être séparé en 3 phases ; qui sont: </test>
+         <A>a. Allumage, fin de combustion et altitude max.</A>
+         <B>b. Vol propulsé, montée non propulsée et altitude max.</B>
+         <C>c. Vol propulsé, montée non propulsée et descente.</C>
+		<sol>C</sol>
+		<ans>c. Les trois phases du vol d’une fusée haute puissance sont: (1) Vol motorisé – la période pendant laquelle le moteur fusée produit de la poussée contre la gravité et la trainée; (2) Monté non-motorisé – la période après le vol motorisé ou le moment de la fusée permet à la fusée d’atteindre l’apogée et qui est affecté par la gravité et la trainée; (3) La descente – retour de la fusée sur la terre affecté par la gravité et la trainée. </ans>
+	</question>
+<question>
+		<test>Qu’est ce qui caractérise la courbe de poussée d’un moteur régressif?</test>
+         <A>a. Une poussée initiale forte comparée à la fin de la poussée du moteur.</A>
+         <B>b. Une poussée initiale faible comparée à la fin de la poussée du moteur.</B>
+         <C>c. La courbe de poussée est constante.</C>
+		<sol>A</sol>
+		<ans>a. Durant la combustion d'un moteur régressif, la poussée diminue ou régresse par ce que la surface de combustion du propergol diminue. Ceci est typique des blocs (grains) avec une encoche.</ans>
+	</question>
+<question>
+		<test>Qu’est ce qui caractérise la courbe de poussée d’un moteur progressif?</test>
+         <A>a. Une diminution générale de la poussée durant la combustion.</A>
+         <B>b. Une augmentation générale de la poussée durant la combustion.</B>
+         <C>c. La courbe de poussée reste constante à l’allumage et à la fin de la combustion.</C>
+		<sol>B</sol>
+		<ans>b. Durant la combustion d’un moteur progressif, la poussée augmente ou progresse car la surface de combustion augmente. Ceci est typique des moteurs dit “core burner”.</ans>
+	</question>
+<question>
+		<test>Un bloc (grain) Bates a une courbe de poussée relativement neutre par ce que:</test>
+         <A>a. Les moteurs avec un canal central (core) sont toujours neutres..</A>
+         <B>b. La surface du propergol qui brule reste relativement constante.</B>
+         <C>c. Le canal central (core) est centré dans le bloc (grain) de propergol.</C>
+		<sol>B</sol>
+		<ans>b. Durant la combustion du moteur depuis la sortie de la cheminée, la fin du bloc brule également ce qui fait un bloc plus court. Cela se traduit par une surface de combustion relativement constante. </ans>
+	</question>
+<question>
+		<test>A quoi servent "le liner" et les joints toriques dans un moteur fusée solide?</test>
+         <A>a. Pour maintenir en place toutes les pièces avant l'allumage du moteur fusée.</A>
+         <B>b. Pour permettre un nettoyage aisé du moteur rechargeable.</B>
+         <C>c. Pour empêcher les gaz chaud du moteur de bruler ou faire fondre l'enveloppe du moteur.</C>
+		<sol>C</sol>
+		<ans>c. Le "liner" empêche le propergol en fusion (typiquement > 5000°F) de toucher l’enveloppe du moteur (l’aluminium fond à 1075°F) tandis que les joints toriques assurent l’étanchéité des extrémités pour garder les gaz chaud ou ils doivent être, c’est à dire passer à travers la tuyère.</ans>
+	</question>
+<question>
+		<test>Quel est l'oxydant le plus couramment utilisé dans les moteurs fusée composite de haute puissance ?</test>
+         <A>a. Perchlorate d'Ammonium.</A>
+         <B>b. Nitrate d'Ammonium.</B>
+         <C>c. Chlorate d'Ammonium.</C>
+		<sol>A</sol>
+		<ans>a. Le Perchlorate d’Ammonium est NH 4 ClO 4, il est utilisé dans pratiquement tous les moteurs modernes de fusées à propergol solide. </ans>
+	</question>
+<question>
+		<test>Qu'est-ce que le NH 4 ClO 4 ?</test>
+         <A>a. Perchlorate d'Ammonium.</A>
+         <B>b. Nitrate d'Ammonium.</B>
+         <C>c. Chlorate d'Ammonium.</C>
+		<sol>A</sol>
+		<ans>a. NH 4 ClO 4 est la formule chimique du Perchlorate d’Ammonium</ans>
+	</question>
+<question>
+		<test>Un petit trou est en général percé près du haut du fuselage d’une fusée de haute puissance,  en dessous de l’ogive ou de la section dans laquelle se trouve la charge utile. Pourquoi ?</test>
+         <A>a. Ce trou évacue l’excès de pression de la charge d’éjection, pour réduire la tension sur le "cordon de choc".</A>
+         <B>b. Le trou permet aux altimètres de mesurer la pression de l’air.</B>
+         <C>c. Le trou évacue la pression de l’air interne lorsque la fusée prend de l’altitude pour éviter une éjection prématurée.</C>
+		<sol>C</sol>
+		<ans>c. La pression de l’air à l’extérieur de la fusée décroit lorsque la fusée monte. La pression emprisonnée (plus forte) à l’intérieur de la fusée peu séparer prématurément la fusée. Le trou permet d’équilibrer cette pression interne pour éviter la séparation. La taille du trou dépend de la taille de la fusée et du volume de l’air à équilibrer; les fuselages plus grands demandent des trous plus grands. Positionnez avec soin le trou pour éviter que l’ogive ou le coupleur de la baie pour charge utile ne bloque pas le trou. Assurez vous de placer le trou à un endroit ou la pression provoquée par la charge d’éjection n’est pas évacuée avant le déploiement du système de récupération.</ans>
+	</question>
+<question>
+		<test>Que se passe t’il lorsque l’orifice d’un injecteur d’un moteur fusée hybride idéale est réduit (en supposant que le poids de l’oxydant reste le même)?</test>
+         <A>a. L’impulsion totale diminue et la poussée moyenne augmente.</A>
+         <B>b. L’impulsion totale reste la même et la poussée moyenne augmente.</B>
+         <C>c. L’impulsion totale reste la même et la poussée moyenne diminue.</C>
+		<sol>C</sol>
+		<ans>c. Moins d’orifices d’injection ou des plus petits permet de distribuer en moyenne moins d’oxydant ce qui réduit la poussée moyenne. Puisque la même quantité d’oxydent est utilisée, l’impulsion totale reste la même. </ans>
+	</question>
+<question>
+		<test>Que se passe t’il lorsque le diamètre de l’orifice d’un injecteur d’un moteur fusée hybride idéale est agrandi (en supposant que le poids de l’oxydant reste le même)?</test>
+<A>a. L’impulsion totale diminue et la poussée moyenne augmente.</A>
+         <B>b. L’impulsion totale reste la même et la poussée moyenne augmente.</B>
+         <C>c. L’impulsion totale reste la même et la poussée moyenne diminue.</C>
+		<sol>B</sol>
+		<ans>b. Plus d’orifices d’injection ou des plus large permet de distribuer en moyenne plus d’oxydent ce qui augmente la poussée moyenne. Puisque la même quantité d’oxydent est utilisée, l’impulsion totale reste la même.   </ans>
+	</question>
+<question>
+		<test>Quel est l'oxydent le plus utilisé dans un moteur fusée hybride commercial?</test>
+         <A>a. N2O</A>
+         <B>b. N2O4</B>
+         <C>c. NO2</C>
+		<sol>A</sol>
+		<ans>a. N 2 O ou protoxyde d’azote, également appelé NOX.</ans>
+	</question>
+<question>
+		<test>Quelle est la pression nominale du réservoir de protoxyde d'azote dans un moteur hybride a 75°F (24°C)?</test>
+         <A>a. 100 psi</A>
+         <B>b. 750 psi</B>
+         <C>c. 1500 psi</C>
+		<sol>B</sol>
+		<ans>b. A température ambiante le protoxyde d’azote se liquéfie à 750 psi. </ans>
+	</question>
+<question>
+		<test>Au-dessus de quelle température le protoxyde d'azote sous pression se change en gaz?</test>
+         <A>a. 97°F (36°C)</A>
+         <B>b. 75°F (24°C)</B>
+         <C>c. 37°F (03°C)</C>
+		<sol>A</sol>
+		<ans>a. Au dessus de 97°F le NOX se change en gaz surcritique.</ans>
+	</question>
+<question>
+		<test>Une fusée avec un cluster de moteurs composé d’un moteur central composite et de 4 moteurs poudre noire utilisant 4 allumeurs identiques :</test>
+         <A>a. Aura tous les moteurs qui s’allument à peu près en même temps.</A>
+         <B>b. Aura le moteur composite qui s’allumera d’abord suivi par les moteurs à poudre noire.</B>
+         <C>c. Aura les moteurs à poudre noire qui s’allumeront en premier suivi par le moteur composite central.</C>
+		<sol>C</sol>
+		<ans>c. Les moteurs à poudre noir n’ont pas un temps de démarrage significatif et ils s’allumeront dès qu’ils rencontrent une flamme. Les moteurs composites à base de Perchlorate d’ Ammonium ont besoin de chaleur et de pression pour commencer le processus de combustion et demande généralement au moins une seconde avant que l’allumage a lieu.</ans>
+	</question>
+<question>
+		<test>Qu’arrive-t-il à une fusée à la limite de la stabilité dans la phase de poussée du moteur lorsqu’elle est propulsée par un moteur hybride?</test>
+         <A>a. Rien.</A>
+         <B>b. La fusée peu potentiellement devenir plus stable.</B>
+         <C>c. La fusée peu potentiellement devenir moins stable.</C>
+		<sol>C</sol>
+		<ans>c. Comme le centre de gravité (CG) d’un moteur hybride se déplace vers l’arrière, le CG de la fusée le fait également ce qui peu conduire à un vol instable.</ans>
+	</question>
+<question>
+		<test>De façon général l’impulsion spécifique d’un moteur fusée est:</test>
+         <A>a. La poussée totale du moteur au cours du temps.</A>
+         <B>b. L’impulsion totale divisée par unité de poids du propergol.</B>
+         <C>c. Inversement proportionnel au diamètre et longueur du bloc (grain) de propergol.</C>
+		<sol>B</sol>
+		<ans>b. L’impulsion spécifique est un terme utilisé pour définir le rendement d’un propergol fusée elle est l’impulsion totale par rapport à la masse d’un propergol donné.</ans>
+	</question>
+<question>
+		<test>De façon générale, l’impulsion totale d’un moteur fusée peut être décrite comme:</test>
+         <A>a. Le produit de la poussée moyenne du moteur avec la durée de combustion.</A>
+         <B>b. Le produit du poids du propergol avec la durée de combustion.</B>
+         <C>c. Le produit du poids du propergol avec la poussée du moteur.</C>
+		<sol>A</sol>
+		<ans>a. L’impulsion totale est la quantité de poussée produite par un moteur pendant qu’il est en fonctionnement. A titre d’exemple, un moteur peu produire 10 livres de poussée pendant 4 secondes ce qui se traduit par une impulsion totale de 40 livres-secondes. </ans>
+	</question>
+<question>
+		<test>La poussée moyenne d’un moteur de fusée est de 100 Newtons et le temps de combustion est de 4 secondes. Quelle est l’impulsion totale?</test>
+         <A>a. 25 Newton-secondes</A>
+         <B>b. 400 Newton-secondes</B>
+         <C>c. 400 newtons</C>
+		<sol>B</sol>
+		<ans>b. Multiplier la poussée moyenne (100 Newtons) par le temps de combustion (4 secondes) pour avoir l’impulsion totale de 400 Newton-secondes.</ans>
+	</question>
+<question>
+		<test>Lequel des moteurs listé ci-dessous a la plus grande impulsion totale?</test>
+         <A>a. J200</A>
+         <B>b. J400</B>
+         <C>c. K200</C>
+		<sol>C</sol>
+		<ans>c. Le moteur J a une plage de 641 à 1280 Newton-secondes et le moteur K a une impulsion totale dont la plage s’étend de 1281 à 2560 Newton-secondes.</ans>
+	</question>
+<question>
+		<test>Lequel des moteurs listé ci-dessous a la plus grande poussée moyenne?</test>
+         <A>a. J200</A>
+         <B>b. J400</B>
+         <C>c. K200</C>
+		<sol>B</sol>
+		<ans>b. Même si l’impulsion totale du moteur K est supérieure à celle du moteur J, la poussée moyenne est de 400 Newtons par rapport aux 200 Newtons du moteur K.</ans>
+	</question>
+<question>
+		<test>Quelle est la différence entre les moteurs fusée haute puissance J640 et J320 (en supposant que ce sont des moteurs J à 1280 Newton-secondes)?</test>
+         <A>a. Le J320 brule 2 fois plus vite que le J640.</A>
+         <B>b. Il n’y a pas de différence entre les moteurs, les numéros sont uniquement des références du fabriquant.</B>
+         <C>c. Le J640 brule 2 fois plus vite que le J320.</C>
+		<sol>C</sol>
+		<ans>c. Le temps de combustion est déterminé en divisant l’impulsion total (J = 1280) par la poussée moyenne de chaque moteur. Le temps de combustion pour le J640 est: 1280 Newton-secondes ÷ 640 = 2 secondes, et pour le J320 est: 1280 Newton-secondes ÷ 320 Newtons = 4 secondes.</ans>
+	</question>
+<question>
+		<test>Lequel ci-dessous a une impulsion totale (I t ) dans la plage d’un moteur de classe J?</test>
+         <A>a. It = 600 Newton-secondes</A>
+         <B>b. It = 1000 Newton-secondes</B>
+         <C>c. It = 1290 Newton-secondes</C>
+		<sol>B</sol>
+		<ans>b. Un moteur J ayant une plage allant de 640.01 à 1280 Newton-secondes. Ainsi un moteur à 1000 Newton-secondes et un J dans la moyenne. Le moteur à 600 Newton-secondes est un moteur I et le moteur à 1290 Newton-secondes est un moteur K.</ans>
+	</question>
+<question>
+		<test>Qu’est-ce qu’un Newton?</test>
+         <A>a. La quantité de force nécessaire pour accélérer une livre à un pied par seconde par seconde.</A>
+         <B>b. La quantité de force nécessaire pour accélérer un kg à un pied par seconde par seconde.</B>
+         <C>c. La quantité de force nécessaire pour accélérer un kg à un mètre par seconde par seconde.</C>
+		<sol>C</sol>
+		<ans>c. Le Newton est une unité de force internationale (métrique) c'est la force nécessaire pour accélérer un kilogramme (2.2 livres) un mètre (39.4 pouces) par seconde seconde.</ans>
+	</question>
+<question>
+		<test>Que veut dire la référence moteur I220-8?</test>
+         <A>a. Le moteur a une impulsion entre 320-640 N-s, une poussée moyenne de 220 Newtons, avec 8 secondes entre l’allumage du moteur et l’éjection.</A>
+         <B>b. Le moteur a une impulsion de 220 N-s, une poussée moyenne de 220 Newtons, avec 8 secondes entre la fin de combustion du moteur et l’éjection.</B>
+         <C>c. Le moteur a une impulsion entre 320-640 N-s, une poussée moyenne de 220 Newtons, avec 8 secondes entre la fin de combustion du moteur et l’éjection.</C>
+		<sol>C</sol>
+		<ans>c. C’est un moteur I avec une impulsion totale dont la plage va de 320.01 à 640 Newton-secondes, une poussée moyenne de 220 Newtons et un retard d’éjection de 8 secondes depuis la fin de combustion.</ans>
+	</question>
+<question>
+		<test>La fusée A descend à 30 pieds par seconde, la fusée B pèse la même chose mais descend à 20 pied par seconde. Quelle affirmation ci-dessous est correcte ?</test>
+         <A>a. Les 2 fusées ont la même énergie cinétique.</A>
+         <B>b. La fusée B a 2 fois l’énergie cinétique de la fusée A.</B>
+         <C>c. La fusée B a 4 fois l’énergie cinétique de la fusée A.</C>
+		<sol>C</sol>
+		<ans>c. L'énergie Cinétique - énergie du mouvement - est égale à ½mv2. Puisque la vitesse est au carré, lorsque deux objets ont la même masse, l'un se déplaçant deux fois plus vite il a 22= 4 fois l'énergie cinétique du plus lent.</ans>
+	</question>
+<question>
+		<test>La fusée A pèse deux fois plus que la fusée B. Les deux descendent à 20 pieds par seconde. Quelle affirmation est vraie ?</test>
+         <A>a. Les deux fusées ont la même énergie cinétique</A>
+         <B>b. La fusée A a deux fois l’énergie cinétique de la fusée B</B>
+         <C>c. La fusée A a quatre fois l’énergie cinétique de la fusée B</C>
+		<sol>B</sol>
+		<ans>b L'énergie Cinétique - énergie du mouvement - est égale à ½mv2. Ainsi l'énergie cinétique est directement proportionnelle à la masse; doubler la masse donnera le double d'énergie cinétique.</ans>
+	</question>
+<question>
+		<test>Quel est l’utilité d’une tige de lancement, d’un rail ou d’une tour?</test>
+         <A>a. Pour pointer la fusée dans la bonne direction avec le vol.</A>
+         <B>b. Pour contrôler le vol de la fusée suffisamment longtemps pour permettre une stabilité aérodynamique.</B>
+         <C>c. A la fois a et b.</C>
+		<sol>C</sol>
+		<ans>c. La tige de lancement, le rail ou la tour ont un double objectif. C'est de pointer dans une direction pour diriger la trajectoire de la fusée jusqu'à un certain point et cela guide la fusée au début de son vol pour lui permettre d'atteindre une vitesse suffisante pour un vol stable. Un vol stable est accompli lorsque l'air circulant autour de la fusée et ses ailerons permet à la fusée de corriger son vol en forçant la rotation autours du centre de gravité de la fusée.</ans>
+	</question>
+<question>
+		<test>Quel est l’objectif d’une bague de guidage (launch lug) ?</test>
+         <A>a. D’ajouter de la trainée à la fusée lorsqu’on la lance.</A>
+         <B>b. De guider la fusée le long de la tige ou du rail.</B>
+         <C>c. A la fois a et b.</C>
+		<sol>B</sol>
+		<ans>b. La bague de guidage ou le bouton de rail attachent la fusée à la tige de lancement ou le rail permettant à la fusée d'être guidée par la tige ou le rail durant le lancement.</ans>
+	</question>
+<question>
+		<test>Pour une fusée dont les moteurs sont en cluster, quelle technique de construction minimisera l’effet d’avoir un moteur qui ne s’allume pas?</test>
+         <A>a. Les trous dans les anneaux de centrage avant doivent être percés légèrement plus proche du centre de la fusée que les trous des anneaux arrière.</A>
+         <B>b. Espacer les anneaux de centrage précisément d’une longueur de moteur.</B>
+         <C>c. L’utilisation de 4 petits ailerons au lieu de 3 ailerons plus large.</C>
+		<sol>A</sol>
+		<ans>a. Si l'axe du moteur passe à travers ou et très prés du centre de gravité, le déséquilibre de la poussée est minimisé. Cela peut être accompli en amenant l'avant de chaque moteur plus prés de l'axe de la fusée.</ans>
+	</question>
+<question>
+		<test>Que se passe-t-il si tous les moteurs d’un cluster ne s’allument pas au lancement?</test>
+         <A>a. Rien, la fusée est par nature stable.</A>
+         <B>b. La fusée ne volera peut-être pas droit.</B>
+         <C>c. La fusée partira en lambeaux.</C>
+		<sol>B</sol>
+		<ans>b. Ne pas allumer tous les moteurs d'un "cluster" a pour effet une poussée asymétrique. Cette poussée déséquilibrée pourra forcer la fusée à voler dans un arc non prévu ce qui conduira à un vol non vertical. </ans>
+	</question>
+<question>
+		<test>Qu’est-ce qu’un déchirement (shred)?</test>
+         <A>a. Une défaillance du fuselage de la fusée durant la phase de poussée conduisant à la destruction de la fusée.</A>
+         <B>b. Une défaillance du système de récupération lors de la phase de poussée.</B>
+         <C>c. Une défaillance du moteur causant une éjection prématurée.</C>
+		<sol>A</sol>
+		<ans>a. Un déchirement (shred) arrive lorsqu'une fusée n'est pas construite correctement ou a un moteur fusée qui est trop puissant pour cette fusée en particulier. Typiquement pour un "shred" la vitesse de la fusée augmente au point que le fuselage, les ailerons or les autres parties de la structure ne peuvent pas supporter la charge. Lorsque cette partie est défaillante la fusée devient instable ce qui conduit à une rapide destruction de celle ci.</ans>
+	</question>
+<question>
+		<test>Qu’est-ce qu’un cato?</test>
+         <A>a. Une défaillance de la fusée dut à une défaillance du fuselage durant la phase de poussée.</A>
+         <B>b. Une défaillance du système de récupération lors de la phase de poussée.</B>
+         <C>c. Une défaillance du moteur causant la fin du vol.</C>
+		<sol>C</sol>
+		<ans>c. Un cato est le mot court pour une défaillance catastrophique du moteur. Cela se produit lorsque la tuyère, la fermeture avant ou l'enveloppe est défaillante. Le résultat immédiat est une fin abrupte de la poussée ce qui conduit à une défaillance de la fusée.</ans>
+	</question>
+<question>
+		<test>Quel est l’exigence principale d’un allumeur pour moteur fusée?</test>
+         <A>a. Il doit transmettre suffisamment de chaleur au propergol pour assurer son allumage.</A>
+         <B>b. Il doit produire des gaz chauds, très rapide pour assurer l’allumage.</B>
+         <C>c. Il doit avoir une grande résistance pour être fiable.</C>
+		<sol>A</sol>
+		<ans>a. Un allumeur pour moteur doit produire suffisamment de chaleur au propergol pour l'allumer. Cela peut être sous la forme de gaz chaud, de particules chaudes brûlantes, un fil chaud ou une combinaison des trois.</ans>
+	</question>
+
+<question>
+		<test>La plupart des moteurs fusées APCP (propergol composite à base de perchlorate d'ammonium) ont une combustion centrale (core burner) plutôt qu'une combustion à l'extrémité du bloc (endburning):</test>
+<A>a. Par ce que plus d'APCP  ont  une impulsion spécifique qui est trop faible pour les moteurs "endburning".</A>
+<B>b. Par ce que la plupart des APCP ont une vitesse de combustion qui est trop basse pour un "endburner" efficace.</B>
+    <C>c. L'hypothèse est incorrecte ; la plupart des moteurs APCP sont des "endburners".</C>
+    <sol>B</sol>
+    <ans>b. L'APCP a à peu près trois fois l'impulsion spécifique de la poudre noire. Mais la plupart des APCP brûlent doucement et doivent avoir une grande surface de combustion comme dans les blocs (Bates grain) ou tout autre type de configuration avec une cheminée pour générer suffisamment de gaz chaud pour le vol.</ans>
+    </question>
+<question>
+		<test>Quels sont les obstacles majeurs dans la plupart des fusées à double déploiement qui utilisent un petit parachute (drogue) et un parachute principal (main)?</test>  
+<A>a. Le "drogue" et le "main" peuvent s’enchevêtrer facilement s’ils ne sont pas correctement agencés.</A>
+<B>b. Le drogue ralenti trop la fusée et elle dérive trop loin.</B>
+    <C>c. Le drogue ne ralenti pas suffisamment la fusée et elle atterrie violement.</C>
+    <sol>A</sol>
+    <ans>a. Le drogue et le parachute principale (main) doivent être agencés pour être éjecté depuis des sections séparées de la fusée et ainsi minimiser la possibilité de s'emmêler. Dans certains cas un drogue n'est pas utilisé du tout pour éviter le problème.</ans>
+    </question>
+    <question>
+		<test>Lors de l’utilisation dans une fusée qui peut dépasser Mach 1 d’un altimètre à base d’accéléromètre:</test>  
+<A>a. La fonction "Mach delay" doit être présente dans l’altimètre pour éviter le déploiement du système de récupération lors du passage du Mach.</A>
+<B>b. Un ou plusieurs trous d’accès doivent être percés dans le compartiment électronique pour permettre les échanges avec l’atmosphère durant le vol.</B>
+    <C>c. Ni a ni b ne sont nécessaire.</C>
+    <sol>C</sol>
+    <ans>c. Les Accéléromètres mesurent l'accélération en interne, entièrement à l'intérieur du circuit accéléromètre. Le contacte avec l'atmosphère n'est pas nécessaire, et les changements de pression impulsif comme le passage à Mach 1 n'affectent pas le circuit de l'accéléromètre.</ans>
+    </question>   
+     <question>
+		<test>Lors de l’utilisation dans une fusée n’atteignant pas Mach 1 d’un altimètre avec capteur de pression :</test>  
+<A>a. Un ou plusieurs trous d’accès doivent être percés à la base de l’ogive pour permettre les échanges avec l’atmosphère pendant le vol.</A>
+<B>b. Un "timer" mais pas un retard moteur peut être utilisé comme backup pour le déploiement.</B>
+    <C>c. Un ou plusieurs trous doivent être percés dans le compartiment électronique pour permettre les échanges avec l’atmosphère.</C>
+    <sol>C</sol>
+    <ans>c. Un altimètre à base de capteur de pression à besoin d'être en contacte avec l'atmosphère, donc les équilibrages de pression autours de l'électronique doivent être possibles.</ans>
+    </question>
+         <question>
+		<test>Quel problème rencontre t’on principalement avec les altimètres utilisant des accéléromètres?</test>  
+<A>a. Ils sont plus gros, et en général plus chers que les altimètres utilisant des capteurs de pression. </A>
+<B>b. Ils n’ont pas de multiples fonctions comme le double déploiement, allumage en vol, etc …</B>
+    <C>c. Ils peuvent dans certains cas ne pas déployer correctement si le vol n’est pas suffisamment vertical. </C>
+    <sol>C</sol>
+    <ans>c. Les accéléromètres peuvent être très petits, n'ont pas besoin d'être chères, et peuvent avoir les mêmes fonctions multiples tout comme les altimètres barométriques. Mais l'électronique d'un accéléromètre implique un vol vertical, ainsi un vol qui dévie de façon significative de la vertical peu avoir des problèmes.</ans>
+    </question>
+<question>
+		<test>Quel est le sujet du document NFPA 1127 ?</test>
+         <A>a. La conception et la construction de moteurs de fusées haute puissance commerciaux, la mise en oeuvre des fusées et les opérations de lancement.</A>
+         <B>b. La conception et la construction de tous les types de moteurs de fusée amateur de haute puissance, la mise en œuvre des fusées et les opérations de lancement.</B>
+         <C>c. La conception et la construction de modèle réduit de fusée, de moteurs haute puissance, la mise en oeuvre des fusées et les opérations de lancement.</C>
+		<sol>A</sol>
+		<ans>a. 1-1 Périmètre</ans>
+	</question>		
+<question>
+		<test>Dans quels documents sont décrits la conception et la construction des moteurs de fusées haute puissance, des fusées de haute puissance et les opérations de lancement?</test>
+         <A>a. NFPA 1122 et les règles de sécurité de Tripoli.</A>
+         <B>b. NFPA 1125 et les règles de sécurité de Tripoli.</B>
+         <C>c. NFPA 1127 et les règles de sécurité de Tripoli.</C>
+		<sol>C</sol>
+		<ans>c. 1-1 Périmètre </ans>
+	</question>
+<question>
+		<test>Qui est dispensé du document NFPA 1127 ?</test>
+         <A>a. Il n’existe aucune exemption, tout le monde doit le respecter.</A>
+         <B>b. L’État ou ses représentants, les écoles supérieures, les universités et les entreprises disposant d’un agrément pour exploiter des fusée haute puissance</B>
+         <C>c. Des particuliers fabriquant des moteurs haute puissance pour leur usage personnel ou en distribution restreinte</C>
+		<sol>B</sol> 
+		<ans>b. 1-1.4(a), (b) et (c) </ans>
+	</question>	
+<question>
+		<test>Jusqu’à quel point les particuliers, firmes, groupements ou autres formes d’entreprises ou départements impliqués dans les activités de fusée haute puissance sont-ils dispensés du NFPA 1127 ?</test>
+         <A>a. Lorsque les fusée sont lancées dans le cadre d’un programme test.</A>
+         <B>b. Lorsqu’ils les vendent à des utilisateurs qualifiés conformément au NFPA 1127.</B>
+         <C>c. Lorsqu’ils ont des activités commerciales liées à l’espace.</C>
+		<sol>A</sol>
+		<ans>b. 1-1.4(d) </ans>
+	</question>	
+<question>
+		<test>Quel est le rôle du NFPA 1127 et des règles de sécurité de Tripoli ?</test>
+         <A>a. Fournir des moteurs sécurisés et fiables, définir des règles de mise en oeuvre pour les vols et éviter les accidents.</A>
+         <B>b. Promouvoir l’expérimentation en proposant des formules de propulsifs, des conceptions de fusée et de charges utiles.</B>
+         <C>c. Prévenir les erreurs des modélistes spatiaux haute puissance débutants.</C>
+         	<sol>A</sol>
+	 	<ans>a. 1-2 Objectif </ans>
+	</question>	
+<question>
+		<test>Quelle est l’Autorité ayant juridiction?</test>
+         <A>a. La cour de justice qui régule les activités de fusée haute puissance.</A>
+         <B>b. La personne qui prépare une fusée haute puissance pour le vol.</B>
+         <C>c. L’organisme, le bureau ou la personne responsable de la validation du matériel, de l’installation et de la procédure.</C>
+         	<sol>C</sol>
+	 	<ans>c. 1-3 Définitions – Autorité ayant juridiction</ans>
+	</question>	
+<question>
+		<test>Qu’est-ce qu’une fusée haute puissance complexe ?</test>
+         <A>a. Une fusée composée de plus d’un étage.</A>
+         <B>b. Une fusée comportant plusieurs moteurs en cluster (parallèle).</B>
+         <C>c. A la fois a et b.</C>
+         	<sol>C</sol>
+	 	<ans>c. 1-3 Définitions – Fusée de Haute puissance Complexe</ans>
+	</question>	
+<question>
+		<test>Quels sont les caractéristiques minimales d’une fusée de haute puissance ?</test>
+         <A>a. Une fusée propulsée par un seul moteur dont l’impulsion totale est supérieure à 160 Newtonsecondes(Ns) ou dont l’impulsion totale de tous les moteurs est supérieure à 320 Ns et inférieure ou égale à 40 960 Ns.</A>
+         <B>b. Une fusée propulsée par un seul moteur ayant une poussée moyenne supérieure ou égale à 80 Newton (N).</B>
+         <C>c. A la fois a et b.</C>
+         	<sol>C</sol>
+	 	<ans>c. 1-3 Définitions – Fusée de Haute puissance (a) et (c) </ans>
+	</question>	
+<question>
+		<test>Quel est le poids minimal d’une fusée de haute puissance ?</test>
+         <A>a. Une fusée pesant plus de 1,503 kg (53 onces).</A>
+         <B>b. Une fusée pesant moins de 50,802 kg (112 livres).</B>
+         <C>c. A la fois a et b.</C>
+         	<sol>A</sol>
+	 	<ans>a. 1-3 Définitions – Fusée de Haute puissance </ans>
+	</question>	
+<question>
+		<test>Dans quel cas le système de récupération n’est pas nécessaire dans une fusée haute puissance ?</test>
+         <A>a. Lorsque la fusée est destinée à un vol balistique.</A>
+         <B>b. Lorsque la fusée a une charge explosive.</B>
+         <C>c. Il est toujours nécessaire d’avoir un système de récupération.</C>
+         	<sol>C</sol>
+	 	<ans>c. 1-3 Définitions – Fusée de Haute puissance </ans>
+	</question>	
+<question>
+		<test>Quels matériaux peut-on utiliser pour construire une fusée haute puissance ?</test>
+         <A>a. Du papier, du bois, de la fibre de verre et du plastique avec un minimum d’éléments métalliques.</A>
+         <B>b. Du papier, du bois, de la fibre de verre, du plastique et de l’aluminium.</B>
+         <C>c. Il n’y a pas de restriction sur les matériaux de construction.</C>
+         	<sol>A</sol>
+	 	<ans>a. 1-3 Définitions – Fusée de Haute puissance </ans>
+	</question>	
+<question>
+		<test>Qu’est-ce qu’un moteur de fusée haute puissance ?</test>
+         <A>a. Un moteur de fusée dont l’impulsion totale est supérieure à 80 Ns et la poussée moyenne est égale à 80 N.</A>
+         <B>b. Un moteur de fusée dont l’impulsion totale est supérieure à 160 Ns ou la poussée moyenne est égale à 80 N.</B>
+         <C>c. Un moteur de fusée dont l’impulsion totale est supérieure à 160 Ns et la poussée moyenne est égale à 160 N.</C>
+         	<sol>B</sol>
+	 	<ans>b. 1-3 Définitions – Moteur fusée de Haute puissance</ans>
+	</question>	
+<question>
+		<test>Quelles sont les parties structurales ou porteuses d’une fusée haute puissance ?</test>
+         <A>a. Le cône, le tube du corps et le porte moteur.</A>
+         <B>b. Le cône, le tube du corps et les ailerons.</B>
+         <C>c. Le cône, le porte moteur et les ailerons.</C>
+         	<sol>B</sol>
+	 	<ans>b. 1-3 Définitions – Parties de la Structure</ans>
+	</question>	
+<question>
+		<test>Qui peut mettre en oeuvre une fusée haute puissance ?</test>
+         <A>a. Tout membre d’une association de fusées agréée au niveau national.</A>
+         <B>b. Seules les personnes possédant une licence délivrée par le gouvernement fédéral.</B>
+         <C>c. Une personne certifiée.</C>
+         	<sol>C</sol>
+	 	<ans>c. 2-1 Certification utilisateur</ans>
+	</question>	
+<question>
+		<test>Quelles sont les autorisations nécessaires pour lancer des fusée haute puissance ?</test>
+         <A>a. NFPA 1122, NFPA 1127 et l’article 101 du règlement de l’administration de l’aviation fédérale (FAA).</A>
+         <B>b. NFPA 1127, l’article 101 du règlement de l’administration de l’aviation fédérale (FAA) et les règlements applicables au niveau fédéral, de l’état et local.</B>
+         <C>c. NFPA 1122, l’article 101 du règlement de l’administration de l’aviation fédérale (FAA) et les règlements applicables au niveau fédéral, de l’état et local.</C>
+         	<sol>B</sol>
+	 	<ans>b. 2-2 Autorisations d'exploitation</ans>
+	</question>	
+<question>
+		<test>Quelles règles s’appliquent lors de la construction d’une fusée haute puissance ?</test>
+         <A>a. Utiliser des matériaux adéquats capables de supporter les contraintes du vol en gardant l’intégrité structurelle durant le vol.</A>
+         <B>b. Utiliser seulement les matériaux les plus légers pour la construction de fusées haute puissance.</B>
+         <C>c. Utiliser des matériaux permettant un minimum de flexion à la fusée durant son vol.</C>
+         	<sol>A</sol>
+	 	<ans>a. 2-5 Construction fusée</ans>
+	</question>	
+<question>
+		<test>A quel moment doit-on déterminer la stabilité d’une fusée ?</test>
+         <A>a. Lorsque le responsable sécurité le demande.</A>
+         <B>b. A chaque fois que la fusée est préparée pour le vol.</B>
+         <C>c. A la fois a et b.</C>
+         	<sol>C</sol>
+	 	<ans>c. 2-7 Stabilité </ans>
+	</question>	
+<question>
+		<test>Quel est le poids maximum d’une fusée de haute puissance ?</test>
+         <A>a. Moins que le poids maximum recommandé par le fabriquant du moteur pour un moteur donné.</A>
+         <B>b. Moins de 50,802 kg (112 pounds).</B>
+         <C>c. Il n’y a pas de poids maximum pour une fusée de haute puissance.</C>
+         	<sol>A</sol>
+	 	<ans>a. 2-8.1 Poids et limitation de puissance</ans>
+	</question>	
+<question>
+		<test>Dans quel cas peut-on attraper en vol une fusée de haute puissance ?</test>
+         <A>a. Si la fusée pèse moins de 2.2 livres ou 1 kg.</A>
+         <B>b. Il n'est jamais permis d'attraper une fusée de haute puissance.</B>
+         <C>c. Si la fusée descend suffisement lentement pour que ce ne soit pas considéré comme un danger.</C>
+         	<sol>B</sol>
+	 	<ans>b. 2-9.3 Récupération </ans>
+	</question>	
+<question>
+		<test>Quelles sont les charges utiles interdites dans une fusée de haute puissance ?</test>
+         <A>a. Les charges utiles inflammables ou explosives ou conçues pour blesser.</A>
+         <B>b. Les animaux vertébrés.</B>
+         <C>c. A la fois a et b.</C>
+         	<sol>C</sol>
+	 	<ans>c. 2-10 Charges utiles</ans>
+	</question>	
+<question>
+		<test>Dans quel cas est-il nécessaire d’équiper une rampe de lancement de fusée haute puissance d’un déflecteur ?</test>
+         <A>a. Lorsqu’il est nécessaire d’empêcher la projection des gaz chauds du moteur de la fusée sur les matériaux inflammables.</A>
+         <B>b. Tous les systèmes de lancement doivent en disposer.</B>
+         <C>c. Lorsque la conception du système de lancement le demande.</C>
+         	<sol>A</sol>
+	 	<ans>a. voir 2-11.2 Dispositifs de lancements</ans>
+	</question>	
+<question>
+		<test>Quel est l’angle maximum de lancement par rapport à la verticale pour une fusée de haute puissance ?</test>
+         <A>a. 30°</A>
+         <B>b. 20°</B>
+         <C>c. ll n’y a pas d’angle maximum de lancement.</C>
+         	<sol>B</sol>
+	 	<ans>b. Voir 2-11.3 Dispositifs de lancements</ans>
+	</question>	
+<question>
+		<test>De quoi un système d’allumage est-il composé ?</test>
+         <A>a. Un contrôle à distance actionné électriquement avec un interrupteur de lancement qui retourne à la position éteinte (off) quand on le relâche.</A>
+         <B>b. Un contrôle à distance actionné électriquement avec une clef de sécurité amovible branchée en série avec l’interrupteur de lancement.</B>
+         <C>c. Un contrôle à distance actionné électriquement avec un interrupteur de lancement qui retourne à la position éteinte (off) quand on le relâche et une clef de sécurité amovible branchée en série avecl’interrupteur de lancement.</C>
+         	<sol>C</sol>
+	 	<ans>c. Voir 2-12.1/ 2 Systèmes d'allumages</ans>
+	</question>	
+<question>
+		<test>A quel moment le ou les allumeur(s) doi(ven)t-il être installé(s) dans un moteur de fusée haute puissance ?</test>
+         <A>a. Sur la rampe ou dans une zone désignée.</A>
+         <B>b. Quand le moteur est installé dans la fusée.</B>
+         <C>c. Ni a, ni b.</C>
+         	<sol>A</sol>
+	 	<ans>a. 2-12.4 Systèmes d'allumages</ans>
+	</question>	
+<question>
+		<test>A quel moment les circuits de mise à feu doivent-ils être armés ?</test>
+         <A>a. Lorsque l’on teste la continuité de l’allumeur.</A>
+         <B>b. Quand la fusée est en position de lancement sur rampe.</B>
+         <C>c. A la fois a et b.</C>
+         	<sol>B</sol>
+	 	<ans>b. Voir 2-12.5 Systèmes d'allumages</ans>
+	</question>	
+<question>
+		<test>A quel usage est destinée la table de dimensionnement de l’aire de lancement?</test>
+         <A>a. Pour tous les vols de fusée à haute puissance.</A>
+         <B>b. Quand on se pose une question relative au périmètre de l’aire de lancement.</B>
+         <C>c. Etre le standard des dimensions minimales du terrain de lancement.</C>
+         	<sol>C</sol>
+	 	<ans>c. Voir 2-13.2 Site de lancement</ans>
+	</question>	
+<question>
+		<test>Quel est le critère complémentaire pour un site de lancement ?</test>
+         <A>a. Au moins 457m (1500 pieds).</A>
+         <B>b. Au moins la moitié de l’altitude maximale prévue ou accordée par la FAA (services Aviation).</B>
+         <C>c. A la fois a et b.</C>
+         	<sol>C</sol>
+	 	<ans>c. Voir 2-13.3 Site de lancement</ans>
+	</question>	
+<question>
+		<test>Quelle est la distance minimale entre un site de lancement et un bâtiment habité ou une route ouverte à la circulation ?</test>
+         <A>a. 305m (1000 pieds).</A>
+         <B>b. 457m (1500 pieds).</B>
+         <C>c. Pas de distance minimale si les occupants du bâtiment sont prévenus de l’activité.</C>
+         	<sol>B</sol>
+	 	<ans>b. Voir 2-14.3 Localisation du Lanceur </ans>
+	</question>	
+<question>
+		<test>A quelle distance les spectateurs peuvent-ils être d’un lancement de fusée de haute puissance ?</test>
+         <A>a. A la distance définie par le responsable sécurité (Safety Monitor) et derrière celui-ci.</A>
+         <B>b. A la distance indiquée dans la table des distances de sécurité.</B>
+         <C>c. A la fois a et b.</C>
+         	<sol>A</sol>
+	 	<ans>a. Voir 2-15.2 Distances de securité </ans>
+	</question>	
+<question>
+		<test>Quelle est l’altitude maximale allouée à un vol de fusée haute puissance s’il y a un plafond nuageux à 914 m (3000 pieds) ?</test>
+         <A>a. 1067 m (3500 pieds).</A>
+         <B>b. A la dérogation accordée par la FAA (Selon Notam).</B>
+         <C>c. Ni a, ni b.</C>
+         	<sol>C</sol>
+	 	<ans>c. Voir 2-16.1 Operations de lancement</ans>
+	</question>	
+<question>
+		<test>Quelle est la vitesse maximale du vent « sol » pour lancer une fusée haute puissance ?</test>
+         <A>a. 48 km/h (30 mph).</A>
+         <B>b. 32 km/h (20 mph).</B>
+         <C>c. 24 km/h (15 mph).</C>
+         	<sol>B</sol>
+	 	<ans>b. Voir 2-16.2 Operations de lancement</ans>
+	</question>	
+<question>
+		<test>Quand une fusée haute puissance peut-elle être lancée?</test>
+         <A>a. Après avoir mis en garde les spectateurs et fait un décompte de 5 s.</A>
+         <B>b. Quand tous les systèmes sont prêts et après un décompte de 5 s.</B>
+         <C>c. Après avoir informé et obtenu l’autorisation et l’attention du responsable sécurité (Safety Monitor).</C>
+         	<sol>C</sol>
+	 	<ans>c. 2-17.1 Contrôle de lancement </ans>
+	</question>	
+<question>
+		<test>Dans quel type de conteneur les moteurs de fusée haute puissance, les recharges (reloads) et les modules pyrotechniques doivent-ils être stockés ?</test>
+         <A>a. Un caisson d’intérieur/extérieur de type 3 ou 4.</A>
+         <B>b. Un récipient étanche, réutilisable et incombustible.</B>
+         <C>c. Un contenant qui fournit un stockage raisonnablement sûr pour les matériaux inflammables non explosifs.</C>
+         	<sol>C</sol>
+	 	<ans>c. Suite aux conclusions du jugement TRA/NAR-BATFE en Mars 2009, l'APCP n'est plus un explosif, et n'a pas besoin d'être stocké dans un dépôt d'explosifs.</ans>
+	</question>	
+<question>
+		<test>A quelle distance minimale des moteurs de fusée haute puissance, des recharges ou modules pyrotechniques peut-on fumer ou allumer une flamme ?</test>
+         <A>a. 3,05 m (10 pieds).</A>
+         <B>b. 7,62 m (25 pieds).</B>
+         <C>c. Il n’y a pas de distance minimale.</C>
+          	<sol>B</sol>
+	 	<ans>b. 2-17.5 Contrôle de lancement</ans>
+	</question>	
+<question>
+		<test>Quelle quantité de moteurs de fusée de haute puissance, de recharges et modules pyrotechniques peut-on stocker dans un caisson d’intérieur ?</test>
+         <A>a. 11,340 kg (25 livres).</A>
+         <B>b. 22,680 kg (50 livres).</B>
+         <C>c. Il ny a pas de limites.</C>
+         	<sol>C</sol>
+	 	<ans>c. Suite aux conclusions du jugement TRA/NAR-BATFE en Mars 2009, l'APCP n'est plus un explosif, et n'a pas besoin d'être stocké dans un dépôt d'explosifs.</ans>
+	</question>	
+<question>
+		<test>Selon le document NFPA 1127, qui peut fabriquer un moteur de fusée haute puissance à propulsif solide?</test>
+         <A>a. Un fabricant commercial.</A>
+         <B>b. Quelqu’un qui a le savoir faire.</B>
+         <C>c. Les détenteurs de la licence BATF de fabricant d’explosifs.</C>
+         	<sol>A</sol>
+	 	<ans>a. 3-1 Exigences de Certification</ans>
+	</question>	
+<question>
+		<test>Quel type de moteurs un fabricant commercial de moteurs de fusée de haute puissance peut-il produire ?</test>
+         <A>a. Des moteurs jetables de fusée de haute puissance à propulsif solide.</A>
+         <B>b. Des moteurs rechargeables de fusée de haute puissance à propulsif solide.</B>
+         <C>c. A la fois a et b.</C>
+         	<sol>C</sol>
+	 	<ans>c. 3-1 Exigences de Certification</ans>
+	</question>	
+<question>
+		<test>De combien peuvent varier l’impulsion totale et le délai des moteurs commerciaux de fusée haute puissance?</test>
+         <A>a. 10%</A>
+         <B>b. 20 %</B>
+         <C>c. 30 %</C>
+         	<sol>B</sol>
+	 	<ans>b. NFPA 1125 7.8.6-1</ans>
+	</question>	
+<question>
+		<test>Quand peut-on transporter ou stocker un moteur de fusée haute puissance à propulsif solide équipé de son allumeur?</test>
+         <A>a. Il est strictement interdit d’expédier ou de stocker un moteur de fusée de haute puissance à propulsif solide équipé de son allumeur.</A>
+         <B>b. Quand la fusée doit être lancée moins de 48 h après l’installation de l’allumeur.</B>
+         <C>c. Ni a, ni b.</C>
+         	<sol>A</sol>
+	 	<ans>a. NFPA 1125 7.10</ans>
+	</question>	
+<question>
+		<test>Quelle est la condition nécessaire préalable pour certifier un moteur de fusée haute puissance à propulsif solide?</test>
+         <A>a. Le Classement préalable dans la catégorie d’explosifs UN 1.3 ou 1.4 par le département des transports US ou la reconnaissance écrite du moteur ou de la recharge comme un solide inflammable.</A>
+         <B>b. L’autorisation de fabriquer des moteurs de fusée haute puissance à propulsif solide délivrée par l’autorité compétente.</B>
+         <C>c. Le dépôt de la formule et des caractéristiques du propulsif auprès du bureau de contrôle de l’alcool,tabac et armes à feu (ATF).</C>
+         	<sol>A</sol>
+	 	<ans>a. NFPA 1125 8.2.1</ans>
+	</question>	
+<question>
+		<test>A quel moment un fabricant doit-il signaler des modifications à l’autorité qui a certifié à l’origine le moteur de fusée haute puissance?</test>
+         <A>a. Si les résultats de l’amélioration de conception apportent une déviation supérieure à 20% des performances annoncées lors de la certification.</A>
+         <B>b. Dans les 30 jours suivant la modification.</B>
+         <C>c. Aucune modification ne doit être signalée.</C>
+         	<sol>B</sol>
+	 	<ans>b. NFPA 1125 8.2.6/8.2.7</ans>
+	</question>	
+<question>
+		<test>Qui peut acquérir un moteur de fusée haute puissance à propulsif solide?</test>
+         <A>a. Les utilisateurs certifiés.</A>
+         <B>b. Les membres des organisations d’astromodèlisme reconnues.</B>
+         <C>c. Toute personne de plus de 18 ans.</C>
+         	<sol>A</sol>
+	 	<ans>a. 5-1 Ventes uniquement aux utilisateurs certifiés</ans>
+	</question>	
+<question>
+		<test>Quelle est la limite d’âge minimale reconnue par Tripoli pour certifier un utilisateur de moteur de fusée haute puissance à propulsif solide?</test>
+         <A>a. 21 ans.</A>
+         <B>b. 18 ans.</B>
+         <C>c. Il n’y a pas de limite d’âge.</C>
+         	<sol>B</sol>
+	 	<ans>b. Il faut noter que les lois locales peuvent être différentes. Tous les membres sont encouragés a obéir à toute loi s'appliquant à eux.</ans>
+	</question>	
+<question>
+		<test>Quand un moteur de fusée haute puissance peut il être utilisé pour un spectacle coloré de son et lumières ?</test>
+         <A>a. Lors d’une manifestation publique.</A>
+         <B>b. Quand il a été conçu pour cette utilisation.</B>
+         <C>c. Il ne doit pas être utilisé dans ce but.</C>
+         	<sol>C</sol>
+	 	<ans>c. NFPA 1127 6.1.1</ans>
+	</question>	
+<question>
+		<test>Quand la vente, l’offre de vente et/ou l’exposition pour vendre de moteurs non certifiés est-elle permise ?</test>
+         <A>a. Quand les moteurs ne sortent pas du pays dans lequel ils sont fabriqués.</A>
+         <B>b. Quand la vente des moteurs est limitée à des utilisateurs certifiés.</B>
+         <C>c. Ce n’est jamais permis.</C>
+         	<sol>C</sol>
+	 	<ans>c. 5-3 Activités interdites</ans>
+	</question>	
+<question>
+		<test>Quand peut-on transmettre un moteur de fusée haute puissance à une personne non certifiée?</test>
+         <A>a. Quand la personne prépare sa certification d’utilisateur haute puissance.</A>
+         <B>b. Quand la personne est résidente du pays dans lequel le transfert a lieu.</B>
+         <C>c. Ce n’est jamais permis.</C>
+         	<sol>A</sol>
+	 	<ans>a. 5-7 Activités interdites</ans>
+	</question>	
+<question>
+		<test>Dans quel cas la consommation d’alcool est-elle autorisée pendant la préparation ou le lancement de fusée haute puissance?</test>
+         <A>a. Quand la préparation est effectuée la veille du lancement.</A>
+         <B>b. Si le taux d’alcool dans le sang est au-dessous de la limite autorisée.</B>
+         <C>c. Ce n’est jamais permis.</C>
+         	<sol>C</sol>
+	 	<ans>c. 5-9 Activités interdites</ans>
+	</question>	
+<question>
+		<test>Quelles organisations peuvent certifier des moteurs de fusée haute puissance?</test>
+         <A>a. Uniquement Tripoli Rocketry Association (TRA) et la  National Association of Rocketry (NAR).</A>
+         <B>b. Le Bureau de l'alcool, du tabac, des armes à feu et des explosifs (BATFE).</B>
+         <C>c. TRA, NAR, la Canadian Association of Rocketry (CAR) et the United Kingdom Rocketry Association (UKRA).</C>
+         	<sol>C</sol>
+	 	<ans>c. Ce sont en ce moment les autorités de test reconnues HPSC 3-1.</ans>
+	</question>	
+<question>
+		<test>Quelles organisations peuvent actuellement certifier des utilisateurs de moteurs de fusée haute puissance?</test>
+<A>a. Uniquement Tripoli Rocketry Association (TRA) et la  National Association of Rocketry (NAR).</A>
+         <B>b. Le Bureau de l'alcool, du tabac, des armes à feu et des explosifs (BATFE).</B>
+         <C>c. TRA, NAR, la Canadian Association of Rocketry (CAR) et the United Kingdom Rocketry Association (UKRA).</C>
+         	<sol>C</sol>
+	 	<ans>c. Ce sont les organismes qui ont en ce moment des accords réciproques de certification avec TRA.</ans>
+	</question>	
+<question>
+		<test>Quel document a été adopté par Tripoli Rocketry Association (TRA) comme code de sécurité de Tripoli ?</test>
+         <A>a. NFPA 1127</A>
+         <B>b. NFPA 1125</B>
+         <C>c. NFPA 1122</C>
+         	<sol>A</sol>
+	 	<ans>a. Appendice B-1</ans>
+	</question>	
+<question>
+<test>Qui dans l'association Tripoli peut certifier un membre au Level 1 ou Level 2?</test>
+<A>a. Le prefet.</A>
+<B>b. Un membre TAP.</B>
+<C>c. Un membre du comité de direction, le prefet ou un membre TAP.</C>
+<sol>C</sol>
+<ans>c. Règles de Certification.</ans>
+</question>
+
+<question>
+<test>Qui est authorisé dans l'air de lancement lors d'un lancement Tripoli experimental?</test>
+<A>a. Toute personne invitée.</A>
+<B>b. Tout membre faisant parti de TRA, la NAR, la CAR ou UKRA.</B>
+<C>c. Tout membre de Tripoli de 18 ans ou plus.</C>
+<sol>C</sol>
+<ans>c. Code Tripoli Expérimental.</ans>
+</question>
+
+<question>
+<test>A quel moment un système de récupération électronique est-il nécessaire?</test>
+<A>a. Ce n'est pas indispensable c'est un choix qui est fait par la personne qui fait voler</A>
+<B>b. Une fusée haute puissance avec une impulsion supérieure à 2560 N-sec.</B>
+<C>c. Une fusée haute puissance avec une impulsion supérieure à 5120 N-sec.</C>
+<sol>B</sol>
+<ans>b. NFPA 1127 4.10.2</ans>
+</question>
+
+
+</exam>		

@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.tripolil2test.QuestionsActivity">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:text="@string/questions"
+        android:id="@+id/textViewQuestionLbl"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentStart="true" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/textViewQuestion"
+        android:text="La Question"
+        android:layout_below="@+id/textViewQuestionLbl"
+        android:layout_alignParentStart="true"
+        android:maxLength="@android:integer/status_bar_notification_info_maxnum"
+        android:linksClickable="false" />
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="1/100"
+        android:id="@+id/textViewOneOffX"
+        android:layout_above="@+id/textViewQuestion"
+        android:layout_alignParentEnd="true" />
+
+
+    <HorizontalScrollView
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:id="@+id/scrollView"
+        android:layout_below="@+id/textViewQuestion"
+        android:layout_alignParentStart="true"
+        android:nestedScrollingEnabled="true"
+        android:scrollIndicators="bottom|right"
+        android:layout_alignParentTop="false">
+
+
+
+    <GridLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:columnCount="2"
+        android:rowCount="3"
+        android:layout_below="@+id/textViewQuestion"
+        android:layout_alignParentEnd="true">
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="A"
+            android:id="@+id/butA"
+
+            android:layout_below="@+id/textViewQuestion"
+            android:layout_alignParentStart="true"
+            android:layout_column="0"
+            android:layout_row="0" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Réponse A"
+            android:id="@+id/textViewAnswerA"
+            android:layout_alignBottom="@+id/butA"
+            android:layout_toEndOf="@+id/butA"
+            android:layout_row="0"
+            android:layout_column="1"
+            android:lines="2"
+            android:maxLength="@android:integer/status_bar_notification_info_maxnum" />
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="B"
+            android:id="@+id/butB"
+            android:layout_centerVertical="true"
+            android:layout_alignParentStart="true"
+            android:layout_alignEnd="@+id/butA"
+            android:layout_column="0"
+            android:layout_row="1" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="RéponseB"
+            android:id="@+id/textViewAnswerB"
+            android:layout_above="@+id/butC"
+            android:layout_alignStart="@+id/textViewAnswerA"
+            android:layout_row="1"
+            android:layout_column="1"
+            android:lines="2"
+            android:maxLength="@android:integer/status_bar_notification_info_maxnum" />
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="C"
+            android:id="@+id/butC"
+            android:layout_below="@+id/butB"
+            android:layout_alignEnd="@+id/butB" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Réponce C"
+            android:id="@+id/textViewAnswerC"
+            android:layout_alignBottom="@+id/butC"
+            android:layout_alignStart="@+id/textViewAnswerB"
+            android:layout_column="1"
+            android:layout_row="2"
+            android:lines="2"
+            android:maxLength="@android:integer/status_bar_notification_info_maxnum" />
+    </GridLayout>
+    </HorizontalScrollView>
+
+</RelativeLayout>

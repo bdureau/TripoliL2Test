@@ -1,0 +1,987 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE exam SYSTEM "questions.dtd">
+
+<exam>
+	<question>
+		<test>¿Cuál de las las leyes de Newton describe mejor el comportamiento de un motor de cohete? </test>
+	<A>a. La primera Ley de Newton: Todo cuerpo permanece en su estado de reposo o de movimiento rectilíneo y uniforme a menos que otros cuerpos actúen sobre él.. </A>
+         <B>b. Newton's Second Law: The rate of change of momentum is proportional to the force impressed and is in the same direction as that force.</B>
+         <C>c. Newton's Third Law: To every action there is always an equal and opposite reaction.</C>
+		<sol>C</sol>
+		<ans>La respuesta correcta es c. La tercera ley de Newton. La aplicación de una fuerza en una dirección siempre origina una fuerza igual en la dirección opuesta.</ans>
+	</question>
+	<question>
+		<test>¿Qué relación tiene con los cohetes la Tercera ley de Newton "a cada acción hay siempre una reacción de igual magnitud y en sentido contrario". </test>
+	<A>a. Que el deflector de humos sea suficientemente fuerte para empujar el cohete de la plataforma de lanzamiento en la ignición.</A>
+         <B>b.Que un cohete vuele porque el motor "empuja" en dirección opuesta a la salida de los gases de combustión.</B>         
+         <C>c.Que el empuje del motor del cohete sea proporcional a la densidad de aire en la rampa de lanzamiento.</C>
+         <sol>B</sol>
+		<ans>La respuesta correcta es b. El empuje del motor hace que el cohete acelere en dirección opuesta a aquel. De esta forma, el motor empuja sólo sobre el cohete, no en el aire o sobre la plataforma de lanzamiento.</ans>
+	</question>
+	<question>
+		<test>¿Qué fuerzas actuan sobre un cohete durante su vuelo?</test>
+         <A>a. Empuje, diámetro de cohete y aletas.</A>
+         <B>b. Forma de la ojiva, empuje y resistencia.</B>
+         <C>c. Gravedad, empuje y resistencia aerodinámica.</C>
+		<sol>C</sol>
+		<ans>La respuesta correcta es c. La gravedad, el empuje y la resistencia aerodinámica son las fuerzas que actúan sobre un cohete.</ans>
+	</question>
+	<question>
+		<test>¿Cuáles son los factores principales que determinan la altitud máxima de un cohete en vuelo vertical?</test>
+         <A>a. Peso al despegue, peso del propulsor y empuje del motor.</A>
+         <B>b. Tamaño de aleta, peso del propulsor y empuje del motor. </B>
+         <C>c. Empuje del motor, peso y resistencia aerodinámica.</C>
+		<sol>C</sol>
+		<ans>La respuesta correcta es c. El empuje del motor, el peso y la resistencia aerodinámica son las fuerzas principales que  determinan la altitud de un cohete. Por favor observe que como peso del cohete debe considerarse el peso al despegue y el peso al agotar el combustible para ser exacto.</ans>
+	</question>
+	<question>
+		<test>¿Para que un cohete sea intrínsecamente estable, cuál es la relación entre el centro de gravedad (CG) y el centro de presiónes (CP)? </test>
+	<A>a. El CG debe estar detrás del CP en relación con la dirección deseada de vuelo.</A>
+         <B>b. El CG debe estar más avanzado que el CP en relación con la dirección deseada de vuelo.</B>
+         <C>c. El CG debe estar delante de las aletas de un cohete.</C>
+		<sol>B</sol>
+		<ans>La respuesta correcta es b. El centro de presión (CP) debe estar situado adecuadamente para proporcionar al cohete un angulo de ataque de cero grados y evitar el balanceo aerodinámico. Para un cohete aerodinámicamente estable con el CP detrás del centro de gravedad (CG) creará durante el levantamiento aerodinámico un momento de corrección para devolver el cohete a un ángulo de ataque de cero grados. Por el contrario, si el CP está delante del CG el cohete intentará girar de modo que el CP se sitúe otra vez detrás del CG. Esta actitud es característica de un cohete inestable.</ans>
+	</question>
+	<question>
+		<test>Un cohete de 4" de diámetro con motor instalado, tiene el centro de gravedad (CG) cuatro pulgadas detrás del centro de presión (CP). ¿Este es un cohete estable?</test>
+		<A>a. Hay información insuficiente para contestar esta pregunta. </A>
+         <B>b. No, el CP debe estar detrás del CG para que el cohete sea estable. </B>
+         <C>c. Sí, el CP está un diámetro del cuerpo, delante del CG.</C>
+		<sol>B</sol>
+		<ans>La respuesta correcta es b. El cohete no es estable porque al empezar a volar tenderá a girar alrededor de su centro de gravedad (CG), la fuerza aerodinámica situada adelante del CG hará que el cohete gire aún más, causando un vuelo inestable. </ans>
+	</question>
+	<question>
+		<test>El centro de presión (CP) de un cohete generalmente se define como:</test>
+         <A>a. El punto de equilibrio del cohete sin el motor.</A>
+         <B>b. El área total de las aletas, armadura de avión y ojiva dividida por dos.</B>
+         <C>c. El punto en el cual se pueden considerar aplicadas todas las fuerzas aerodinámicas que actúan sobre él.</C>
+		<sol>C</sol>
+		<ans> La respuesta correcta es c. El centro de presión (CP) es el punto sobre el cohete donde se aplica la resultante de todas las fuerzas aerodinámicas. Esto significa que en el lanzamiento, si el cohete está en un ángulo de ataque no nulo, será autoequilibrado por el balanceo aerodinámico posterior de aquel punto. </ans>
+	</question>
+	<question>
+		<test>¿Cuál es "la regla básica" para un cohete estable?</test>
+         <A>1. Que el centro de gravedad esté situado a la distancia equivalente a un diámetro de cuerpo del cohete por delante del centro de presión. </A>
+         <B>2. Que el centro de gravedad esté en el mismo punto que el centro de presión.</B>
+         <C>3. No hay ninguna regla básica porque hay demasiadas variables. </C>
+		<sol>A</sol>
+		<ans>La respuesta correcta es a. Situando el centro de gravedad (CG) un diámetro del cuerpo del cohete por delante del centro de presión (CP) resulta un margen adecuado para la estabilidad de cohete.</ans>
+	</question>
+	<question>
+		<test>Para determinar el centro de gravedad (CG) de un cohete con un motor más pesado en el campo de lanzamiento, se puede: </test>
+         <A>1. Instalar el motor, el sistema de recuperación y la carga útil y determinar el punto de equilibrio del cohete listo para el vuelo.</A>
+         <B>2. Equilibre el cohete con un motor vacío porque es la condición del cohete después del agotamiento de motor.</B>
+         <C>3. No es necesario probar el centro de gravedad  cuando se usa un motor potente porque tiene empuje suficiente.</C>
+	 	<sol>A</sol>
+	 	<ans>La respuesta correcta es a. La medición del centro de gravedad (CG) para el equilibrando del cohete requiere que el cohete esté preparado como si estuviera listo para el vuelo. Es sobre todo importante comprobarlo usando un motor con su peso antes del vuelo.</ans>
+	</question>
+<question>
+		<test>¿Qué ocurre con el centro de gravedad (CG) de un cohete durante la fase de empuje del motor de combustible sólido?</test>
+         <A>1. El Centro de gravedad se queda  en el mismo sitio.</A>
+         <B>2. El Centro de gravedad se desplaza adelante.</B>
+         <C>3. El centro de gravedad se desplaza hacia atrás.</C>
+		<sol>B</sol>
+		<ans>La respuesta correcta es b. Cuando el combustible se quema el motor se hace mas ligero en popa, desplazándose así el punto de equilibrio o centro de gravedad (CG) hacia delante. Este es el motivo por el que un cohete ligeramente estable "se comportará de forma errática" inicialmente en el lanzamiento, luego se estabilizará y volará con una trayectoria estable.</ans>
+	</question>
+<question>
+		<test>¿Cómo estáticamente un cohete inestable puede convertirse en estable?</test>
+         <A>1. Utilizando un motor más pesado.</A>
+         <B>2. Agregando peso en la ojiva.</B>
+         <C>3. Fabricando un cohete más corto.</C>
+		<sol>B</sol>
+		<ans>La respuesta correcta es b. La agregación de suficiente peso en la ojiva desplazará el centro de gravedad (CG) por delante del centro de presión (CP).</ans>
+	</question>
+<question>
+		<test>¿Cuáles son los tres métodos correctos para desplazar hacia adelante el centro de gravedad (CG) de un cohete?</test>
+         <A>1. Añadiendo peso en la ojiva, haciendo el cohete más largo, instalando aletas más grandes.</A>
+         <B>2. Añadiendo peso a la ojiva, haciendo el cohete más largo, usando un  motor menos pesado.</B>
+         <C>3. Añadiendo peso en la ojiva, haciendo el cohete más corto, usando un motor menos pesado.</C>
+		<sol>B</sol>
+		<ans>La respuesta correcta es b. Avanzar el CG requiere cambios de diseño acertados. A continuacion se dán varias "reglas básicas", la agregación de peso en la ojiva avanza el CG por contrapeso del cohete. Piense en el cohete como una palanca, fabricando el cohete más largo el CG se desplaza mas fácilmente hacia adelante debido al brazo de palanca más largo. Usando un motor más ligero se reduce el peso en la parte posterior desplazándose así el centro de gravedad (CG) hacia delante.</ans>
+	</question>
+<question>
+		<test>¿Cuáles son los tres métodos correctos para desplazar el  centro de presión (CP) hacia atrás? </test>
+         <A>1. Haciendo el cohete más corto, usando aletas más grandes, aumentando el número de aletas.</A>
+         <B>2. Haciendo el cohete más corto, usando aletas más pequeñas, añadiendo peso en la ojiva. </B>
+         <C>3. Haciendo el cohete más corto, cambiando el número de aletas, usando una guia de lanzamiento más larga, </C>
+		<sol>A</sol>
+		<ans>La respuesta correcta es a. El desplazamiento del CP hacia atrás requiere cambios de diseño acertados. A continuación se dan algunas “reglas básicas”. El aumento del área total de las aletas desplazará el CP hacia atrás. Esto puede lograrse con el  aumento del área de cada una de las aletas o incrementando el número de ellas. El CP también puede desplazarse hacia atrás haciendo el cohete más corto. Generalmente esta medida no es la más usual ya que el el CG también se desplaza hacia atrás y la relación de estabilidad CP/CG puede ser comprometida.</ans>
+	</question>
+<question>
+		<test>¿Cuál es la definición de coeficiente de drag (Cd)? </test>
+         <A>1. Un número que representa el efecto de la gravedad y el número de Mach del cohete.</A>
+         <B>2. Un número que representa la configuración del cohete, número de Mach y el ángulo de ataque.</B>
+         <C>3. Un número que representa la fricción con la rampa y la velocidad de lanzamiento.</C>
+		<sol>B</sol>
+		<ans>La respuesta correcta es b. El coeficiente de drag (Cd) es un número que se usa en las ecuaciones para evaluar el rozamiento aerodinámico de un cohete. Los valores que afectan al coeficiente de drag Cd son la configuración de cohete (forma de ojiva, diámetro del fuselaje, las secciones de transición, la forma aerodinámica de las aletas etc.), la velocidad del cohete el número de Mach y el ángulo de ataque.</ans>
+	</question>
+<question>
+		<test>¿Qué ocurre con el coeficiente de rozamiento aerodinámico "drag" (Cd) cuando el cohete se acerca a la velocidad de sonido?</test>
+         <A>1. Disminuye el Cd</A>
+         <B>2. El Cd no experimenta variación alguna. </B>
+         <C>3. Aumenta el Cd.</C>
+		<sol>C</sol>
+		<ans>La respuesta correcta es c. El coeficiente de drag (Cd) aumenta y puede llegar a ser mayor que 1 cuando el cohete excede de Mach 1.</ans>
+	</question>
+<question>
+		<test>¿En un cohete subsónico, qué factores afectan principalmente al coeficiente de drag (Cd)? </test>
+         <A>1. El empuje del motor, el diámetro del cuerpo, tipo de ojiva y forma de las aletas.</A>
+         <B>2. La velocidad, dimensiones del fuselaje, tipo de ojiva y forma de las aletas.</B>
+         <C>3. La gravedad, dimensiones del fuselaje, tipo de ojiva y forma de las aletas.</C>
+		<sol>B</sol>
+		<ans>La respuesta correcta es b. Cuando se incrementa la velocidad, se producen cambios en el coeficiente de drag. La longitud y el diámetro de del cohete en relación con el área de la superficie total, La forma de la ojiva y la circulación de la corriente de aire sobre ella. La forma de las aletas y factor del área de las mismas en el área de la superficie total.</ans>
+	</question>
+<question>
+		<test>¿Qué efecto tiene el "boat tail" o cono de popa de un cohete subsónico sobre el coeficiente de drag (Cd)? </test>
+         <A>1. Ningún efecto, el cono de popa es sólo un elemento estético.</A>
+         <B>2. Aumenta el Cd porque altera la corriente de aire sobre las aletas.</B>
+         <C>3. Disminuye el Cd ya que reduce la resistencia aerodinámica de la popa del cohete.</C>
+		<sol>C</sol>
+		<ans>La respuesta correcta es c. En un cohete subsónico un cono de popa reduce la resistencia aerodinámica que se produce con la interrupción del flujo de aire en el final del fuselaje del mismo.</ans>
+	</question>
+
+<question>
+		<test>El vuelo de un cohete de alta potencia "High Power Rocket" puede ser dividido  en tres fases; ellas son:</test> 
+
+<A>1.	Ignición, agotamiento de combustible y altitud máxima. </A>
+<B>2.	Vuelo impulsado, etapa de inercia y altitud máxima. </B>
+<C>3.	Vuelo impulsado, etapa de inercia y descenso. </C>
+
+<sol>C</sol>
+		<ans>La respuesta correcta es c. Las tres fases de vuelo de un cohete de alta potencia: (1) Vuelo impulsado - período de tiempo en el que el motor desarrolla todo su empuje contra la gravedad y la resistencia aerodinámica. (2) Subida no impulsada - período inmediato posterior al vuelo impulsado donde la inercia del cohete le permite navegar hasta alcanzar su punto de máxima altitud (apogeo) y es afectado por la gravedad y resistencia, (3) El descenso - vuelta del cohete a tierra afectado por la gravedad y la resistencia.</ans>
+	</question>
+
+<question>
+		<test>¿Cuál es la curva de empuje de un motor de combustión regresiva. ?</test>
+
+<A>1.	Una combustión regresiva tiene un alto empuje inicial en relación con el empuje de final del motor. </A>
+<B>2.	Una combustión regresiva tiene un empuje inicial inferior en relación con el empuje de final. </B>
+<C>3.	La curva de empuje es plana. </C>
+
+<sol>A</sol>
+		<ans>La respuesta correcta es a. En los motores de combustion regresiva, el empuje disminuye debido a la disminución del área de la superficie de quemado del propelente. Esto es típico de granos ranurados.</ans>
+	</question>
+
+<question>
+		<test>¿Cuál es la curva de empuje de un motor de combustión progresiva?</test> 
+
+<A>1.	Una combustión progresiva tiene un alto empuje inicial en relación con el empuje final del motor. </A>
+<B>2.	Una combustión progresiva tiene un empuje inferior inicial en relación con el empuje final del motor.</B> 
+<C>3.	La curva de empuje es plana. </C>
+
+<sol>B</sol>
+		<ans>La respuesta correcta es la b. En los motores de combustión progresiva, el empuje aumenta en la medida en la que aumenta la superficie de quemado del propelente Esto es típico en los motores de combustión en el núcleo.
+</ans>
+	</question>
+
+<question>
+		<test>¿Porqué un grano tipo Bates tiene una curva de empuje esencialmente neutra?</test> 
+
+<A>1.	Porque tiene un núcleo de combustión regresiva. </A>
+<B>2.	Porque el área de quemado del motor permanece relativamente constante. </B>
+<C>3.	Porque el corazón del grano del motor tiene un area de quemado  uniforme en el tiempo. </C>
+
+<sol>B</sol>
+		<ans>La respuesta correcta es la b. Como la combustión del motor es desde el interior hacia el exterior, los extremos de los granos, fabricados mas cortos, también entran en combustión, esto determina un área de superficie relativamente constante.
+</ans>
+	</question>
+
+<question>
+		<test>¿Cuál es la función de la camisa del motor y de las juntas tóricas en un motor de cohete de combustible sólido? </test>
+
+<A>1.	Contener todos los componentes del motor antes de su uso</A>
+<B>2.	Facilitar la limpeza del motor si es un recagable. </B>
+<C>3.	Evitar que los gases calientes del motor quemen o fundan el tubo de alumino del motor</C>
+
+<sol>C</sol>
+		<ans>La respuesta correcta es c. La carcasa inhibidora sirve para evitar el contacto del elemento en combustión (generalmente a mas de 5000 grados F) con el tubo de aluminio del motor (el aluminio se funde a 1075 grados F), mientras las juntas tóricas sellan los extremos para evitar las fugas de gases calientes, que deben salir por la tobera.
+</ans>
+	</question>
+
+<question>
+		<test>¿Cuál es el oxidante más común en los motores comerciales  HPR de combustible sólido.? </test>
+
+<A>1.	Perclorato de Amonio.</A> 
+<B>2.	Nitrato de Amonio. </B>
+<C>3.	Clorato de Amonio. </C>
+
+<sol>A</sol>
+		<ans>La respuesta correcta es a. El Perclorato de Amonio, NH4CIO4 es usado en prácticamente todos los motores de cohete modernos de combustible sólido.
+</ans>
+	</question>
+
+<question>
+		<test>¿Que es NH4ClO4? </test> 
+
+<A>1.	Perclorato de Amonio.</A> 
+<B>2.	Nitrato de Amonio. </B>
+<C>3.	Clorato de Amonio.</C>
+ 
+<sol>A</sol>
+		<ans>La respuesta correcta es a. NH4CIO4 es el fórmula química del Amonio Perclorato.
+</ans>
+	</question>
+
+<question>
+		<test>Generalmente recomiendan disponer  un pequeño agujero cerca de la parte superior del cohete, por debajo de la ojiva o de la sección de carga, o del booster. ¿Por qué? </test> 
+
+<A>1.	Este agujero permite reducir las presiones excesivas de las cargas de eyección y evitar la rotura del cordón de suspensión.</A> 
+<B>2.	El agujero se usa para realizar las lecturas de la presión del aire a bordo para el altímetro. </B>
+<C>3.	El agujero regula la presión del aire en el interior del cohete cuando este gana altitud para prevenir la separación prematura.</C> 
+
+<sol>C</sol>
+		<ans>La respuesta correcta es c. La presión externa del aire disminuye durante la ascendencia del cohete. Consecuentemente aumenta la expansión del aire atrapado en el interior del cohete y esto puede provocar una separación anticipada de la ojiva. El agujero compensa esta presión interna para prevenir la separación. Nota: El tamaño del agujero depende del tamaño del cohete y del volumen de aire a evacuar; estructuras de cohetes grandes requieren agujeros mayores. Debemos prevenir en la localización del agujero que éste no quede bloqueado por la ojiva o el acoplador de la bodega de carga. Asegúrese al situar el agujero, que este no afectará a la presión generada por la carga de eyección del sistema de recuperación.
+</ans>
+	</question> 
+
+<question>
+		<test>¿Qué ocurre si se reduce el tamaño o disminuye el número de orificios en el inyector de un motor cohete híbrido ideal (asumir el mantenimiento constante del peso del oxidante)? </test> 
+
+<A>1.	El impulso total disminuye y aumenta el empuje medio. </A>
+<B>2.	El impulso total se mantiene y aumenta el empuje medio. </B>
+<C>3.	El impulso total se mantiene y disminuye el empuje medio. </C>
+
+<sol>C</sol>
+		<ans>La respuesta correcta es c. Orificios mas pequeños o menos orificios en el inyector reducen el flujo medio de oxidante reduciendo el empuje medio. Ya que la cantidad de oxidante usada es la misma, el impulso total es el mismo.
+</ans>
+	</question>
+
+<question>
+		<test>¿Qué ocurre si se aumenta el tamaño o se incrementa el número de orificios en el inyector de un motor cohete híbrido ideal (asumir el mantenimiento constante del peso del oxidante)? </test> 
+
+<A>1.	El impulso total se disminuye y aumenta el empuje medio. </A>
+<B>2.	El impulso total se mantiene y aumenta el empuje medio. </B>
+<C>3.	El impulso total se mantiene y disminuye el empuje medio. </C>
+
+<sol>B</sol>
+		<ans>La respuesta correcta es b. Orificios más grandes o mayor número de orificios en el inyector permite un flujo medio de oxidante más alto, aumentando el empuje medio. Ya que la cantidad de oxidante usada es la misma, el impulso total es el mismo.
+</ans>
+	</question>
+
+<question>
+		<test>¿Qué oxidante es el más usado en un motor de cohete comercial híbrido? </test> 
+
+<A>1.	N2O </A>
+<B>2.	N2O4 </B>
+<C>3.	NO2 </C>
+
+<sol>A</sol>
+		<ans>La respuesta correcta es a. N2O u óxido nitroso, también llamado NOX.
+</ans>
+	</question>
+
+<question>
+		<test>¿Cuál es la presión nominal de un tanque de oxido nitroso de un motor híbrido a 75°F? </test> 
+
+<A>1.	100 psi </A>
+<B>2.	750 psi </B>
+<C>3.	1500 psi </C>
+
+<sol>B</sol>
+		<ans>La respuesta correcta es b. El Óxido Nitroso se licua a 750 psi a temperatura ambiente.
+</ans>
+	</question>
+
+<question>
+		<test>¿Por encima de que temperatura se presuriza el óxido nitroso para su cambio a gas? </test> 
+
+<A>1.	97º F </A>
+<B>2.	75º F </B>
+<C>3.	37º F </C>
+
+<sol>A</sol>
+		<ans>La respuesta correcta es a. A 97º F el NOX (Oxido Nitroso) cambia de estado a un gas supercrítico.
+</ans>
+	</question>
+
+<question>
+		<test>Un cohete con un cluster de motores formado por uno central de tipo composite y cuatro motores de pólvora negra, utilizando ignitores de Thermalita o eléctricos.</test> 
+
+<A>1.	Todos los motores se encenderan al mismo tiempo. </A>
+<B>2.	Se encenderá en primer lugar el motor de composite seguido de los motores de pólvora negra. </B>
+<C>3.	Se encendaran en primer lugar los motores de pólvora negra y a continuación el motor central de composite.</C> 
+
+<sol>C</sol>
+		<ans>La respuesta correcta es c. Los motores de polvora negra tienen un tiempo de inicio de combustión inmediato y se encenderán en cuanto encuentran un frente de llama. Los motores de composite basados en Perclorato de Amonio requieren calor y presión para comenzar la combustión y generalmente se retardan al menos medio segundo antes de  comenzar la ignición.
+</ans>
+	</question>
+
+<question>
+		<test>¿Qué ocurre normalmente en un cohete ligeramente estable con un motor híbrido durante la fase de empuje? </test> 
+
+<A>1.	Nada. </A>
+<B>2.	El cohete puede hacerse más estable. </B>
+<C>3.	El cohete puede hacerse menos estable. </C>
+
+<sol>C</sol>
+		<ans>La respuesta correcta es c. Como el CG del motor híbrido se retrasa, entonces el desplazamiento atrás del CG del cohete que puede causar un vuelo inestable.
+</ans>
+	</question>
+
+<question>
+		<test>En términos generales, el impulso específico de un motor de cohete es: </test> 
+
+<A>1.	La fuerza de empuje total de un motor a lo largo del tiempo de acción. </A>
+<B>2.	El impulso total dividido por peso de combustible. </B>
+<C>3.	La proporción entre el diámetro y longitud del grano de combustible. </C>
+
+<sol>B</sol>
+		<ans>La respuesta correcta es b. El impulso específico es un término que suele definir la eficacia de un propulsor de cohete y es el impulso total en relación con la masa dada del propulsor.
+</ans>
+	</question>
+
+<question>
+		<test>En términos generales, el impulso total de un motor de cohete puede ser descrito como: </test> 
+
+<A>1.	El producto del empuje medio de motor por el tiempo de quemado </A>
+<B>2.	El producto del peso del propulsor por el tiempo de quemado. </B>
+<C>3.	El producto del peso de propulsor por el empuje de motor. </C>
+
+<sol>A</sol>
+		<ans>La respuesta correcta es a. El impulso total es la cantidad de empuje producido por un motor durante su tiempo de quemado. Por ejemplo, un motor puede producir 10 libras de empuje durante 4 segundos produciendo un impulso total de 40 libras segundo.
+</ans>
+	</question>
+
+<question>
+		<test>¿El empuje medio de un motor cohete es 100 Newton y el tiempo de quemado  es de  4 segundos, cuál es el impulso total? </test> 
+
+<A>1.	25 Newton segundo</A>
+<B>2.	400 Newton Segundo </B>
+<C>3.	400 Newton </C>
+
+<sol>B</sol>
+		<ans>La respuesta correcta es b. Multiplique el empuje medio (100 Newton) por el tiempo quemado (4 segundos) para conseguir el impulso total de 400 newton segundo.
+</ans>
+	</question>
+
+<question>
+		<test>¿Que motor tiene un impulso total más alto? </test> 
+
+<A>1.	J200 </A>
+<B>2.	J400 </B>
+<C>3.	K200 </C>
+
+<sol>C</sol>
+		<ans>La respuesta correcta es c. El motor de J tiene una gama de 641 a 1280 Newton segundo y el motor de K tiene una gama de impulso total de 1281 a 2560 newton segundos.
+</ans>
+	</question>
+
+<question>
+		<test>¿Que motor tiene un empuje medio  más alto? </test> 
+
+<A>1.	J200 </A>
+<B>2.	J400 </B>
+<C>3.	K200 </C>
+
+<sol>B</sol>
+		<ans>La respuesta correcta es b. Incluso aunque el impulso total del motor K sea mayor que el motor J, el empuje medio del motor de J es 400 Newton contra el del motor K  que es de 200 Newton.
+</ans>
+	</question>
+
+<question>
+		<test>¿Cuál es la diferencia entre un J640 y un J320 HPR (asumir 1280 Newton segundo total para el motor J)? </test> 
+
+<A>1.	El J320 quema dos veces mas rápido que el J640. </A>
+<B>2.	No hay ninguna diferencia entre los motores, los números son sólo una referencia del  fabricante. </B>
+<C>3.	El J640 quema dos veces mas rápido que el J320 </C>
+
+<sol>C</sol>
+		<ans>La respuesta correcta es c. El tiempo de quemado se determina dividiendo el impulso total (J = 1280) entre el empuje medio de cada motor. El tiempo de quemado para el J640 es: 1280 Newton segundo dividido por 640 Newton = 2 segundos, y para el J320 son: 1280 Newton segundo dividido por 320 Newton = 4 segundos.
+</ans>
+	</question>
+
+<question>
+		<test>¿Cuál de los siguientes impulsos totales esta en la gama del motor de J? </test> 
+
+<A>1.	El =   600 Newton segundo </A>
+<B>2.	El = 1000 Newton segundo </B>
+<C>3.	El = 1290 Newton segundo </C>
+
+<sol>B</sol>
+		<ans>La respuesta correcta es b. Un motor de J está en la gama de 640.01 a 1280 Newton segundo. Por lo tanto, un motor de 1000 Newton segundo corresponde a la gama J. El motor de 600 Newton segundo, pertenece a la gama I y el motor de 1290 Newton Segundo pertenece a la gama K.
+</ans>
+	</question>
+
+<question>
+		<test>¿Qué es el Newton? </test> 
+
+<A>1.	La cantidad de fuerza requerida para acelerar una libra un pie por segundo en un segundo. </A>
+<B>2.	La cantidad de fuerza requerida para acelerar un kilogramo, un pie por segundo en un  segundo. </B>
+<C>3.	La cantidad de fuerza requerida para acelerar un kilogramo, un metro por segundo cada segundo. </C>
+
+<sol>C</sol>
+		<ans>La respuesta correcta es c. El Newton es una unidad internacional (métrica) de fuerza y es la fuerza requerida para acelerar un kilogramo (2.2 libras) un metro (39 pulgadas) en un segundo.
+</ans>
+	</question>
+
+<question>
+		<test>¿Qué significa la designación de un motor I-220-8? </test> 
+
+<A>1.	El motor está en el rango de impulso I con un empuje medio de 220 Newton y un retardo de 8 segundos desde la ignición del motor. </A>
+<B>2.	El motor está en la gama de impulso I, teniendo un impulso total de 620 Newton segundo, con un empuje medio de 220 Newton y un retardo de 8 segundos desde el agotamiento del combustible.</B> 
+<C>3.	El motor está en la gama de impulso I, con un empuje medio de 220 Newton y un retardo de 8 segundos para la eyección desde el agotamiento del combustible.</C>
+
+<sol>C</sol>
+		<ans>La respuesta correcta es c. Este es un motor I con una gama de impulso total de 320.01 a 640 Newton segundo, con un empuje medio de 220 Newton y un retardo de eyección de 8 segundos desde el agotamiento del combustible.
+</ans>
+	</question>
+
+<question>
+		<test>¿Cuál es la diferencia de la energía cinética entre dos cohetes idénticos, uno baja a 30 pies por segundo, el otro baja a 60 pies por segundo?</test> 
+
+<A>1.	No puede ser determinado sin el peso. </A>
+<B>2.	Dos veces mas energía. </B>
+<C>3.	Cuatro veces mas energía. </C>
+
+<sol>C</sol>
+		<ans>La respuesta correcta es c. La energía se determina por la ecuación la E = 1/2 mv2. De esto es importante notar que para dos objetos de la misma masa un movimiento dos veces mas rápido tiene cuatro veces mas energía que el mas lento.
+</ans>
+	</question>
+
+<question>
+		<test>La ecuación para determinar la energía de un cuerpo móvil (como un cohete) es: </test> 
+
+<A>1.	E = 1/2 M*V al cuadrado </A>
+<B>2.	E = 1 M al cuadrado </B>
+<C>3.	E = 1 M*V al cubo </C>
+
+<sol>A</sol>
+		<ans>La respuesta correcta es a. La energía es determinada por la ecuación la E = 1/2 mv2. De esto es importante observar que para objetos con la misma masa, un movimiento dos veces mas rápido, tiene cuatro veces mas energía que el lento.
+</ans>
+	</question>
+
+<question>
+		<test>¿Cuál es el objetivo de una guia, carril o torre de lanzamiento? </test> 
+
+<A>1.	Mantener el cohete en una determinada dirección de vuelo. </A>
+<B>2.	Controlar el vuelo del cohete el tiempo suficiente para permitir su estabilidad aerodinámica. </B>
+<C>3.	Ambos A y B. </C>
+
+<sol>C</sol>
+		<ans>La respuesta correcta es c. El objetivo de la guia de lanzamiento, el carril o la torre es dirigir el cohete al comienzo de su vuelo permitiéndole ganar la velocidad suficiente para un vuelo estable. Esto se  consigue cuando el aire que fluye sobre el cohete y sus aletas permite al mismo, corregir su vuelo forzando la rotación alrededor del centro gravedad del cohete.
+</ans>
+	</question>
+
+ 
+<question>
+		<test>¿Cuál es la utilidad del lug (o sistema de unión a la guía)? </test> 
+
+<A>1.	Añadir rozamiento al cohete en el lanzamiento. </A>
+<B>2.	Dirigir el cohete a lo largo de la barra de lanzamiento o carril. </B>
+<C>3.	Ambos A y B. </C>
+
+<sol>B</sol>
+		<ans>La respuesta correcta es b. El lug une el cohete a la guía o carril de lanzamiento permitiendo a este ser dirigido por la guía o el carril durante el lanzamiento.
+</ans>
+	</question>
+
+<question>
+		<test>Un cohete con un conjunto de motores formado por un motor central de composite de 54mm J415 y cuatro motores tambien de composite de 29mm G80 que usan encendedores tipo termalita o ignitores eléctricos: </test> 
+
+<A>1.	Todos los motores se encenderan al  mismo tiempo. </A>
+<B>2.	Se encederá en primer lugar el motor J415 seguido de los G80. </B>
+<C>3.	Se encenderan en primer lugar los G80 seguidos del J415. </C>
+
+<sol>C</sol>
+		<ans>La respuesta correcta es c. En general los motores de composite (Perclorato de Amonio) requieren calor y presión para su encendido en los motores de 29 mm tales como el G80, al ser de menor diámetro el agujero central, el calor y la presión generada por el ignitor se concentra mas rapido propiciando una ignición más rápida de los motores.
+</ans>
+	</question>
+
+<question>
+		<test>¿Qué puede pasar si todos los motores de un sistema de motores múltiple (Cluster)  no se encienden  simultaneamente en el lanzamiento? </test> 
+
+<A>1.	Nada, el cohete es intrínsecamente estable. </A>
+<B>2.	El cohete no puede volar con una trayectoria recta. </B>
+<C>3.	El cohete se destruye. </C>
+
+<sol>B</sol>
+		<ans>La respuesta correcta es b. Al no encenderse simultanemaente todos los motores de un sistema multiple (cluster) el empuje no se efectúa de forma simétrica. Este empuje desequilibrado puede forzar el cohete a volar en un arco inesperado que no alcanzará el vuelo vertical.
+</ans>
+	</question>
+
+<question>
+		<test>¿Que es una rotura (shred)? </test> 
+
+<A>1.	Un fallo en el fuselaje del cohete en la fase de empuje que causa la destrucción del mismo. </A>
+<B>2.	Un fallo del sistema de recuperación en la fase de empuje. </B>
+<C>3.	Un fallo del motor que causa una eyección anticipada</C>
+
+<sol>A</sol>
+		<ans>La respuesta correcta es a. Una rotura (shred) ocurre cuando el cohete está incorrectamente construido o tiene un motor demasiado potente para ese cohete en particular. La secuencia de rotura típica comienza cuando la velocidad del cohete aumenta y llega a un punto donde el fuselaje, aletas u otras partes estructurales no resisten las cargas provocadas por la aceleración. Cuando estas partes se rompen o ceden, el cohete se hace inestable y provocan la rápida destrucción del mismo.
+</ans>
+	</question>
+
+<question>
+		<test>¿Qué es un cato? </test> 
+
+<A>1.	Un fallo del cohete que provoca la destrucción del mismo  durante la fase de empuje.</A> 
+<B>2.	Un fallo del sistema de recuperación durante la fase de empuje. </B>
+<C>3.	Un fallo del motor que impide el vuelo. </C>
+
+<sol>C</sol>
+		<ans>La respuesta correcta es c. Cato es un fallo repentino del motor con el resultado de daños importantes. Esto ocurre cuando la tobera, el cierre superior o la cubierta fallan. El resultado inmediato es la terminación brusca del empuje que causa el fallo del cohete.
+</ans>
+	</question>
+
+<question>
+		<test>¿Cuál es la principal exigencia para un ignitor de motor para cohete? </test> 
+
+<A>1.	Debe transferir calor suficiente al motor para asegurar la ignición.</A> 
+<B>2.	Debe producir calor, gases a alta velocidad para asegurar la ignición.</B> 
+<C>3.	Debe tener una alta resistencia para ser fiable.</C> 
+<sol>A</sol>
+		<ans>La respuesta correcta es a. Un ignitor de motor debe entregar el calor suficiente al combustible para provocar su encendido. Este puede ser gas a alta temperatura, partículas calientes, un filamento caliente o una combinación de los tres.
+</ans>
+	</question>
+<question>
+		<test>	¿Qué cubre generalmente en su totalidad la NFPA 1127?</test> 
+
+<A>a)	Diseño y construcción de  motores HPR comerciales, grandes cohetes y operaciones de lanzamiento.</A>
+<B>b)	Diseño y construcción de todos los motores HPR aficionados, grandes cohetes y operaciones de lanzamiento.</B>
+<C>c)	Diseño y construcción de motores para modelos de cohete, grandes modelos de cohetes y operaciones de lanzamiento.</C> 
+<sol>A</sol>
+<ans>La respuesta correcta es  a. </ans>
+	</question>	
+<question>
+		<test>	¿El diseño y la construcción de motores HPR, grandes modelos de cohetes y operaciones de lanzamiento son detallados en qué código? </test> 
+
+<A>a)	En NFPA 1122 y en el Código de seguridad de Trípoli. </A>
+<B>b)	En NFPA 1125 y en el Código de seguridad de Trípoli.</B>
+<C>c)	En NFPA 1127 y en el Código de seguridad de Trípoli.</C>
+<sol>C</sol>
+<ans>La respuesta correcta es  c.</ans>
+	</question>	
+<question>
+		<test>	NFPA 1127 y el Código de seguridad de Trípoli. ¿Quién está exento del NFPA 1127?</test> 
+
+<A>a)	No hay ningunas exenciones al NFPA 1127 a la que todos debe obedecer.</A>
+<B>b)	Administración Local, Federal, Estatal, Colegios, Universidades y negocios autorizados en actividades para cohetes HPR.</B>
+<C>c)	Personas que fabrican motores para cohete HPR para su propio empleo o distribución limitada.</C>
+<sol>B</sol>
+<ans>La respuesta correcta es  b. </ans>
+	</question>	
+<question>
+		<test>	¿Las personas, firmas, sociedades, empresas conjuntas, corporaciones u otras entidades de negocio dedicadas a actividades con cohetes de potencia hasta qué punto están exentos de la NFPA 1127? </test> 
+
+<A>a)	Cuando realizan pruebas HPR.</A>
+<B>b)	Cuando venden a usuarios Certificados de conformidad con NFPA 1127. </B>
+<C>c)	Cuando se dedican a actividades comerciales espaciales.</C>
+<sol>B</sol>
+<ans>La respuesta correcta es  b.  </ans>
+	</question>	
+<question>
+		<test>	¿Cuál es el objetivo de la NFPA 1127 y el Código de seguridad de Tripoli ? </test> 
+
+<A>a)	Adquisición de motores seguros y fiables, establecimiento de  directrices en operaciones de vuelo y la prevención de accidentes.</A>
+<B>b)	Promover la experimentación con fórmulas de propelentes, diseños de cohete y sistemas de carga.</B>
+<C>c)	Prevención contra los errores al comienzo de la afición.</C>
+<sol>A</sol>
+<ans>La respuesta correcta es  a. </ans>
+	</question>	
+ 
+<question>
+		<test>	¿Quien Tiene la Autoridad Jurisdiccional? </test> 
+
+<A>a)	Un tribunal sobre actividades de cohetes HPR.</A>
+<B>b)	La persona que prepara un HPR para el vuelo.</B>
+<C>c)	La organización, monitor o persona responsable de aprobar el equipo, una instalación o un procedimiento.</C>
+<sol>C</sol>
+<ans>La respuesta correcta es c.</ans>
+	</question>	 
+<question>
+		<test>	¿Que es un HPR complejo? </test> 
+
+<A>a)	Un cohete que tiene más de una etapa.</A>
+<B>b)	Un cohete que tiene un conjunto (cluster) de motores.</B>
+<C>c)	Ambos A y B.</C>
+<sol>C</sol>
+<ans>La respuesta correcta es c.</ans>
+	</question>	
+<question>
+		<test>	¿Cuáles son  los criterios (mínimos) de motor que definen un cohete HPR? </test> 
+
+<A>a)	Un cohete con un solo motor con un impulso total de más de 160 N/s o de un impulso instalado de 320 N/s y no más que 40.960 N/s.</A>
+<B>b)	Un cohete con sólo  un motor que tiene un empuje medio superior a 80 Newton.</B>
+<C>c)	Ambos A y B.</C>
+<sol>C</sol>
+<ans>La respuesta correcta es c.</ans>
+	</question>	
+<question>
+		<test>	¿Cuál es el límite de peso inferior de un cohete HPR?</test> 
+
+<A>a)	Un cohete que pesa más de 53 onzas.</A>
+<B>b)	Un cohete que pesa menos de 112 libras.</B>
+<C>c)	Ambos A y B</C>
+<sol>A</sol>
+<ans>La respuesta correcta es a.      Nota aclaratoria: (1 Kg = 35,27 Onz.)</ans>
+	</question>	
+<question>
+		<test> ¿Cuándo no es necesario un dispositivo de recuperación en un HPR?</test> 
+
+<A>a)	Cuando el cohete se quiere para el vuelo balístico.</A>
+<B>b)	Cuando el cohete tiene carga explosiva.</B>
+<C>c)	Un dispositivo de recuperación es siempre necesario.</C>
+<sol>C</sol>
+<ans>La respuesta correcta es c.</ans>
+	</question>	
+<question>
+		<test> ¿De qué materiales puede construirse un cohete HPR? </test> 
+
+<A>a)	Papel, madera, fibra de vidrio o plástico con una cantidad mínima de partes metálicas. </A>
+<B>b)	Papel, madera, fibra de vidrio, plástico y aluminio. </B>
+<C>c)	No hay ningunas restricciones contra materiales de construcción.</C>
+<sol>A</sol>
+<ans>La respuesta correcta es a.</ans>
+	</question>	
+<question>
+		<test> ¿Qué es un motor HPR? </test> 
+
+<A>a)	Un motor de cohete con más de 80 N/s de impulso total y 80 N de empuje medio. </A>
+<B>b)	Un motor de cohete con más de 160 N/s de impulso total o 80 N de empuje medio. </B>
+<C>c)	Un motor de cohete con más de 160 N/s de impulso total y 160 N  de empuje medio.</C>
+<sol>B</sol>
+<ans>La respuesta correcta es b.</ans>
+	</question>	
+<question>
+		<test>	¿Cuáles son las partes estructurales de un cohete HPR?</test> 
+
+<A>a)	Ojiva, fuselaje y montaje de motor.</A> 
+<B>b)	Ojiva, fuselaje y aletas. </B>
+<C>c)	Ojiva, montaje de motor y aletas.</C>
+<sol>B</sol>
+<ans>La respuesta correcta es b. </ans>
+	</question>	
+<question>
+		<test>	¿Quién puede manejar cohetes HPR?</test> 
+
+<A>a)	Cualquier miembro de una organización de cohetes a nivel nacional autorizada.</A>
+<B>b)	Sólo aquellos autorizados por el Gobierno.</B>
+<C>c)	Una persona que es un usuario Certificado.</C>
+<sol>C</sol>
+<ans>La respuesta correcta es c </ans>
+	</question>	
+<question>
+		<test>	¿Qué normas y autorizaciones debemos cumplir para lanzar cohetes HPR? </test> 
+
+<A>a)	La NFPA 1122, NFPA 1127 y el apartado 101 del Reglamento de la Administración de aviación civil.</A>
+<B>b)	La NFPA 1127, el apartado 101 del Reglamento de la Administración de Aviación Civil y aplicación de la Reglamentación gubernamental y reglamentos Locales.</B>
+<C>c)	NFPA 1122, el apartado 101 de la Regulación de Administración de aviación civil y aplicación de la Reglamentación gubernamental y reglamentos Locales.</C>
+<sol>B</sol>
+<ans>La respuesta correcta es b </ans>
+	</question>	
+<question>
+		<test>	¿Que criterios se aplican en la construcción de un cohete HPR? </test> 
+
+<A>a)	Uso de materiales adecuados para resistir la fatiga de utilización  y conservar la integridad estructural durante el vuelo.</A>
+<B>b)	Uso sólo de los materiales más ligeros para la construcción de cohetes HPR.</B>
+<C>c)	Uso de materiales que permitan un mínima flexión del cohete en vuelo.</C>
+<sol>A</sol>
+<ans>La respuesta correcta es a</ans>
+	</question>	
+<question>
+		<test>	¿Cuándo debe comprobarse la estabilidad de un cohete? </test> 
+
+<A>a)	Si el monitor de seguridad lo solicita.</A>
+<B>b)	Diseñando un nuevo cohete.</B>
+<C>c)	Siempre que el cohete esté preparado y listo para el lanzamiento.</C>
+<sol>C</sol>
+<ans>La respuesta correcta es c </ans>
+	</question>	
+<question>
+		<test>	¿Cuál debe ser el peso máximo de un cohete HPR? </test> 
+
+<A>a)	Inferior al peso máximo recomendado por el fabricante de motor para un motor dado.</A>
+<B>b)	Menos de 112 libras o 50kg. </B>
+<C>c)	No hay limitación en el peso máximo de un cohete HPR.</C>
+<sol>A</sol>
+<ans>La respuesta correcta es a </ans>
+	</question>	
+<question>
+		<test>	¿Cuándo está permitido coger al vuelo un HPR en descenso? </test> 
+
+<A>a)	Si el peso de cohete es menor de 2.2 libras o 1 Kg.</A>
+<B>b)	Nunca está permitido coger un cohete HPR. </B>
+<C>c)	Ninguna a o b.</C>
+<sol>B</sol>
+<ans>La respuesta correcta es b  </ans>
+	</question>	
+<question>
+		<test>	¿Qué tipos de carga en bodega están prohibidas en un cohete HPR? </test> 
+
+<A>a)	Las cargas inflamables o explosivas o que tuvieran la intención de causar  daño. </A>
+<B>b)	Animales vertebrados. </B>
+<C>c)	Ambas a y b.</C>
+<sol>C</sol>
+<ans>La respuesta correcta es c</ans>
+	</question>	
+<question>
+		<test>	¿Cuándo un dispositivo de lanzamiento HPR debe disponer de un deflector de gases? </test> 
+
+<A>a)	Cuando sea necesario prevenir que los gases de combustión del motor del cohete puedan afectar a materias inflamables. </A>
+<B>b)	Todos los sistemas de lanzamiento deben incorporar un deflector de gases.</B>
+<C>c)	Cuando el diseño del dispositivo de lanzamiento lo requiera.</C>
+<sol>A</sol>
+<ans>La respuesta correcta es a</ans>
+	</question>	
+<question>
+		<test>	¿Cuál es el ángulo máximo de lanzamiento desde la vertical para un cohete HPR?</test> 
+
+<A>a)	30 ° </A>
+<B>b)	20 ° </B>
+<C>c)	No hay ningún ángulo de lanzamiento máximo.</C>
+<sol>B</sol>
+<ans>La respuesta correcta es b</ans>
+	</question>	
+<question>
+		<test>	¿Cuáles son los elementos de que consta un sistema de encendido? </test> 
+
+<A>a)	Controlado remotamente, manejado eléctricamente, un interruptor de lanzamiento que vuelve a la posición de apagado cuando es liberado.</A> 
+<B>b)	Controlado remotamente, manejado eléctricamente y un mecanismo de seguridad extraíble, en serie con el interruptor de lanzamiento. </B>
+<C>c)	Controlado remotamente, manejado eléctricamente, un interruptor de lanzamiento que vuelve a la posición de apagado cuando es liberado y un dispositivo de seguridad extraíble en serie con el interruptor de lanzamiento.</C>
+<sol>C</sol>
+<ans>La respuesta correcta es c</ans>
+	</question>	
+<question>
+		<test>	¿Cuándo se instala el ignitor de encendido de un motor HPR? </test> 
+
+<A>a)	En la rampa o en un área designada.</A>
+<B>b)	Cuando el motor se instalado en el cohete. </B>
+<C>c)	Ninguno a o b.</C>
+
+<sol>A</sol>
+<ans>La respuesta correcta es a</ans>
+	</question>	
+<question>
+		<test>	¿Cuándo se arma el dispositivo de encendido?</test> 
+
+<A>a)	Probando la continuidad del dispositivo de encendido.</A>
+<B>b)	Cuando el cohete está en rampa en la posición de lanzamiento.</B>
+<C>c)	Ambos a y b.</C>
+<sol>B</sol>
+<ans>La respuesta correcta es b</ans>
+	</question>	
+<question>
+		<test>	¿Para qué se usa la tabla de dimensiones del campo de lanzamiento?</test> 
+
+<A>a)	Para todos los HPR.</A>
+<B>b)	Cuando hay una pregunta  relacionada con el perímetro y lados del área de lanzamiento. </B>
+<C>c)	Como norma para dimensiones mínimas del campo de lanzamiento.</C>
+<sol>C</sol>
+<ans>La respuesta correcta es c</ans>
+	</question>	
+<question>
+		<test>	¿Cuáles son los criterios dimensionales del campo de lanzamiento?</test> 
+
+<A>a)	No inferior A 1500 pies. </A>
+<B>b)	No menor de la mitad de la altitud máxima esperada o concedida por el FAA. </B>
+<C>c)	Ambas A y B.</C>
+<sol>C</sol>
+<ans>La respuesta correcta es c</ans>
+	</question>	
+<question>
+		<test>	¿Cuál es la distancia mínima de un edificio ocupado o una carretera pública hasta la rampa de lanzamiento?</test> 
+
+<A>a)	1000 pies. </A>
+<B>b)	1500 pies. </B>
+<C>c)	Ninguna distancia mínima si los inquilinos de edificio son informados de la actividad.</C>
+<sol>B</sol>
+<ans>La respuesta correcta es b</ans>
+	</question>	 
+<question>
+		<test>	¿A que distancia pueden estar los espectadores en un lanzamiento de un cohete HPR?</test> 
+
+<A>a)	A la distancia definida por, y detrás, del Monitor de seguridad. </A>
+<B>b)	A las distancias mostradas en la tabla de distancias de seguridad. </B>
+<C>c)	Ambas A y B.</C>
+<sol>A</sol>
+<ans>La respuesta correcta es a</ans>
+	</question>	
+<question>
+		<test>	¿Qué altitud máxima ha de tenerse en cuenta para el vuelo de HPR si hay un techo de nubes a 3000 pies? </test> 
+
+<A>a)	3500 pies. </A>
+<B>b)	Al límite de la renuncia FAA. </B>
+<C>c)	Ninguno ni A ni b.</C>
+<sol>C</sol>
+<ans>La respuesta correcta es c</ans>
+	</question>	
+<question>
+		<test>	¿Cuál es el límite de viento superficial para lanzar un HPR? </test> 
+
+<A>a)	30 millas por hora. </A>
+<B>b)	20 millas por hora. </B>
+<C>c)	15mph.</C>
+<sol>B</sol>
+<ans>La respuesta correcta es b</ans>
+	</question>	
+<question>
+		<test>	¿Cuándo puede lanzarse un HPR? </test> 
+
+<A>a)	Después de avisar a los espectadores y dar una cuenta regresiva  de 5 segundos. </A>
+<B>b)	Cuando todos los sistemas están listos y después de una cuenta regresiva de 5 segundos </B>
+<C>c)	Después de la  información, obtención de la autorización y atención del monitor de seguridad.</C>
+<sol>C</sol>
+<ans>La respuesta correcta es c</ans>
+	</question>	
+<question>
+		<test>	¿En qué tipo del contenedor serán almacenados los Motores HPR, motores recargables, equipos y módulos pirotécnicos? </test> 
+
+<A>a)	Un contenedor Tipo 3 o Tipo 4  de interior/exterior. </A>
+<B>b)	Un contenedor hermético, no combustible. </B>
+<C>c)	Ambos A (dependiendo del peso del propelente) y B.</C>
+<sol>C</sol>
+<ans>La respuesta correcta es c
+Nota: Desde la adopción del Código de seguridad 1127 de Trípoli, ha sido determinado por el BATF que cualquier motor o recarga cuyo peso sea mayor que 62.5 gm, requiere el almacenaje en contenedor homologado como se indica en 2-18.3, 2-18.3.1-4, y/o todas las previsiones de 2-18.4 </ans>
+	</question>	
+	<question>
+		<test>	¿Cuál es la distancia mínima para fumar (o hacer fuego)  cerca de motores HPR, recargas o  equipos y módulos pirotécnicos? </test> 
+
+<A>a)	10 pies. </A>
+<B>b)	25 pies. </B>
+<C>c)	No hay ninguna distancia mínima.</C>
+<sol>B</sol>
+<ans>La respuesta correcta es b</ans>
+	</question>	
+<question>
+		<test>	¿Qué cantidad de motores HPR, recargas y dispositivos pirotécnicos puede ser almacenados en un contenedor para ello? </test> 
+
+<A>a)	10 libras. </A>
+<B>b)	25 libras. </B>
+<C>c)	50 libras. </C>
+<sol>C</sol>
+<ans>La respuesta correcta es c</ans>
+	</question>	
+<question>
+		<test>	¿Según la NFPA 1127, quién puede fabricar propelente sólido para motores HPR? </test> 
+
+<A>a)	Un fabricante comercial. </A>
+<B>b)	Alguien con conocimiento del proceso. </B>
+<C>c)	Los poseedores de una Licencia de Fabricante de Explosivos BATF.</C>
+<sol>A</sol>
+<ans>La respuesta correcta es a</ans>
+	</question>	
+<question>
+		<test>	¿Un fabricante comercial de motores HPR puede producir qué tipo de motores? </test> 
+
+<A>a)	Motor de combustible sólido para motores HPR. </A>
+<B>b)	Motor de combustible sólido recargable para motores HPR</B>
+<C>c)	Ambos tipos.</C>
+<sol>C</sol>
+<ans>La respuesta correcta es c</ans>
+	</question>	
+<question>
+		<test>	¿Cuánto puede variar el impulso total certificado y tiempo de retardo de motores HPR comerciales? </test> 
+
+<A>a)	El 10 % </A>
+<B>b)	El 20 % </B>
+<C>c)	El 30 % </C>
+<sol>B</sol>
+<ans>La respuesta correcta es b</ans>
+	</question>	
+ 
+<question>
+		<test>	¿Cuándo puede ser transportado y almacenado un motor de propulsor sólido con el dispositivo de encendido instalado? </test> 
+
+<A>a)	Nunca, no esta permitido transportar o almacenar un motor de cohete de propulsor sólido con el dispositivo de encendido instalado.</A> 
+<B>b)	Cuando el cohete vaya a ser  lanzado dentro de las 48 horas desde la instalación del dispositivo de encendido. </B>
+<C>c)	Ninguno ni A ni B.</C>
+<sol>A</sol>
+<ans>La respuesta correcta es a</ans>
+	</question>	
+<question>
+		<test>	¿Cuál es el requisito previo necesario para la certificación de un propulsor sólido para motores HPR? </test> 
+
+<A>a)	La clasificación previa por el Ministerio de transporte estadounidense como una División UN 1.3 o 1.4 o mención escrita del motor o recarga como un explosivo o sólido inflamable.</A> 
+<B>b)	Autorización de la Autoridad competente para fabricación de propulsor sólido para motores HPR. </B>
+<C>c)	Registro de la fórmula y características del propulsor en la Oficina de Alcohol, Tabaco y Armas de fuego.</C>
+<sol>A</sol>
+<ans>La respuesta correcta es a</ans>
+	</question>	
+<question>
+		<test>	¿Cuándo debe el fabricante comunicar cambios a la autoridad que certificó el  motor HPR? </test> 
+
+<A>a)	Si el diseño varía en más de un 20 % del funcionamiento establecido en la certificación. </A>
+<B>b)	30 días antes del cambio. </B>
+<C>c)	No debe realizarse ningún informe.</C>
+<sol>B</sol>
+<ans>La respuesta correcta es b</ans>
+	</question>	
+<question>
+		<test>	¿Quién puede recibir combustible sólido para motores HPR? </test> 
+
+<A>a)	Usuarios certificados. </A>
+<B>b)	Los miembros de organizaciones de cohetería aprobadas a escala nacional. </B>
+<C>c)	Ninguno ni a ni b.</C>
+<sol>A</sol>
+<ans>La respuesta correcta es a</ans>
+	</question>	
+<question>
+		<test>	¿Cuál es el límite de edad que Trípoli reconoce para certificar a  usuarios de motores  HPR?</test> 
+
+<A>a)	21 años. </A>
+<B>b)	18 años. </B>
+<C>c)	No hay ningún límite de edad.</C>
+<sol>B</sol>
+<ans>La respuesta correcta es b</ans>
+	</question>	
+<question>
+		<test>	¿Cuándo puede usarse un HPR para demostraciones pirotécnicas de color, luz y/o sonido? </test> 
+
+<A>a)	Cuando es usado en una demostración pública.</A> 
+<B>b)	Cuando está  expresamente diseñado para ese uso. </B>
+<C>c)	No pueden ser utilizados para ese uso.</C>
+<sol>C</sol>
+<ans>La respuesta correcta es c</ans>
+	</question>	
+<question>
+		<test>	¿Cuándo se permite la venta, o exposición para la misma de motores no certificados? </test> 
+
+<A>a)	Cuando los motores no deben ser transportados fuera del estado donde se  fabricaron. </A>
+<B>b)	Cuando la venta de motores esta limitada a usuarios certificados. </B>
+<C>c)	Nunca.</C>
+<sol>C</sol>
+<ans> La respuesta correcta es c</ans>
+	</question>	
+<question>
+		<test>	¿Cuándo puede transportar un motor de cohete HPR una persona no certificada? </test> 
+
+<A>a)	Cuando la persona se dispone a certificarse como usuario HPR. </A>
+<B>b)	Cuando la persona es residente del estado en el cual realiza el transporte.</B>
+<C>c)	Nunca.</C>
+<sol>A</sol>
+<ans> La respuesta correcta es a</ans>
+	</question>	
+<question>
+		<test>	¿Cuándo esta permitido el consumo de alcohol durante la preparación o lanzamiento de cohetes HPR? </test> 
+
+<A>a)	Cuando la preparación se realiza el día antes del lanzamiento. </A>
+<B>b)	Si el nivel de alcohol en sangre está por debajo del nivel "peligroso". </B>
+<C>c)	Nunca se permite.</C>
+<sol>C</sol>
+<ans>La respuesta correcta es c</ans>
+	</question>	
+<question>
+		<test>	¿Qué organizaciones pueden certificar motores HPR? </test> 
+
+<A>a)	Asociación de Cohetes de Trípoli. </A>
+<B>b)	La Asociación Nacional de Cohetes. </B>
+<C>c)	Ambas</C>
+<sol>C</sol>
+<ans>La respuesta correcta es c</ans>
+	</question>	
+<question>
+		<test>	¿Qué organizaciones actualmente pueden certificar a los usuarios de motores HPR?</test>
+<A>a)	Asociación de Cohetes de Trípoli.</A> 
+<B>b)	La Asociación Nacional de Cohetes. </B>
+<C>c)	Ambas</C>
+<sol>C</sol>
+<ans>La respuesta correcta es c</ans>
+	</question>	
+<question>
+		<test>	¿Qué documento ha sido adoptado por la Asociación de Cohetes de Trípoli como el Código de seguridad Trípoli? </test>
+<A>a)	NFPA 1127 </A>
+<B>b)	NFPA 1125 </B>
+<C>c)	NFPA 1122</C>
+<sol>A</sol>
+<ans>La respuesta correcta es a</ans>
+	</question>
+</exam>		

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Tripoli L2 \n Quiz</string>
+    <string name="version">0.3.1</string>
+    <!-- MAin screen -->
+    <string name="start_quiz">Commencer le Quiz</string>
+    <string name="butClosemain">Quitter</string>
+
+    <!-- Buttons -->
+    <string name="close">Fermer</string>
+
+
+    <!-- Config-->
+    <string name="save_config">Sauver</string>
+    <string name="dismiss_app_config">Fermer</string>
+    <string name="application_language_config">Langue Application</string>
+    <string name="questions_language">Langue Questions</string>
+    <string name="default_config">Defaut</string>
+    <string name="font_size">Taille police</string>
+    <!-- About-->
+    <string name="butClose">Fermer</string>
+    <string name="AboutText">Cette application est \n copyright (c) Boris du Reau 2017 \n Tripoli Southern France. </string>
+    <string name="AboutText2">Toutes les questions sont \n copyright (c) Tripoli Rocketry.</string>
+    <string name="questions">Question:</string>
+
+    <!-- Menu -->
+    <string name="menu_restart">Recommencer</string>
+    <string name="menu_settings">Configuration</string>
+    <string name="menu_help">Aide</string>
+    <string name="menu_about">A propos</string>
+
+</resources>

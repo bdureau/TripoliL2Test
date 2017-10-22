@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<exam>
+	<question>
+		<test>Quelle loi de Newton décrit-elle le mieux le comportement d’un moteur de fusée ?</test>
+	<A>a. La Première Loi : Un corps persiste dans son état de repos ou de mouvement rectiligne uniforme à moins qu’il soit obligé de changer cet état par des forces exercées sur lui.</A>
+         <B>b. La Deuxième Loi : Le taux de changement d'impulsion est proportionnel à la force exercée et est dans la même direction que cette force.</B>
+         <C>c. La Troisième Loi : A toute action correspond une réaction de force égale et opposée.</C>
+		<sol>C</sol>
+		<ans>c. La 3eme loi de Newton. Lorsque l'on applique une force dans un sens il y a toujours la même force dans le sens contraire.</ans>
+	</question>
+<question>
+		<test>Quelle quantité de moteurs de fusée de haute puissance, de recharges et modules pyrotechniques peut-on stocker dans un caisson d’intérieur ?</test>
+         <A>a. 11,340 kg (25 livres).</A>
+         <B>b. 22,680 kg (50 livres).</B>
+         <C>c. Il ny a pas de limites.</C>
+         	<sol>C</sol>
+	 	<ans>c. Suite aux conclusions du jugement TRA/NAR-BATFE en Mars 2009, l'APCP n'est plus un explosif, et n'a pas besoin d'être stocké dans un dépôt d'explosifs.</ans>
+	</question>	
+<question>
+		<test>Selon le document NFPA 1127, qui peut fabriquer un moteur de fusée haute puissance à propulsif solide?</test>
+         <A>a. Un fabricant commercial.</A>
+         <B>b. Quelqu’un qui a le savoir faire.</B>
+         <C>c. Les détenteurs de la licence BATF de fabricant d’explosifs.</C>
+         	<sol>A</sol>
+	 	<ans>a. 3-1 Exigences de Certification</ans>
+	</question>	
+<question>
+		<test>Quel type de moteurs un fabricant commercial de moteurs de fusée de haute puissance peut-il produire ?</test>
+         <A>a. Des moteurs jetables de fusée de haute puissance à propulsif solide.</A>
+         <B>b. Des moteurs rechargeables de fusée de haute puissance à propulsif solide.</B>
+         <C>c. A la fois a et b.</C>
+         	<sol>C</sol>
+	 	<ans>c. 3-1 Exigences de Certification</ans>
+	</question>	
+<question>
+		<test>De combien peuvent varier l’impulsion totale et le délai des moteurs commerciaux de fusée haute puissance?</test>
+         <A>a. 10%</A>
+         <B>b. 20 %</B>
+         <C>c. 30 %</C>
+         	<sol>B</sol>
+	 	<ans>b. NFPA 1125 7.8.6-1</ans>
+	</question>	
+<question>
+		<test>Quand peut-on transporter ou stocker un moteur de fusée haute puissance à propulsif solide équipé de son allumeur?</test>
+         <A>a. Il est strictement interdit d’expédier ou de stocker un moteur de fusée de haute puissance à propulsif solide équipé de son allumeur.</A>
+         <B>b. Quand la fusée doit être lancée moins de 48 h après l’installation de l’allumeur.</B>
+         <C>c. Ni a, ni b.</C>
+         	<sol>A</sol>
+	 	<ans>a. NFPA 1125 7.10</ans>
+	</question>	
+<question>
+		<test>Quelle est la condition nécessaire préalable pour certifier un moteur de fusée haute puissance à propulsif solide?</test>
+         <A>a. Le Classement préalable dans la catégorie d’explosifs UN 1.3 ou 1.4 par le département des transports US ou la reconnaissance écrite du moteur ou de la recharge comme un solide inflammable.</A>
+         <B>b. L’autorisation de fabriquer des moteurs de fusée haute puissance à propulsif solide délivrée par l’autorité compétente.</B>
+         <C>c. Le dépôt de la formule et des caractéristiques du propulsif auprès du bureau de contrôle de l’alcool,tabac et armes à feu (ATF).</C>
+         	<sol>A</sol>
+	 	<ans>a. NFPA 1125 8.2.1</ans>
+	</question>	
+<question>
+		<test>A quel moment un fabricant doit-il signaler des modifications à l’autorité qui a certifié à l’origine le moteur de fusée haute puissance?</test>
+         <A>a. Si les résultats de l’amélioration de conception apportent une déviation supérieure à 20% des performances annoncées lors de la certification.</A>
+         <B>b. Dans les 30 jours suivant la modification.</B>
+         <C>c. Aucune modification ne doit être signalée.</C>
+         	<sol>B</sol>
+	 	<ans>b. NFPA 1125 8.2.6/8.2.7</ans>
+	</question>	
+<question>
+		<test>Qui peut acquérir un moteur de fusée haute puissance à propulsif solide?</test>
+         <A>a. Les utilisateurs certifiés.</A>
+         <B>b. Les membres des organisations d’astromodèlisme reconnues.</B>
+         <C>c. Toute personne de plus de 18 ans.</C>
+         	<sol>A</sol>
+	 	<ans>a. 5-1 Ventes uniquement aux utilisateurs certifiés</ans>
+	</question>	
+<question>
+		<test>Quelle est la limite d’âge minimale reconnue par Tripoli pour certifier un utilisateur de moteur de fusée haute puissance à propulsif solide?</test>
+         <A>a. 21 ans.</A>
+         <B>b. 18 ans.</B>
+         <C>c. Il n’y a pas de limite d’âge.</C>
+         	<sol>B</sol>
+	 	<ans>b. Il faut noter que les lois locales peuvent être différentes. Tous les membres sont encouragés a obéir à toute loi s'appliquant à eux.</ans>
+	</question>	
+<question>
+		<test>Quand un moteur de fusée haute puissance peut il être utilisé pour un spectacle coloré de son et lumières ?</test>
+         <A>a. Lors d’une manifestation publique.</A>
+         <B>b. Quand il a été conçu pour cette utilisation.</B>
+         <C>c. Il ne doit pas être utilisé dans ce but.</C>
+         	<sol>C</sol>
+	 	<ans>c. NFPA 1127 6.1.1</ans>
+	</question>	
+<question>
+		<test>Quand la vente, l’offre de vente et/ou l’exposition pour vendre de moteurs non certifiés est-elle permise ?</test>
+         <A>a. Quand les moteurs ne sortent pas du pays dans lequel ils sont fabriqués.</A>
+         <B>b. Quand la vente des moteurs est limitée à des utilisateurs certifiés.</B>
+         <C>c. Ce n’est jamais permis.</C>
+         	<sol>C</sol>
+	 	<ans>c. 5-3 Activités interdites</ans>
+	</question>	
+
+<question>
+<test>Qui dans l'association Tripoli peut certifier un membre au Level 1 ou Level 2?</test>
+<A>a. Le prefet.</A>
+<B>b. Un membre TAP.</B>
+<C>c. Un membre du comité de direction, le prefet ou un membre TAP.</C>
+<sol>C</sol>
+<ans>c. Règles de Certification.</ans>
+</question>
+
+
+
+</exam>		
