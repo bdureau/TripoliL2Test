@@ -4,7 +4,6 @@ import android.app.AlertDialog;
 import android.content.DialogInterface;
 import android.content.Intent;
 import android.content.res.AssetManager;
-//import android.support.v7.app.AppCompatActivity;
 import androidx.appcompat.app.AppCompatActivity;
 import android.os.Bundle;
 import android.text.Html;
@@ -22,7 +21,7 @@ import org.xml.sax.SAXException;
 
 import java.io.IOException;
 import java.io.InputStream;
-import java.util.Locale;
+
 import java.util.Random;
 
 
@@ -183,24 +182,12 @@ public class QuestionsActivity extends AppCompatActivity {
         already_done = new int[1000];
 
         gen = new Random();
-        // prépare questions
+        // prepare questions
         try {
             String questions;
+            Intent myIntent = getIntent(); // gets the previously created intent
+            questions = myIntent.getStringExtra("quiz");
 
-            questions ="questions.xml";
-            myCfg.getAppConf().ReadConfig();
-            if(myCfg.getAppConf().getQuestionLanguage().equals("0")) {
-                questions="questions.xml";
-            }
-            else if(myCfg.getAppConf().getQuestionLanguage().equals("1")) {
-                questions="questions_fr.xml";
-            }
-            else if(myCfg.getAppConf().getQuestionLanguage().equals("2"))  {
-                questions="questions_es.xml";
-            }
-            else if(myCfg.getAppConf().getQuestionLanguage().equals("3"))  {
-                questions="questions.xml";
-            }
             stream = manager.open(questions);
             Document doc = parser.getDocument(stream);
 

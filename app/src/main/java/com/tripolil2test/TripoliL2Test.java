@@ -8,10 +8,12 @@ import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
 import android.widget.Button;
+import android.widget.RadioButton;
 
 public class TripoliL2Test extends AppCompatActivity {
     Button btnStartQuiz;
     Button btnExitQuiz;
+    RadioButton radioButtonQuiz1, radioButtonQuiz2;
     MainConfigApplication myCfg;
 
     @Override
@@ -24,6 +26,8 @@ public class TripoliL2Test extends AppCompatActivity {
         getApplicationContext().getResources().updateConfiguration(myCfg.getAppLocal(), null);
         setContentView(R.layout.activity_tripoli_l2_test);
 
+        radioButtonQuiz1 = (RadioButton) findViewById(R.id.radioButtonQuiz1);
+        radioButtonQuiz2 = (RadioButton) findViewById(R.id.radioButtonQuiz2);
         btnStartQuiz = (Button)findViewById(R.id.butStartQuiz);
 
         btnStartQuiz.setOnClickListener(new View.OnClickListener()
@@ -31,8 +35,29 @@ public class TripoliL2Test extends AppCompatActivity {
             @Override
             public void onClick(View v)
             {
-                //finish();      //exit the about activity
+                String questions= "";
+                if(radioButtonQuiz1.isChecked()){
+                    questions = "questions";
+                }
+                else if(radioButtonQuiz2.isChecked()){
+                    questions = "questions_m1";
+                } else {
+                    questions = "questions";
+                }
+                if(myCfg.getAppConf().getQuestionLanguage().equals("0")) {
+                    questions=questions +".xml";
+                }
+                else if(myCfg.getAppConf().getQuestionLanguage().equals("1")) {
+                    questions=questions +"_fr.xml";
+                }
+                else if(myCfg.getAppConf().getQuestionLanguage().equals("2"))  {
+                    questions=questions +"_es.xml";
+                }
+                else {
+                    questions=questions +".xml";
+                }
                 Intent i= new Intent(TripoliL2Test.this, QuestionsActivity.class);
+                i.putExtra("quiz",questions);
                 startActivity(i);
             }
         });

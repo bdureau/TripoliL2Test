@@ -6,9 +6,9 @@ import android.content.SharedPreferences;
 import android.content.res.Configuration;
 import android.graphics.Color;
 
-import java.io.IOException;
+//import java.io.IOException;
 
-import java.io.InputStream;
+//import java.io.InputStream;
 import java.util.Locale;
 
 

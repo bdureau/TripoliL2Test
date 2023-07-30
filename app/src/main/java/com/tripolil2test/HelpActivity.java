@@ -1,6 +1,6 @@
 package com.tripolil2test;
 
-//import android.support.v7.app.AppCompatActivity;
+
 import androidx.appcompat.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
@@ -8,7 +8,7 @@ import android.webkit.WebSettings;
 import android.webkit.WebView;
 import android.widget.Button;
 
-import java.util.Locale;
+//import java.util.Locale;
 
 public class HelpActivity extends AppCompatActivity {
 Button btnDismiss;

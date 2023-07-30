@@ -1,0 +1,488 @@
+<exam>
+    <question>
+        <test>Quelles sont les forces qui entrent en jeux lors de l’ascension d’une fusée et qui impactent négativement l’altitude atteinte par la fusée?</test>
+        <A>A. inertie et traînée.</A>
+        <B>B. Gravité et traînée.</B>
+        <C>C. Poussée et élan.</C>
+        <sol>B</sol>
+        <ans>B. La gravité est toujours présente, résistant au vol vertical dans la phase ascendante. La traînée, déterminée par la conception et la construction de la fusée, présente une résistance aérodynamique au vol vertical en phase ascendante.</ans>
+    </question>
+    <question>
+        <test>Quelles forces présentes durant l’ascension d’une fusée augmenteront l’altitude que celle ci atteint?</test>
+        <A>A. Poussée et élan.</A>
+        <B>B. Poussée et inertie.</B>
+        <C>C. Gravité et traînée.</C>
+        <sol>A</sol>
+        <ans>A. La poussée est assurée par le moteur de la fusée dans la partie motorisée de la phase ascensionnelle; l’élan est accumulé pendant la partie motorisée de la phase ascensionnelle et porte la fusée vers le haut durant la phase de croisière, étant progressivement réduite par la gravité et la traînée jusqu’à ce que la fusée atteigne son apogée.</ans>
+    </question>
+    <question>
+        <test>Comment la troisième loi de Newton "À chaque action correspond toujours une réaction égale et opposée" est-elle liée à la façon dont une fusée s'élève grâce à la puissance de son moteur ?</test>
+        <A>A. La chaleur produite par la combustion du propulseur soulève la fusée.</A>
+        <B>B. La flamme du propulseur brûlant produit une portance aérodynamique qui soulève la fusée.</B>
+        <C>C. Les gaz sous pression produits par la combustion du propulseur font accélérer la fusée dans la direction opposée des gaz expulsés.</C>
+        <sol>C</sol>
+        <ans>C. La troisième loi de Newton stipule que l’application d’une force dans une direction entraîne toujours une force égale dans la direction opposée.</ans>
+    </question>
+    <question>
+        <test>Deux fusées sont identiques, sauf en poids : une pèse 2 livres, et une pèse 3 livres. Les deux sont lancés dans les mêmes conditions sur le même type de moteur. Quel résultat escomptez-vous?</test>
+        <A>A. La fusée de 2 livres atteint une altitude plus haute.</A>
+        <B>B. La fusée de 3 livres atteint une altitude plus haute.</B>
+        <C>C. Les 2 fusées atteignent la même altitude.</C>
+        <sol>A</sol>
+        <ans>A. La fusée de 2 livres devrait atteindre une altitude plus élevée puisque la force de gravité, qui résiste au vol vertical dans la phase ascendante, sera inférieure à une fusée de 3 livres.</ans>
+    </question>
+    <question>
+        <test>Deux fusées identiques se déplacent à des vitesses différentes. Quelle fusée subit une plus grande force de traînée aérodynamique?</test>
+        <A>A. La fusée qui se déplace plus lentement.</A>
+        <B>B. La fusée qui se déplace plus vite.</B>
+        <C>C. Les deux subissent la même force de traînée aérodynamique.</C>
+        <sol>B</sol>
+        <ans>B. Toutes les fusées ont un coefficient de traînée (Cd) déterminé par la conception et la construction. Le Cd augmente progressivement avec la vitesse en voyageant dans l’air. Ainsi pour deux fusées identiques (ayant le même Cd), celle voyageant à une vitesse plus élevée créera plus de traînée.</ans>
+    </question>
+    <question>
+        <test>Pour réduire l’effet de la traînée sur une fusée :</test>
+        <A>A. Arrondir les bords d’attaque des ailettes de la fusée.</A>
+        <B>B. Ajouter un “ boat tail” à l’arrière de la fusée.</B>
+        <C>C. A la fois A et B.</C>
+        <sol>C</sol>
+        <ans>C. Les bords arrondis des ailerons créent moins de traînée que les bords carrés, les “boat tail” réduisent la « traînée de base » qui est créée à un degré plus élevé par une extrémité arrière carrée d’une fusée.</ans>
+    </question>
+    <question>
+        <test>Le centre de poussée (CP) d’une fusée est généralement défini en tant que:</test>
+        <A>A. Le point d’équilibre de la fusée sans moteur.</A>
+        <B>B. Le point auquel la portance aérodynamique d’une fusée est centrée.</B>
+        <C>C. La surface totale des ailettes, de la cellule et du cône avant divisée par deux.</C>
+        <sol>B</sol>
+        <ans>B. Le centre de poussée (CP) est le point sur la fusée où la portance aérodynamique est centrée. Cela signifie que la portance aérodynamique, si la fusée est à un angle d’attaque non nul, vers l’avant de ce point est équilibrée par la portance aérodynamique vers l’arrière de ce point.</ans>
+    </question>
+    <question>
+        <test>Le centre de gravité (ou centre de masse) est le point auquel:</test>
+        <A>A. La fusée est la plus lourde.</A>
+        <B>B. La portance aérodynamique est centrée.</B>
+        <C>C. Il y a une masse égale à l’arrière du point et à l’avant du point.</C>
+        <sol>C</sol>
+        <ans>C. En termes simples, le centre de gravité (CG) est le point auquel une fusée s’équilibrera avant et arrière si elle est placée sur un bord ou suspendue par une corde.</ans>
+    </question>
+    <question>
+        <test>Pour une fusée intrinsèquement stable, quelle déclaration sur le centre de gravité (CG) et le centre de poussée (CP) est vraie?</test>
+        <A>A. Le centre de gravité doit se trouver en avant du CP par rapport à la direction de vol souhaitée.</A>
+        <B>B. The Le centre de gravité doit se trouver derrière le CP par rapport à la direction de vol souhaitée.</B>
+        <C>C. Le centre de gravité doit avancer (dans la direction désirée du vol) pendant la combustion du moteur.</C>
+        <sol>A</sol>
+        <ans>A. Le centre de poussée (CP) est l’endroit où la portance aérodynamique, puisqu’une fusée a un angle d’attaque non nul, est centrée. Pour une fusée aérodynamiquement stable avec le centre de poussée (CP) derrière le centre de gravité (CG), la portance qui est centrée derrière le centre de gravité (CG) créera un moment correctif pour ramener la fusée à zéro degré d’angle d’attaque. À l’inverse, si le centre de poussée (CP) est en avant du centre de gravité (CG), la fusée tentera de faire demi-tour pour que le centre de poussée (CP) soit de nouveau derrière le centre de gravité (CG). Cette « culbute » résultante est caractéristique d’une fusée instable. </ans>
+    </question>
+    <question>
+        <test>Pour qu’une fusée soit stable comment doit être approximativement le centre de gravité (CG) par rapport au centre de poussé (CP)?</test>
+        <A>A. Le centre de gravité (CG) doit être Presque confondu avec le center de poussée (CP).</A>
+        <B>B. La fusée doit s’équilibrer près ou au centre de gravité.</B>
+        <C>C. Le centre de gravité doit avoir au moins un diamètre de corps devant le centre de poussée.</C>
+        <sol>C</sol>
+        <ans>C. Le fait de maintenir le centre de gravité (CG) à un diamètre de corps devant le centre de poussée (CP) permet généralement une marge suffisante pour la stabilité de la fusée.</ans>
+    </question>
+    <question>
+        <test>Une fusée de 2 pouces de diamètre, chargée de son moteur, a un centre de gravité (CG) à deux pouces derrière le centre de poussée (CP). Cette fusée est-elle stable ?</test>
+        <A>A. Non, le centre de gravité doit être au moins à deux diamètres de tube corps derrière le CP.</A>
+        <B>B. Non, le CP doit être derrière le CG pour que la fusée soit stable.</B>
+        <C>C. Oui, le CP est un diamètre de corps devant le CG.</C>
+        <sol>B</sol>
+        <ans>B. Une fusée dont le centre de poussée (CP) se trouve devant le centre de gravité (CG) est toujours instable, quelle que soit la distance entre ces deux points.</ans>
+    </question>
+    <question>
+        <test>Si vous vouliez déplacer le CP pour améliorer la stabilité, vous le feriez en:</test>
+        <A>A. Ajoutant de la masse dans l’ogive.</A>
+        <B>B. Augmentant la taille des ailerons.</B>
+        <C>C. Diminuant la taille des ailerons.</C>
+        <sol>B</sol>
+        <ans>B. L’augmentation de la taille des ailerons déplacera le centre de poussée (CP) vers l’arrière, ce qui améliorera la marge de stabilité. La diminution de la taille des ailerons diminuera la stabilité. L’ajout du poids du nez améliorera la stabilité, mais le fera en déplaçant le centre de gravité, et non le centre de poussée (CP).</ans>
+    </question>
+    <question>
+        <test>Lorsque le centre de gravité (CG) est derrière le centre de poussée (CP), la fusée peut:</test>
+        <A>A. Prendre le vent après décollage.</A>
+        <B>B. Perdre un ou plusieurs de ses ailerons (“arrachage”) avant de prendre une trajectoire de vol instable.</B>
+        <C>C. Basculer d’un bout à l’autre ou prendre une trajectoire de vol instable.</C>
+        <sol>C</sol>
+        <ans>C. Une fusée qui a le centre de gravité (CG) derrière le centre de poussée (CP) sera instable, et donc peut culbuter ou voler de façon erratique.</ans>
+    </question>
+    <question>
+        <test>Vous pouvez augmenter la marge de stabilité d’une fusée en:</test>
+        <A>A. Ajoutant de la masse dans l’ogive.</A>
+        <B>B. Diminuant la taille des ailerons.</B>
+        <C>C. En utilisant plus d’époxy pour attacher plus fermement les ailerons.</C>
+        <sol>A</sol>
+        <ans>A. L’ajout de poids dans l’ogive fait avancer le centre de gravité, ce qui améliore la stabilité. La réduction des ailerons fera avancer le centre de poussée (CP), ce qui diminue la stabilité. L’utilisation d’une plus grande quantité d’époxy ajoutera du poids à l’arrière de la fusée, ce qui déplacera le centre de gravité vers l’arrière et diminuera la marge de stabilité.</ans>
+    </question>
+    <question>
+        <test>Une fusée de 2 pouces de diamètre, chargée avec son moteur a son centre de gravité (CG) 10 pouces devant le centre de poussée (CP). Qu’est ce qui est le plus susceptible d’arriver?</test>
+        <A>A. La fusée peut dessiner dans le ciel “skywrite”. Elle n’est pas stable.</A>
+        <B>B. la fusée peut se mettre en girouette “ weather cock” dans le vent après le décollage.</B>
+        <C>C. La fusée peut voler trop lentement parce qu’elle est trop longue.</C>
+        <sol>B</sol>
+        <ans>B. La fusée a une marge de stabilité de 5 et est surstable. Toutes les fusées peuvent partir en girouette, mais cela arrive plus souvent avec les fusées surstables. </ans>
+    </question>
+    <question>
+        <test>Quelles sont les trois choses qui amélioreront la stabilité d’une fusée?</test>
+        <A>A. Ajouter de la masse dans l’ogive, allonger la fusée ou augmenter le nombre d’ailerons.</A>
+        <B>B. Ajouter de la masse dans l’ogive, allonger la fusée ou diminuer la taille des ailerons.</B>
+        <C>C. Ajouter de la masse dans l’ogive, utiliser un plus gros propulseur ou diminuer la taille des ailerons.</C>
+        <sol>A</sol>
+        <ans>A. L’ajout de la masse dans l’ogive et l’allongement de la fusée feront avancer le centre de gravité et l’augmentation du nombre d’ailerons fera reculer le centre de poussée (CP).</ans>
+    </question>
+    <question>
+        <test>Si le temps de combustion d’un propulseur J200 est de 4 secondes, quelle est l’impulsion totale du propulseur?</test>
+        <A>A. 50 Newton secondes</A>
+        <B>B. 800 Newton secondes</B>
+        <C>C. 800 Newtons</C>
+        <sol>B</sol>
+        <ans>B. Selon les conventions d’appellation des propulseurs, un propulseur J200 a une poussée moyenne de 200 newtons. Multipliez la poussée moyenne (200 newtons) par le temps de combustion (4 secondes) pour obtenir l’impulsion totale de 800 newton secondes.</ans>
+    </question>
+    <question>
+        <test>Lequel des propulseurs énumérés ci-dessous a la plus forte impulsion totale?</test>
+        <A>A. H100</A>
+        <B>B. H200</B>
+        <C>C. I100</C>
+        <sol>C</sol>
+        <ans>C. Le propulseur H a une plage de 160 à 320 Newton secondes et le propulseur I a une impulsion totale de 321 à 640 Newton secondes.</ans>
+    </question>
+    <question>
+        <test>Lequel des propulseurs énumérés ci-dessous présente la poussée moyenne la plus élevée?</test>
+        <A>A. H100</A>
+        <B>B. H200</B>
+        <C>C. I100</C>
+        <sol>B</sol>
+        <ans>B Même si l’impulsion totale du propulseur I est supérieure à celle du propulseur H, la poussée moyenne du propulseur H est de 200 newton contre 100 newtons pour le propulseur I.</ans>
+    </question>
+    <question>
+        <test>Que signifie la désignation du propulseur H180-8?</test>
+        <A>A. Le propulseur a une impulsion totale comprise entre 160 et 320 Newton secondes, une poussée moyenne de 180 Newtons, avec 8 secondes entre l’allumage du moteur et l’éjection.</A>
+        <B>B. Le propulseur a une impulsion totale de 180 Newton‐secondes, une poussée moyenne de 180 Newtons, avec 8 secondes entre la fin de la combustion du moteur et l’éjection.</B>
+        <C>C. Le propulseur a une impulsion totale comprise entre 160 et 320 Newton secondes, poussée moyenne de 180 Newtons, avec 8 secondes entre la fin de la combustion du moteur et l’éjection.</C>
+        <sol>C</sol>
+        <ans>C. Il s’agit d’un propulseur H avec une plage d’impulsions totale de 160,01 à 320 Newton secondes, une poussée moyenne de 180 Newtons et un délai d’éjection de 8 secondes à partir de la combustion.</ans>
+    </question>
+    <question>
+        <test>Qu’est ce qu’un Newton?</test>
+        <A>A. La quantité de force nécessaire pour accélérer un kilogramme à une vitesse d’un mètre par seconde en une seconde.</A>
+        <B>B. La force nécessaire pour accélérer une livre à une vitesse d’un pied par seconde en une seconde.</B>
+        <C>C. La force nécessaire pour accélérer un kilogramme à une vitesse d’un pied par seconde en une seconde.</C>
+        <sol>A</sol>
+        <ans>A. Le newton est une unité de force internationale (métrique), c’est la force requise pour accélérer d’un kilogramme (2,2 lb) à une vitesse d’un mètre (39,4 pouces) par seconde en une seconde.</ans>
+    </question>
+    <question>
+        <test>Quelle est une bonne méthode pour déterminer le poids qu’un moteur de fusée peut soulever en toute sécurité?</test>
+        <A>A. Utiliser un propulseur avec à minima une poussée moyenne en livres égale à la masse de la fusée chargée en livres.</A>
+        <B>B. Utiliser un propulseur ayant à minima 5 fois la poussée moyenne en livres de la masse en livres de la fusée chargée.</B>
+        <C>C. Utiliser un propulseur ayant à minima 5 fois la poussée moyenne, mesurée en newtons, que la masse de la fusée chargée en livres.</C>
+        <sol>B</sol>
+        <ans>B. Un rapport poussée-poids de 5:1 est une bonne ligne directrice à suivre, mais assurez-vous de travailler avec les mêmes unités des deux côtés du rapport! Lorsqu’il y a du vent, il faut envisager un rapport poussée-poids supérieur à 5:1.</ans>
+    </question>
+    <question>
+        <test>Quelle méthode de récupération n’est pas considérée comme une méthode de récupération active et n’est PAS susceptible d’être sûre pour une fusée haute puissance?</test>
+        <A>A. Un Parachute unique</A>
+        <B>B. Double déploiement avec des parachutes drogue et main</B>
+        <C>C. Récupération en chute libre</C>
+        <sol>C</sol>
+        <ans>C. En général, la récupération en hélicoptère n’est pas dangereuse pour les petites fusées et/ou les fusées très légères, comme les micro fusées. Il est peu probable qu’une fusée suffisamment robuste et/ou de taille suffisante pour supporter des propulseurs haute puissance soit suffisamment légère/petite pour permettre une récupération en hélicoptère en toute sécurité.</ans>
+    </question>
+    <question>
+        <test>Quel matériau de cordon de choc est commun dans les micros fusées, mais pas assez fort pour supporter les forces supplémentaires de déploiement de fusées haute puissance?</test>
+        <A>A. Kevlar</A>
+        <B>B. Nylon tressé</B>
+        <C>C. Elastique</C>
+        <sol>C</sol>
+        <ans>C. Les cordons de choc élastiques, qui sont couramment utilisé avec les micros fusées, supporteront moins bien le poids, la taille et les capacités de vol accrus des fusées hautes puissance.</ans>
+    </question>
+    <question>
+        <test>Votre programme de simulation a recommandé un délai d’éjection de 8 secondes pour votre fusée et c’est le cas du propulseur que vous prévoyez d’utiliser. Le programme de simulation ne supposait aucun vent, mais les vents sur le site de lancement sont de 15 milles à l’heure. Quel réglage du délai de charge d’éjection est la meilleure option ?</test>
+        <A>A. Utiliser un délai d’éjection plus court</A>
+        <B>B. Gardez le même délai.</B>
+        <C>C. Utiliser un délai d’éjection plus long.</C>
+        <sol>A</sol>
+        <ans>A. La fusée fera un arc dans le vent, atteignant un apogée plus basse et plus rapidement</ans>
+    </question>
+    <question>
+        <test>Laquelle des situations ci-dessous risque de se produire si l’ogive de votre fusée a du jeux dans le tube?</test>
+        <A>A. L’ogive se sépare facilement lorsque la charge d’éjection s’allume et augmente les chances d’un lancement réussi.</A>
+        <B>B. L’ogive se séparera facilement lorsque la fusée s’inclinera ce qui garantira le déploiement du système de récupération.</B>
+        <C>C. La fusée ralentira avec la trainée ce qui permettra à l’ogive de sortir, provoquera une séparation et qui conduira à un déploiement prématuré du système de récupération.</C>
+        <sol>C</sol>
+        <ans>C. La séparation par traînée se produit parce que la traînée sur la partie arrière de la fusée, où se trouvent les ailerons, est généralement plus élevée que la traînée de l’ogive ou de la partie avant. Si l’ogive n’est pas suffisamment serrée pour que la fusée puisse être soulevée en la tenant par l’ogive, la section arrière peut être arrachée de l’ogive. Plus l’ogive est lourde, plus le problème est prononcé, car l’ogive a plus d’élan. Pour résoudre ce problème des goupilles de cisaillement (shear pins), peuvent être utilisées pour réduire l’incidence de la séparation par traînée.</ans>
+    </question>
+    <question>
+        <test>Votre programme de simulation a calculé que votre fusée atteindra la stabilité aérodynamique juste avant de quitter un rail de lancement de 12 pieds de haut. Sur le site de lancement, seules des rampes de lancement de 6 pieds sont disponibles. Vous devriez:</test>
+        <A>A. Lancez votre fusée sur le rail de 6 pieds. Votre CG est en avant de votre CP d’au moins un diamètre du tube de corps, ainsi la longueur du rail n’importe pas.</A>
+        <B>B. Utiliser un moteur « plus rapide » (poussée initiale plus élevée) de sorte que la fusée atteigne une vitesse suffisante et une stabilité aérodynamique sur une distance plus courte.</B>
+        <C>C. Utiliser le rail de 6 pieds, mais incliner le rail de façon à ce qu’il ait moins d’effet sur la stabilité aérodynamique.</C>
+        <sol>B</sol>
+        <ans>B. Toutes les fusées ont une distance minimale à parcourir depuis le décollage pour être aérodynamiquement stables, cela dépend de la conception et de la construction de la fusée, ainsi que des caractéristiques d’impulsion du moteur utilisé. Si une distance de 12 pieds est nécessaire pour assurer un vol stable pour une fusée donnée sur un propulseur particulier, cette distance peut être réduite pour la même fusée si un propulseur à impulsion moyenne/initiale (« plus rapide ») est utilisé.</ans>
+    </question>
+    <question>
+        <test>Vous voulez que votre fusée atteigne des vitesses élevées. Pour minimiser la traînée des guides de lancement, vous pouvez en toute sécurité :</test>
+        <A>A. Utiliser une rampe cage qui guidera la trajectoire de la fusée sans aucune traînée induisant des guides sur la fusée.</A>
+        <B>B. Fixer les tubes de guidage avec du ruban adhésif afin qu’ils tombent après la sortie de la tige de lancement.</B>
+        <C>C. Utiliser un seul bouton de rail. L’utilisation d’un seul bouton de rail donnera moins de traînée que l’utilisation de deux boutons de rail.</C>
+        <sol>A</sol>
+        <ans>A. Les tubes de guidages et les boutons de rail ajouteront toujours une certaine traînée à la fusée. Cependant, réduire leur fixation ou réduire le nombre de tubes/boutons n’est pas un moyen sûr ou efficace de traiter la traînée qu’ils créent. Les tubes de guidage ou les boutons de rail peuvent être complètement supprimés si la fusée est lancée à l’aide d’une tour de lancement correctement configurée pour fournir un alignement vertical efficace de la fusée du décollage à la distance dont la fusée a besoin pour atteindre la vitesse minimale pour sa stabilité.</ans>
+    </question>
+    <question>
+        <test>Quelle est la méthode de fixation des ailerons la moins fiable qui bien qu’elle soit utilisée largement avec les micro fusées ne convient pas forcement aux fusées haute puissance</test>
+        <A>A. Attacher les ailerons sur le porte moteur en passant au travers du tube du corps de la fusée.</A>
+        <B>B. Attacher les ailerons directement sur le tube du corps de la fusée avec de la colle à bois.</B>
+        <C>C. Attacher les ailerons directement sur le tube du corps de la fusée puis renforcer avec des couches de tissu de verre et de l’epoxy.</C>
+        <sol>B</sol>
+        <ans>B. Bien que cette méthode soit fréquemment utilisée dans les fusées de faible puissance, elle est généralement moins fiable que les autres méthodes. La fixation des ailerons doit être prise en compte lors de la construction de fusées à utiliser avec des moteurs haute puissance, qui peuvent avoir des niveaux de poussée très élevés. Les ailerons qui traversent le tube peuvent être fixés au tube du moteur et au tube du corps, ce qui renforce la fixation. Avec des fusées plus petites, les modélistes fixeront les ailerons directement au tube de corps, mais compenseront cela en utilisant des matériaux plus solides, de la colle plus forte et, souvent, des renforts en fibre de verre ou en fibre de carbone.</ans>
+    </question>
+    <question>
+        <test>Quelle peut être une conséquence dangereuse d’utiliser un matériau pour les ailerons qui est trop fin ou trop fragile pour votre fusée et le moteur que vous utilisez?</test>
+        <A>A. La fusée n’atteindra pas la même altitude qu’avec des ailerons plus solide.</A>
+        <B>B. Les ailerons peuvent se détacher au milieu du vol et rendre la fusée instable.</B>
+        <C>C. La fusée atteindra une altitude plus élevé qu’avec des ailerons dans un matériau plus lourd.</C>
+        <sol>B</sol>
+        <ans>B. Les ailerons sont soumis à des forces aérodynamiques qui peuvent les faire fléchir. La quantité de flexion, parfois appelée battement de l’aileron, dépend de la rigidité du matériau de l’aileron, mais aussi de la forme de l’aileron et de la vitesse de la fusée. Au-dessus d’une vitesse critique, cette flexion peut affaiblir la fixation de l’aileron à la fusée et provoquer le détachement des ailerons à mi-vol. Le même résultat peut se produire si les ailerons sont mal fixés. Lorsque les ailerons se détachent au milieu du vol, le centre de poussée (CP) change et la fusée devient instable.</ans>
+    </question>
+
+    <question>
+        <test>Laquelle est une fusée complexe?</test>
+        <A>A. Une fusée avec une grappe de moteurs (cluster).</A>
+        <B>B. A la fois A et C.</B>
+        <C>C. Une fusée avec plus d’un étage.</C>
+        <sol>B</sol>
+        <ans>B. De par le NFPA 1127, 3.3.13.1.1 Fusée haute puissance complexe ‐ Une fusée de haute puissance complexe à plusieurs étages ou est propulsée par un, deux ou plusieurs propulseurs.</ans>
+    </question>
+    <question>
+        <test>Quel moteur n’est pas considéré comme un moteur fusée haute puissance?</test>
+        <A>A. Un propulseur qui a 150 Newton secondes d’impulsion totale, une poussée moyenne de 60 Newtons et qui contient 55 grammes de propergol.</A>
+        <B>B. Un propulseur qui a 200 Newton secondes d’impulsion totale, une poussée moyenne de 70 Newtons et qui contient 80 grammes de propergol.</B>
+        <C>C. Un moteur qui a 140 Newton secondes d’impulsion totale, une poussée moyenne de 85 Newtons et qui contient 130 grammes de propergol.</C>
+        <sol>A</sol>
+        <ans>A. D’après le Code de sécurité de haute puissance, un propulseur de fusée haute puissance est un propulseur de fusée qui a plus de 160 Newton‐secondes  mais pas plus de 40,960 Newton‐secondes d’impulsion totale ou qui produit une poussée moyenne de plus de 80 Newtons ou qui contient plus de 125 grammes de propergol. Notez l’utilisation du "ou". Si l’un des trois critères est valable, le propulseur est un propulseur haute puissance.</ans>
+    </question>
+    <question>
+        <test>Lequel est considéré comme un propulseur fusée haute puissance?</test>
+        <A>A. Une fusée avec un propulseur qui a une poussée moyenne de plus de 80 newtons.</A>
+        <B>B. Une fusée avec un propulseur de plus de 160 Newton secondes d’impulsion totale.</B>
+        <C>C. A la fois A et B.</C>
+        <sol>C</sol>
+        <ans>C. Conformément à la norme NFPA 1127, 3.3.13.1 Fusée haute puissance ‐ Un véhicule-fusée qui (1) est propulsé par un ou plusieurs moteurs-fusées à haute puissance (voir ci-dessus); ou (2) est propulsé par une combinaison de moteurs-fusées modèles ayant une impulsion totale installée de plus de 320 N s (71,9 lb s); ou (3) est propulsé par une combinaison de moteurs-fusées modèles ayant un poids total de 125 g (4,4 oz) de propergol; ou (4) pèse plus de 1500 g (53 oz) avec moteur(s) installé(s).</ans>
+    </question>
+    <question>
+        <test>Une fusée haute puissance chargée de son propulseur pèse :</test>
+        <A>A. Plus de 1 livre.</A>
+        <B>B. Plus de 3,3 livres.</B>
+        <C>C. Entre 3,3 livres et 115 livres.</C>
+        <sol>B</sol>
+        <ans>B. Les fusées qui pèsent moins de 3,3 livres sont considérées comme des fusées de classe 1 ou des micro fusées. Il n’y a pas de poids maximal défini pour une fusée haute puissance, mais l’impulsion totale maximale de 40960 Newton secondes et les rapports de poussée recommandés par rapport au poids se combinent pour limiter le poids global d’une fusée haute puissance.</ans>
+    </question>
+    <question>
+        <test>Quelles charges utiles ne sont PAS permises dans une fusée haute puissance?</test>
+        <A>A. Les charges utiles qui sont inflammables ou explosives ou qui sont censées causer des dommages.</A>
+        <B>B. A la fois A et C.</B>
+        <C>C. Les animaux vertébrés.</C>
+        <sol>B</sol>
+        <ans>B. Conformément à la norme NFPA 1127, 4.11 Payloads. 4.11.1 Une fusée haute puissance ne peut transporter de charge utile inflammable ou explosive. 4.11.2 Une fusée haute puissance ne peut être utilisée pour transporter un animal vertébré.</ans>
+    </question>
+    <question>
+        <test>Une fusée haute puissance (à l’exception de son propulseur) peut être construite en quels matériaux?</test>
+        <A>A. Bois de papier, fibre de verre, plastique et acier.</A>
+        <B>B. Papier, bois, fibre de verre ou plastique avec une quantité minimale de métal ductile si nécessaire pour l’intégrité de sa structure.</B>
+        <C>C. Il n’y a pas de restrictions sur les matériaux de construction.</C>
+        <sol>B</sol>
+        <ans>B. Conformément à la norme NFPA 1127, 4.7 Matériaux de structure de la fusée. Une fusée à haute puissance destinée à être propulsée par un ou plusieurs moteurs de fusée à haute puissance doit être construite à l’aide de matériaux légers tels que le papier, le bois, le caoutchouc, le plastique, la fibre de verre ou, au besoin, le métal ductile afin que la fusée soit conforme aux autres exigences du présent code.</ans>
+    </question>
+    <question>
+        <test>Qui peut posséder un moteur de fusée haute puissance?</test>
+        <A>A. Une personne de plus de 18 ans qui est un utilisateur certifié.</A>
+        <B>B. Tout membre d’une organisation de fusées reconnue au niveau national.</B>
+        <C>C. Un junior volant dans le cadre du programme de mentorat de Tripoli.</C>
+        <sol>A</sol>
+        <ans>A. Seule une personne qui est un utilisateur certifié peut obtenir et posséder un propulseur de fusée à haute puissance et être le pilote officiel d’un vol haute puissance encadré. Un vol junior dans le cadre du programme de mentorat de Tripoli doit être en partenariat avec un utilisateur certifié qui manipulera le propulseur.</ans>
+    </question>
+    <question>
+        <test>Qui est autorisé à être le pilote enregistré lors d'un vol dans le cadre du programme de mentorat de Tripoli?</test>
+        <A>A. Le pilote junior.</A>
+        <B>B. Tout adulte de plus de 18 ans.</B>
+        <C>C. Le mentor, qui est âgé de plus de 18 ans et est certifié au niveau du moteur utilisé.</C>
+        <sol>C</sol>
+        <ans>C. Le programme de mentorat de Tripoli permet aux Juniors de faire voler des fusées de haute puissance qui ont été construites par le Junior, mais les règlements fédéraux et les codes de Tripoli insistent sur le fait que seuls les adultes certifiés peuvent posséder et utiliser des propulseurs de fusée haute puissance. Seul un adulte certifié peut être le pilote officiel d’un vol haute puissance. Les pilotes juniors peuvent inscrire leur nom sur la carte de vol avec le nom du pilote officiel.</ans>
+    </question>
+    <question>
+        <test>Quand doit-on déterminer la stabilité d’une fusée?</test>
+        <A>A. Avant que la fusée ne soit préparée pour le vol.</A>
+        <B>B. Si demandé par le RSO lors de l’inspection de sécurité.</B>
+        <C>C. Lors de la conception pour les fusées faite maison.</C>
+        <sol>A</sol>
+        <ans>A. Les responsables du champ de tir effectuent des inspections dans le but de détecter tout écart dans la qualité de la construction et de la conception, mais il incombe au pilote de s’assurer que la fusée a été conçue et construite en respectant les règles de sécurité et qu’elle soit stable. Bien que les fusées construites à partir de kits soient souvent stables lorsqu’elles sont construites selon les instructions, ce n’est pas toujours le cas. Vous devez toujours vérifier la stabilité de votre fusée.</ans>
+    </question>
+    <question>
+        <test>Vous construisez une fusée haute puissance maison en utilisant votre propre conception non testée. Laquelle des méthodes suivantes de détermination de la stabilité n’est PAS conforme à la sécurité et ne devrait pas être utilisée?</test>
+        <A>A. Faites la voler et voyez si elle vole droit. Marquez sur la carte de vol “levez la tete”.</A>
+        <B>B. Utilisez un logiciel de simulation comme RockSim pour déterminer le centre de poussée (CP) et le centre de gravité (CG).</B>
+        <C>C. Effectuer un essai de balancement.</C>
+        <sol>A</sol>
+        <ans>A. It Il est de votre responsabilité de vous assurer que votre fusée est stable avant de l’emporter sur la rampe. Il n’est jamais acceptable de faire voler une fusée haute puissance si vous n’êtes pas sûr qu’elle soit stable.</ans>
+    </question>
+    <question>
+        <test>Vous êtes sur le site de lancement et décidez de faire voler votre fusée sur un propulseur plus lourd que celui que vous avez simulé. Avant d’amener la fusée au RSO pour l’inspection de sécurité, vous devez :</test>
+        <A>A. Ne rien faire. Le centre de gravité (CG) est au même endroit qu’avec le moteur d’origine, donc vous n’avez pas besoin de le recalculer.</A>
+        <B>B. Ne rien faire. Le propulseur plus lourd a plus de poussée, donc vous n’avez pas besoin de tester le centre de gravité (CG).</B>
+        <C>C. Recalculer le centre de gravité (CG) en installant le propulseur, le système de récupération et la charge utile et en déterminant le point d’équilibre de la fusée lorsqu’elle est prête pour le vol.</C>
+        <sol>C</sol>
+        <ans>C. Le poids du moteur ayant un effet sur le centre de gravité (CG), vous devez calculer le centre de gravité (CG) d’une fusée séparément pour chaque moteur que vous utilisez.</ans>
+    </question>
+    <question>
+        <test>Le propulseur de fusée que vous utilisez donne un rapport de poussée de 5:1 pour votre fusée. Le vent souffle à 18 milles à l’heure. Le RSO n’a pas approuvé votre fusée en raison de son rapport poussée-poids. Quelle est la meilleure option?</test>
+        <A>A. Utiliser un propulseur différent qui donne un rapport de poussée de 10:1.</A>
+        <B>B. Contester auprès du directeur de vol car vous suivez toutes les directives de sécurité.</B>
+        <C>C. Faites la voler quand même. Vous suivez toutes les directives de sécurité.</C>
+        <sol>A</sol>
+        <ans>A. Par temps venteux, le rapport de poussée/poids de 5:1 n’est pas assez élevé. Des propulseurs « plus rapides » avec une poussée initiale plus élevée sont nécessaires pour empêcher l’effet girouette « weather cocking » ou dessins dans le ciel. NE JAMAIS faire voler une fusée qui n’a pas passée avec succès l’inspection de sécurité. (Les responsables du champ de tir ne le permettraient jamais de toute façon.)</ans>
+    </question>
+    <question>
+        <test>Votre fusée a une altitude prévue de 6000 pieds. Votre fusée a été approuvée par le RSO et le RSO a signé votre carte de vol. Cependant, avant que vous puissiez apporter la fusée sur la rampe, une couverture nuageuse se forme et le plafond est maintenant de 3000 pieds. Laquelle des options suivantes n’est PAS acceptable?</test>
+        <A>A. Faites voler la fusée telle quelle. Vous avez l’approbation du RSO et la carte de vol signée par le RSO.</A>
+        <B>B. Ne faites voler la fusée que lorsque les nuages se brisent et que le RSO vous permet de voler à votre altitude prévue.</B>
+        <C>C. Re préparer la fusée avec un moteur plus petit qui gardera la fusée sous le plafond de 3000 pieds. Remplir une nouvelle carte de vol et retourner voir le RSO avant le vol.</C>
+        <sol>A</sol>
+        <ans>A. Le RSO effectue des vérifications de sécurité pour déceler tout manquement à la sécurité. Le LCO effectue également une vérification et constate probablement la situation. Mais, même si les responsables du champ de tir ratent ces contrôles de sécurité, les pilotes ont la responsabilité inhérente de prendre des décisions éclairées et de voler en toute sécurité. Ne jamais lancer une fusée dans un nuage.</ans>
+    </question>
+    <question>
+        <test>Qui est responsable pour s’assurer que votre fusée est lancée en toute sécurité?</test>
+        <A>A. Le directeur de vol</A>
+        <B>B. Le RSO</B>
+        <C>C. Vous</C>
+        <sol>C</sol>
+        <ans>C. Les responsables du champ de tir effectueront des vérifications de sécurité et surveilleront les activités de vol afin de déceler toute lacune en matière de sécurité, mais il incombe à chaque pilote de s’assurer que sa fusée respecte toutes les consignes de sécurité et est pilotée en toute sécurité. Votre mentor est le pilote officiel et, par conséquent, est également responsable de vos vols. Vous et votre mentor devez être en mesure de garantir que vous volez en toute sécurité.</ans>
+    </question>
+    <question>
+        <test>Au cours de l’inspection de sécurité, le RSO ne remarque pas que vous avez fixé vos ailerons avec le mauvais type de colle pour le matériel que vous utilisez. La fusée « se déchiquette» au décollage. Qui est en faute?</test>
+        <A>A. RSO parce qu’il/elle a approuvé la fusée pour le vol sans remarquer la fixation des ailerons.</A>
+        <B>B. Votre mentor car il ou elle est responsable du vol.</B>
+        <C>C. Vous et votre mentor.</C>
+        <sol>C</sol>
+        <ans>C. Chaque pilote doit prendre toutes les mesures nécessaires pour s’assurer que ses fusées peuvent voler en toute sécurité. Les inspections de sécurité et le mentorat attentif aident à réduire le nombre de vols échoués. Mais chaque personne qui construit et lance une fusée a la responsabilité de s’assurer que sa construction est sûre et compétente. Comme votre mentor est le pilote officiel, il assume la responsabilité globale du vol, alors il est important d’écouter les conseils de votre mentor.</ans>
+    </question>
+    <question>
+        <test>Quel est l’angle de lancement maximal à partir de la verticale pour une fusée à haute puissance?</test>
+        <A>A. 30°</A>
+        <B>B. 20°</B>
+        <C>C. Il n’y a pas d’angle de lancement maximal.</C>
+        <sol>B</sol>
+        <ans>B. Conformément à la NFPA 1127, 4.12.3, un dispositif de lancement ne doit pas être utilisé pour lancer une fusée haute puissance à un angle supérieur à 20 degrés par rapport à la verticale.</ans>
+    </question>
+    <question>
+        <test>Quel est le vent de surface maximal autorisé pour un lancement en toute sécurité?</test>
+        <A>A. 30 mph.</A>
+        <B>B. 20 mph.</B>
+        <C>C. 15 mph.</C>
+        <sol>B</sol>
+        <ans>B. Conformément à la NFPA 1127, 4.17.2, il est interdit de lancer une fusée haute puissance si le vent de surface au niveau de la rampe est supérieur à 32 km/h (20 mi/h).</ans>
+    </question>
+    <question>
+        <test>Quel est la vitesse de descente maximale recommandée pour une fusée descendant sous son parachute principal?</test>
+        <A>A. 30 pieds par seconde.</A>
+        <B>B. 20 pieds par seconde.</B>
+        <C>C. 15 pieds par seconde.</C>
+        <sol>B</sol>
+        <ans>B. Remarquez la symétrie des trois dernières réponses : taux de descente maximal de 20 pieds/s, vent maximal de 20 mi/h et angle maximal de 20° de la barre de lancement. Cela les rend faciles à retenir! Bien que Tripoli n’exige pas de calculs de taux de descente pour son processus de niveau 3, les pilotes de tous les niveaux sont toujours censés dimensionner leurs parachutes correctement pour une descente en toute sécurité.</ans>
+    </question>
+    <question>
+        <test>Quand les systèmes de déploiement électronique doivent-ils être armés?</test>
+        <A>A. Dans la zone de préparation.</A>
+        <B>B. Après que la fusée est verticale sur le pas de tir.</B>
+        <C>C. Une fois que la fusée est à la verticale sur le pas de tir et que le personnel non nécessaire s’est déplacé à une distance de sécurité.</C>
+        <sol>C</sol>
+        <ans>C. La section 4.13 de la NFPA 1127 traite de l’électronique et des systèmes d’allumage. L’armement de l’électronique de bord ne doit être effectué que lorsque la fusée est sur la plateforme et dans son orientation de lancement vertical. Le mouvement de la fusée vers la position de lancement peut déclencher des dispositifs électroniques déjà armés et faire fonctionner les circuits de tir par inadvertance. De plus, étant donné que les défectuosités de l’électronique lorsqu’elle est armée ou les erreurs commises dans le processus d’armement pourraient faire en sorte que les circuits de tir fonctionnent par inadvertance, tout le personnel non indispensable devrait quitter la zone de lancement par mesure de sécurité.</ans>
+    </question>
+    <question>
+        <test>Pourquoi quelqu’un qui n’est pas tenu d’armer un système de récupération électronique devrait-il quitter la zone de la rampe lorsque le système de récupération est armé?</test>
+        <A>A. Une charge de déploiement pourrait éclater accidentellement pendant l’armement.</A>
+        <B>B. Le bruit fait par des personnes supplémentaires rend plus difficile pour la personne qui arme le système de récupération d’entendre les signaux altimétriques.</B>
+        <C>C. Il n’y a aucune raison pour que des gens inutiles partent.</C>
+        <sol>A</sol>
+        <ans>A. Comme il a été mentionné précédemment, les défectuosités de l’électronique lorsqu’elle est armée ou les erreurs commises dans le processus d’armement pourraient faire en sorte que les circuits de tir fonctionnent par inadvertance. Par conséquent, tout le personnel non indispensable devrait quitter la zone de lancement par mesure de sécurité.</ans>
+    </question>
+    <question>
+        <test>Quand l’allumeur du propulseur doit-il être armé?</test>
+        <A>A. Avant de placer la fusée sur le pas de tir.</A>
+        <B>B. Une fois que la fusée est à la verticale sur le pas de tir et que l’électronique de déploiement est armé.</B>
+        <C>C. Une fois que la fusée est à la verticale sur le pas de tir, l’électronique de déploiement est armé, et le personnel inutile s’est déplacé à une distance de sécurité.</C>
+        <sol>C</sol>
+        <ans>C. L’allumeur doit être la dernière chose effectuée à la rampe de lancement. Il devrait être inséré dans le propulseur de la fusée et relié aux fils d’allumage après que tout le personnel non indispensable ait quitté la zone de la rampe par mesure de sécurité.</ans>
+    </question>
+    <question>
+        <test>Vous lancerez votre fusée sur la première rangée de rampes haute puissance. Quand devez-vous amener votre fusée sur la rampe?</test>
+        <A>A. Lorsque toutes les rampes de la même ligne que le rampe que vous souhaitez utiliser sont vides.</A>
+        <B>B. Lorsqu’il vous a été assigné une rampe et que toutes les rampes de la même rangée sont vides.</B>
+        <C>C. Lorsqu’on vous a attribué une rampe, et que les responsables du champ de tir ont annoncé que les rampes que vous utiliserez sont ouvertes.</C>
+        <sol>C</sol>
+        <ans>C. Les responsables du champ de tir sont responsables du déplacement en toute sécurité des pilotes et fusées dans la zone du champ de tir. Ils s’assureront que le pilote a une rampe qui lui a été assigné et détermineront à quel moment il est possible d’y accéder en toute sécurité. Un pilote ne devrait jamais se déplacer sur un champ de tir actif sans la permission des responsables du champ de tir.</ans>
+    </question>
+    <question>
+        <test>Quand peut on lancer en toute sécurité une fusée de haute puissance?</test>
+        <A>A. Après que toutes les personnes aient quitté la zone de lancement et lorsque le ciel est dégagé.</A>
+        <B>B. Après avoir averti les spectateurs et donné un compte à rebours de 5 secondes.</B>
+        <C>C. Après A et B.</C>
+        <sol>C</sol>
+        <ans>C. Les responsables du champ de tir doivent s’assurer que tous les participants se trouvent à une distance de sécurité conformément à la NFPA 1127 avant de lancer une fusée, et aussi que le ciel soit suffisamment dégagé sans nuages ni aéronefs qui volent. En outre, conformément à la norme NFPA 1127, 4.18.3, le lancement d’une fusée  haute puissance doit être précédé d’un compte à rebours de 5 secondes qui est audible dans les zones de lancement, des spectateurs et de stationnement</ans>
+    </question>
+    <question>
+        <test>Quand pouvez-vous vous approcher d’une fusée dont l’allumage du propulseur n’a pas fonctionné?</test>
+        <A>A. Après que 30 secondes se soient écoulées.</A>
+        <B>B. Après que une minute se soit écoulée et qu’un responsable de tir vous ait donné la permission.</B>
+        <C>C. Après que deux minutes se soient écoulées.</C>
+        <sol>B</sol>
+        <ans>B. Les responsables du champ de tir ne vous donneront pas la permission tant que les conditions suivantes ne seront pas remplies, conformément à la norme NFPA 1127, 4.18.4 : Une fusée haute puissance qui a eu un incident de tir ne doit pas être approchée avant que tous les éléments suivants ne se soient produits : (1) l’antidémarreur de sécurité a été enclenché; (2) une (1) minute se soit écoulée(3) Le RSO a autorisé une personne à s’approcher de la fusée qui à eu un incident d’allumage pour l’inspecter.</ans>
+    </question>
+    <question>
+        <test>Votre fusée a atterri juste à côté de la rampe de lancement. Quand est-il possible de la récupérer en toute sécurité votre fusée?</test>
+        <A>A. Une fois que les responsables du champ de tir ont annoncé que le champ de tir est ouvert et ont donné aux pilotes la permission d’entrer dans cette partie du champ de tir.</A>
+        <B>B. Lorsque toutes les fusées des pas de tir à proximité ont décollé.</B>
+        <C>C. Dès qu’elle atterrie.</C>
+        <sol>A</sol>
+        <ans>A. Les responsables du champ de tir sont responsables du déplacement en toute sécurité des pilotes et des fusées dans la zone du champ de tir. Ils ne donneront la permission de récupérer les fusées que lorsqu’ils sauront que d’autres activités de lancement n’auront pas lieu.</ans>
+    </question>
+
+    <question>
+        <test>Quand est-il permis d’attraper une fusée haute puissance?</test>
+        <A>A. Il n’est jamais permis d’attraper une fusée haute puissance.</A>
+        <B>B. Si la fusée pèse moins de 2,2 livres ou 1 kg.</B>
+        <C>C. Si la fusée tombe assez lentement pour ne pas constituer un danger.</C>
+        <sol>A</sol>
+        <ans>A. Conformément à la NFPA 1127, 4.10.4, il ne faut pas tenter d’attraper une fusée haute puissance lorsqu’elle s’approche du sol.</ans>
+    </question>
+
+    <question>
+        <test>Vous êtes dans la zone des spectateurs. le LCO demande de lever la tête vers le vol. Vous devez:</test>
+        <A>A. Continuez à préparer votre propre fusée. Vous en savez assez sur les fusées pour savoir que vous serez en mesure de voir tout venir vers vous</A>
+        <B>B. Levez-vous, faites face à la zone de lancement et gardez l’œil sur la fusée jusqu’à ce que le système de récupération se soit déployé et que la fusée ait atterri ou dérive de la zone de lancement et de spectateur.</B>
+        <C>C. Se lever, faire face à l’aire de lancement et faire attention jusqu’à ce que la fusée ait quitté la rampe de lancement.</C>
+        <sol>B</sol>
+        <ans>B. Conformément à la NFPA 1127, 4.18.2 À l’exception des personnes à mobilité réduite, toutes les personnes se trouvant dans les aires de lancement, de préparation, de spectateur et de stationnement pendant un compte à rebours et un lancement doivent se tenir debout et faire face à la rampe si le RSO le demande.</ans>
+    </question>
+
+    <question>
+        <test>Quels autres dangers pour les spectateurs et les participants au lancement pourraient être associés à un cato à moteur?</test>
+        <A>A. Des morceaux de la fusée peuvent se détacher et tomber au sol sans système de récupération sûr.</A>
+        <B>B. La charge d’éjection à moteur peut faire défaut, ce qui entraîne l’échec du déploiement du système de récupération et le retour au sol balistique.</B>
+        <C>C. A la fois A et B.</C>
+        <sol>C</sol>
+        <ans>C. Selon le moment, l’altitude (le cas échéant) et le type de cato, le corps et/ou le moteur de la fusée peuvent projeter des pièces et des débris dans la zone des spectateurs. Si la fusée reste intacte et continue de voler, le cato peut avoir endommagé/désactivé une charge d’éjection à moteur, permettant à la fusée de tomber dans une zone spectateur sans déploiement de récupération approprié.</ans>
+    </question>
+
+    <question>
+        <test>When Lorsque votre fusée atterrit, elle s’enchevêtre dans une ligne électrique. Lequel des énoncés suivants est vrai?</test>
+        <A>A. Vous pouvez récupérer la fusée après avoir appelé la compagnie d’électricité et de l’informer que vous le faites.</A>
+        <B>B. Vous pouvez récupérer la fusée sans avertir la compagnie électrique si une partie de la fusée est au sol.</B>
+        <C>C. Vous ne devriez pas essayer de récupérer la fusée. Au lieu de cela, vous devriez avertir la compagnie d’électricité dès que possible, et permettre à la compagnie d’électricité de récupérer la fusée.</C>
+        <sol>C</sol>
+        <ans>C. Ne jamais tenter de récupérer une fusée d’une zone dangereuse pour les personnes. Conformément à la NFPA 1127, 4.10.5 ‐ aucune tentative ne doit être faite pour récupérer une fusée haute puissance d’une ligne électrique ou d’une autre zone mettant la vie en danger.</ans>
+    </question>
+
+    <question>
+        <test>Lorsque votre fusée atterrit, elle s’emmêle dans une ligne électrique. Quand pouvez-vous vous approcher de la ligne électrique pour récupérer la fusée?</test>
+        <A>A. Lorsque votre mentor dit qu’il est de le faire en toute sécurité.</A>
+        <B>B. Après avoir alerté la compagnie d’électricité et lui avoir dit que vous alliez la retirer.</B>
+        <C>C. Il n’est jamais sûr de s’approcher de la ligne électrique pour récupérer votre fusée. Vous devez attendre que la compagnie électrique la récupère.</C>
+        <sol>C</sol>
+        <ans>C. Ne jamais tenter de récupérer une fusée d’une zone dangereuse pour les personnes. Conformément à la NFPA 1127, 4.10.5 ‐ aucune tentative ne doit être faite pour récupérer une fusée haute puissance d’une ligne électrique ou d’une autre zone mettant la vie en danger.</ans>
+    </question>
+</exam>

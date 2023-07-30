@@ -1,8 +1,8 @@
 package com.tripolil2test;
 
-import android.content.res.Configuration;
-import android.graphics.Color;
-//import android.support.v7.app.AppCompatActivity;
+//import android.content.res.Configuration;
+//import android.graphics.Color;
+
 import androidx.appcompat.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;

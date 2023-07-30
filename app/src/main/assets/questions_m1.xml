@@ -1,0 +1,541 @@
+<exam>
+    <question>
+        <test>Which forces are present during a rocket’s ascent and will negatively affect the altitude that the rocket achieves?</test>
+        <A>A. Inertia and drag.</A>
+        <B>B. Gravity and drag.</B>
+        <C>C. Thrust and momentum.</C>
+        <sol>B</sol>
+        <ans>B. Gravity is always present, resisting vertical flight in the ascent phase. Drag, determined by the rocket’s design and construction, presents aerodynamic resistance to vertical flight in the ascent phase.</ans>
+    </question>
+
+    <question>
+        <test>Which forces are present during a rocket’s ascent and will increase the altitude that the rocket achieves?</test>
+        <A>A. Thrust and momentum.</A>
+        <B>B. Thrust and inertia.</B>
+        <C>C. Gravity and drag.</C>
+        <sol>A</sol>
+        <ans>A. Thrust is provided by the rocket motor in the powered part of the ascent phase; momentum is built up during the powered part of the ascent phase, and carries the rocket upward through the coast phase, being progressively reduced by gravity and drag until the rocket reaches apogee.</ans>
+    </question>
+
+    <question>
+        <test>How does Newton's Third Law "To every action there is always an equal and opposite reaction" relate to how a rocket ascends under the power of its motor?</test>
+        <A>A. The heat produced by the combustion of the propellant lifts the rocket</A>
+        <B>B. The flame from the burning propellant produces aerodynamic lift which lifts the rocket.</B>
+        <C>C. Pressurized gasses produced by the combustion of the propellant cause the rocket to accelerate in the opposite direction of the expelled gasses.</C>
+        <sol>C</sol>
+        <ans>C. Newton’s Third Law states that applying a force in one direction always results in an equal force in the opposite direction.</ans>
+    </question>
+
+    <question>
+        <test>Two rockets are identical, except in weight: one weighs 2 pounds, and one weighs 3 pounds. Both are launched in the same conditions on the same type of motor. Which outcome would you expect to occur?</test>
+        <A>A. The 2 pound rocket achieves a higher altitude.</A>
+        <B>B. The 3 pound rocket achieves a higher altitude.</B>
+        <C>C. Both rockets achieve the same altitude.</C>
+        <sol>A</sol>
+        <ans>A. The 2 pound rocket will be expected to reach a higher altitude since the force of gravity, resisting vertical flight in the ascent phase, will be less than a 3 pound rocket.</ans>
+    </question>
+
+    <question>
+        <test>Two identical rockets are travelling at different speeds. Which rocket experiences greater aerodynamic drag force?</test>
+        <A>A. The rocket that is moving slower.</A>
+        <B>B. The rocket that is moving faster.</B>
+        <C>C. Both experience the same aerodynamic drag force.</C>
+        <sol>B</sol>
+        <ans>B. All rockets have a drag coefficient (Cd) determined by design and construction. The Cd progressively increases with speed when traveling through air. Thus for two identical rockets (having the same Cd), the one traveling at a higher speed will create more drag.</ans>
+    </question>
+
+    <question>
+        <test>To reduce the effect of drag on a rocket:</test>
+        <A>A. Round the leading edges of the rocket’s fins.</A>
+        <B>B. Add a boat tail to the aft end of the rocket.</B>
+        <C>C. Both A and B.</C>
+        <sol>C</sol>
+        <ans>C. Rounded fin edges create less drag than square ones, and boat tails reduce “base drag” which is created to a greater degree by a squared-off aft end of a rocket.</ans>
+    </question>
+
+    <question>
+        <test>The Center of Pressure (CP) of a rocket is generally defined as:</test>
+        <A>A. The balance point of the rocket without the motor.</A>
+        <B>B. The point at which aerodynamic lift on a rocket is centered.</B>
+        <C>C. The total area of the fins, airframe and nose cone divided by two.</C>
+        <sol>B</sol>
+        <ans>B. The center of pressure (CP) is the point on the rocket where the aerodynamic lift is centered. This means that aerodynamic lift, if the rocket is at a non-zero angle of attack, forward of this point is balanced by the aerodynamic lift aft of that point.</ans>
+    </question>
+
+    <question>
+        <test>The Center of Gravity (or Center of Mass) is the point at which:</test>
+        <A>A. The rocket is the heaviest.</A>
+        <B>B. Aerodynamic lift is centered.</B>
+        <C>C. There is an equal amount of mass aft of the point and forward of the point.</C>
+        <sol>C</sol>
+        <ans>C. Simply stated, the center of gravity (CG) is point at which a rocket will balance fore and aft if placed on top of an edge or suspended by a cord.</ans>
+    </question>
+
+    <question>
+        <test>For an inherently stable rocket, which statement about the center of gravity (CG) and the center of pressure (CP) is true?</test>
+        <A>A. The CG must be forward of the CP relative to the desired direction of flight.</A>
+        <B>B. The CG must be behind the CP relative to the desired direction of flight.</B>
+        <C>C. The CG must move forward (in the desired direction of flight) during the motor burn.</C>
+        <sol>A</sol>
+        <ans>A. The center of pressure (CP) is where the aerodynamic lift, due to the rocket being at a non-zero angle of attack, is centered. For an aerodynamically stable rocket with the CP behind the center of gravity (CG), the lift which is centered aft of the CG will create a corrective moment to return the rocket to zero degrees angle of attack. Conversely, if the CP is ahead of the CG the lift will attempt to turn the rocket around so that the CP will again be behind the CG. This resultant “tumbling” is characteristic of an unstable rocket.</ans>
+    </question>
+
+    <question>
+        <test>What is the recommended “rule of thumb” relationship between Center of Gravity (CG) and Center of Pressure (CP) for a stable rocket?</test>
+        <A>A. The center of gravity should be very nearly at the same point as the center of pressure.</A>
+        <B>B. The rocket should balance near or at the center of gravity.</B>
+        <C>C. The center of gravity should be at least one body diameter in front of the center of pressure.</C>
+        <sol>C</sol>
+        <ans>C. Keeping the center of gravity (CG) one body diameter in front of the center of pressure (CP) typically allows an adequate margin for rocket stability.</ans>
+    </question>
+
+    <question>
+        <test>A 2” diameter rocket, loaded with its motor, has a Center of Gravity (CG) two inches behind the Center of Pressure (CP). Is this rocket likely to be stable?</test>
+        <A>A. No, the CG should be at least two body tube diameters behind the CP</A>
+        <B>B. No, the CP must be behind the CG for the rocket to be stable.</B>
+        <C>C. Yes, the CP is one body diameter in front of the CG.</C>
+        <sol>B</sol>
+        <ans>B. A rocket that has the center of pressure (CP) ahead of the center of gravity (CG) will always be unstable, regardless of the distance between these two points.</ans>
+    </question>
+
+    <question>
+        <test>If you wanted to move the CP to improve stability, you would do so by:</test>
+        <A>A. Adding nose weight</A>
+        <B>B. Increasing fin size.</B>
+        <C>C. Decreasing fin size.</C>
+        <sol>B</sol>
+        <ans>B. Increasing fin size will move the CP aft, improving the stability margin. Decreasing fin size will decrease stability. Adding nose weight will improve stability, but will do so by moving the CG, not the CP.</ans>
+    </question>
+
+    <question>
+        <test>When the CG is aft of the CP, the rocket might:</test>
+        <A>A. Cock into the wind after lift-off.</A>
+        <B>B. Lose one or more of its fins (“shred”) before assuming an erratic flight path.</B>
+        <C>C. Tumble end over end, or otherwise assume an erratic flight path.</C>
+        <sol>C</sol>
+        <ans>C. A rocket that has the center of gravity (CG) behind the center of pressure (CP) will be unstable, and therefore may tumble or fly in an erratic pattern.</ans>
+    </question>
+
+    <question>
+        <test>You can increase the stability margin of a rocket by:</test>
+        <A>A. Adding weight to the nose cone.</A>
+        <B>B. Making the fins smaller.</B>
+        <C>C. Using a larger amount of epoxy on the fin can so that the fins will be more firmly attached.</C>
+        <sol>A</sol>
+        <ans>A. Adding weight to the nose cone will move the CG forward, which improves stability. Making the fins smaller will move the CP forward, which decreases stability. Using a larger amount of epoxy will add weight to the back end of the rocket, which will move the CG aft and decrease the stability margin.</ans>
+    </question>
+
+    <question>
+        <test>A 2” diameter rocket, loaded with its motor, has a Center of Gravity (CG) ten inches forward of the Center of Pressure (CP). Which is most likely to occur?</test>
+        <A>A. The rocket may “skywrite”. It is not stable.</A>
+        <B>B. The rocket may weather cock into the wind after lift-off.</B>
+        <C>C. The rocket may fly too slowly because it is too long.</C>
+        <sol>B</sol>
+        <ans>B. The rocket has a stability margin of 5, and is over stable. All rockets can weather cock, but weather cocking is more likely to occur in over stable rockets.</ans>
+    </question>
+
+    <question>
+        <test>What three things will improve the stability of a rocket?</test>
+        <A>A. Add nose weight, make the rocket longer or increase the number of fins.</A>
+        <B>B. Add nose weight, make the rocket longer or make the fins smaller.</B>
+        <C>C. Add nose weight, use a larger motor, or make the fins smaller.</C>
+        <sol>A</sol>
+        <ans>A. Adding nose weight and making the rocket longer will move the CG forward and increasing the number of fins will move the CP aft.</ans>
+    </question>
+
+    <question>
+        <test>If the burn time of a J200 motor is 4 seconds, what is the total impulse of the motor?</test>
+        <A>A. 50 Newton‐seconds</A>
+        <B>B. 800 Newton‐seconds</B>
+        <C>C. 800 Newtons</C>
+        <sol>B</sol>
+        <ans>B. By motor naming conventions a J200 motor has an average thrust of 200 Newtons. Multiply the average thrust (200 Newtons) by the burn time (4 seconds) to get the total impulse of 800 Newton‐seconds.</ans>
+    </question>
+
+    <question>
+        <test>Which of the motors listed below has the highest total impulse?</test>
+        <A>A. H100</A>
+        <B>B. H200</B>
+        <C>C. I100</C>
+        <sol>C</sol>
+        <ans>C. The H motor has a range of 160 to 320 Newton‐seconds and the I motor has a total impulse range of 321 to 640 Newton‐seconds.</ans>
+    </question>
+
+    <question>
+        <test>Which of the motors listed below has the highest average thrust?</test>
+        <A>A. H100</A>
+        <B>B. H200</B>
+        <C>C. I100</C>
+        <sol>B</sol>
+        <ans>B Even though the total impulse of the I motor is greater than the H motor, the H motor's average thrust is 200 Newton's versus the I motor's 100 newtons.</ans>
+    </question>
+
+    <question>
+        <test>What does the motor designation H180-8 mean?</test>
+        <A>A. The motor has between 160‐320 Newton‐seconds of total impulse, an average thrust of 180 Newtons, with 8 seconds between motor ignition and ejection.</A>
+        <B>B. The motor has 180 Newton‐seconds of total impulse, an average thrust of 180 Newtons, with 8 seconds between motor burn‐out and ejection.</B>
+        <C>C. The motor has between 160‐320 Newton‐seconds of total impulse, an average thrust of 180 Newtons, with 8 seconds between motor burn‐out and ejection.</C>
+        <sol>C</sol>
+        <ans>C. This is an H motor with a total impulse range of 160.01 to 320 Newton‐seconds, an average thrust of 180 Newtons and an ejection delay of 8 seconds from burn‐out.</ans>
+    </question>
+
+    <question>
+        <test>What is a Newton?</test>
+        <A>A. The amount of force required to accelerate one kilogram to a velocity of one meter per second in one second.</A>
+        <B>B. The amount of force required to accelerate one pound to a velocity of one foot per second in one second.</B>
+        <C>C. The amount of force required to accelerate one kilogram to a velocity of one foot per second in one second.</C>
+        <sol>A</sol>
+        <ans>A. The newton is an international (metric) unit of force and is the force required to accelerate one kilogram (2.2 lbs) to a velocity of one meter (39.4 inches) per second in one second.</ans>
+    </question>
+
+    <question>
+        <test>What is a good guideline for determining how much weight a rocket motor can safely lift?</test>
+        <A>A. Use a motor with at least as much average thrust, converted to pounds, as the fully loaded weight of the rocket, measured in pounds.</A>
+        <B>B. Use a motor with at least 5 times as much average thrust, converted to pounds, as the fully loaded weight of the rocket, measured in pounds.</B>
+        <C>C. Use a motor with at least 5 times as much average thrust, measured in Newtons, as the fully loaded weight of the rocket, measured in pounds.</C>
+        <sol>B</sol>
+        <ans>B. A 5:1 thrust‐to‐weight ratio is a good minimum guideline to follow, but make sure you are working with the same units on both sides of the ratio! When it is windy, a greater than 5:1 thrust‐to‐weight ratio should be considered.</ans>
+    </question>
+
+    <question>
+        <test>Which method of recovery is not considered an active recovery method and is NOT likely to be safe for a high-power rocket?</test>
+        <A>A. Single Parachute</A>
+        <B>B. Dual deploy with drogue and main parachutes</B>
+        <C>C. Tumble recovery</C>
+        <sol>C</sol>
+        <ans>C. Generally, tumble recovery is only safe for small and/or very lightweight rockets, which would normally more likely be a model rocket. A rocket that is built sufficiently strongly and/or is of a sufficient size to structurally handle high power motors is unlikely to be light/small enough for safe tumble recovery.</ans>
+    </question>
+
+    <question>
+        <test>Which shock cord material is common in model rockets, but not sufficiently strong enough to take the extra forces of deployment of larger, high-power rockets?</test>
+        <A>A. Kevlar</A>
+        <B>B. Braided nylon</B>
+        <C>C. Elastic</C>
+        <sol>C</sol>
+        <ans>C. Elastic shock cords, a common feature of model rockets, are less likely to handle the increased weight, size, and flight capabilities of high power rockets.</ans>
+    </question>
+
+    <question>
+        <test>Your simulation program recommended an 8 second ejection delay for your rocket and the motor you plan to use. The simulation program assumed no winds, but the winds at the launch site are 15 miles per hour. Which adjustment to the ejection charge delay is the best option?</test>
+        <A>A. Use a shorter ejection delay.</A>
+        <B>B. Keep the delay the same.</B>
+        <C>C. Use a longer ejection delay.</C>
+        <sol>A</sol>
+        <ans>A. The rocket will arc into the wind, achieving a lower apogee at an earlier time.</ans>
+    </question>
+
+    <question>
+        <test>Which of the following can occur if your rocket’s nose cone is seated loosely in the body tube?</test>
+        <A>A. The nose cone will separate easily when the ejection charge fires, and increase the chance of a successful launch.</A>
+        <B>B. The nose cone will separate when the rocket arcs over, so the recovery system is sure to deploy.</B>
+        <C>C. The rocket body may slow down from drag, allowing the nose cone to pull away from the rocket, leading to a drag separation and early deployment of the recovery system.</C>
+        <sol>C</sol>
+        <ans>C. Drag separation occurs because the drag on the aft section of the rocket, where the fins are, is typically higher than the drag of the nose cone or forward section. If the nose cone is not tight enough such that the whole rocket can be lifted by holding the nose cone, the aft section might be pulled away from the nose cone. The heavier the nose cone, the more pronounced the problem, because the nose cone has more of its own momentum. Positive retention, such as shear pins, can be used to reduce the incidence of drag separation.</ans>
+    </question>
+
+    <question>
+        <test>Your simulation program calculated that your rocket will achieve aerodynamic stability just before it leaves a 12 foot tall launch rail. At the launch site, only 6 foot launch rails are available. You should:</test>
+        <A>A. Launch your rocket on the 6 foot rail. Your CG is forward of your CP by at least one body tube diameter, so the length of the rail does not matter.</A>
+        <B>B. Use a “faster” (higher initial thrust) motor so that the rocket achieves sufficient velocity for aerodynamic stability in a shorter distance.</B>
+        <C>C. Use the 6 foot rail, but angle the rail so that it has less effect on aerodynamic stability.</C>
+        <sol>B</sol>
+        <ans>B. All rockets have a minimum distance that they must travel from lift-off to be aerodynamically stable, which is dependent on the rocket design and construction, plus the impulse characteristics of the motor used. If 12 ft. is required to achieve stable flight for any given rocket on a specific motor, this distance can be reduced for the same rocket if a higher average/initial impulse (“faster”) motor is used.</ans>
+    </question>
+
+    <question>
+        <test>You want your rocket to achieve high speeds. To minimize drag from launch guides, you can safely:</test>
+        <A>A. Use a tower launcher that will guide the path of the rocket without any drag‐inducing guides on the rocket.</A>
+        <B>B. Tape on the launch lugs so that they will fall off after the leave the launch rod.</B>
+        <C>C. Use only one rail button. Using one rail button will give less drag than using two rail buttons.</C>
+        <sol>A</sol>
+        <ans>A. Launch lugs and rail buttons will always add an amount of drag to a rocket. However, weakening their attachment or using fewer lugs/buttons is not a safe or effective way to address the drag they create. Launch lugs or rail buttons can be eliminated altogether if the rocket is flown from a launch tower correctly configured to provide effective vertical alignment of the rocket from lift-off to the distance the rocket requires to reach the minimum speed for stability.</ans>
+    </question>
+
+    <question>
+        <test>Which is the weakest fin attachment method and, although it is popular with model rockets, might not be strong enough for high power rockets?</test>
+        <A>A. Attach fins to the motor tube through fin slots in the body tube (“through the wall”).</A>
+        <B>B. Attach fins directly to the body tube with wood glue.</B>
+        <C>C. Attach fins directly to the body tube, and then strengthen by epoxying layers of fiberglass cloth from fin tip to fin tip.</C>
+        <sol>B</sol>
+        <ans>B. Although this method is used frequently in low power rockets, it is typically weaker than the other methods. Fin attachment needs to be considered when building rockets for use with high power motors, which can have very high levels of thrust. Through the wall fins can be attached both to the motor tube and to the body tube, which strengthens the attachment. With minimum dimension rockets, modelers will attach the fins directly to the body tube, but will offset this by using stronger materials, stronger glue and, often, tip‐to‐tip fiberglass or carbon fiber reinforcement.</ans>
+    </question>
+
+    <question>
+        <test>Which is a possible unsafe consequence of using fin material that is too thin or weak for your rocket and the motor that you are using?</test>
+        <A>A. The rocket will not gain the same altitude as it could have with stronger fins.</A>
+        <B>B. The fins might come off mid‐flight and make the rocket unstable (a “shred”).</B>
+        <C>C. The rocket will achieve higher altitude than it would have with heavier fin material.</C>
+        <sol>B</sol>
+        <ans>B. Fins are subject to aerodynamic forces that can make them flex. The amount of flexing, sometimes called fin flutter, depends on the stiffness of the fin material, but also on the shape of the fin and the velocity of the rocket. Above a critical speed, this flexing can weaken the attachment of the fin to the rocket and cause the fins to detach mid‐flight. The same result could occur from poorly attached fins. When fins detach mid‐flight, the CP changes, and the rocket becomes unstable.</ans>
+    </question>
+
+    <question>
+        <test>Which of the following is a complex rocket?</test>
+        <A>A. A rocket with clustered rocket motors.</A>
+        <B>B. Both A and C.</B>
+        <C>C. rocket with more than one stage.</C>
+        <sol>B</sol>
+        <ans>B. Per NFPA 1127, 3.3.13.1.1 Complex High Power Rocket - A high power rocket that is multistaged or propelled by two or more rocket motors.</ans>
+    </question>
+
+    <question>
+        <test>Which motor is NOT considered a high power rocket motor?</test>
+        <A>A. A motor that has 150 Newton‐seconds of total impulse, an average thrust of 60 Newtons and contains 55 grams of propellant.</A>
+        <B>B. A motor that has 200 Newton‐seconds of total impulse, an average thrust of 70 Newtons and contains 80 grams of propellant.</B>
+        <C>C. A motor that has 140 Newton‐seconds of total impulse, an average thrust of 85 Newtons and contains 130 grams of propellant.</C>
+        <sol>A</sol>
+        <ans>A. From the High Power Safety Code, a high power rocket motor is a rocket motor that has more than 160 Newton-seconds but no more than 40,960 Newton-seconds of total impulse, or that produces an average thrust of greater than 80 Newtons or that contains greater than 125 grams of propellant. Note the use of the "or". If any one of the three criteria holds, the motor is a high power motor.</ans>
+    </question>
+
+    <question>
+        <test>Which of the following is considered a high power rocket?</test>
+        <A>A. A rocket with a motor that has an average thrust in excess of 80 Newtons.</A>
+        <B>B. A rocket with a motor of more than 160 Newton‐seconds of total impulse.</B>
+        <C>C. Both A and B.</C>
+        <sol>C</sol>
+        <ans>C. Per NFPA 1127, 3.3.13.1 High Power Rocket - A rocket vehicle that (1) is propelled by one or more high power rocket motors (see above); or (2) is propelled by a combination of model rocket motors having an installed total impulse of more than 320 N-sec (71.9 lb-sec); or (3) is propelled by a combination of model rocket motors having more than a total of 125 g (4.4 oz) of propellant weight; or (4) weighs more than 1500 g (53 oz) with motor(s) installed.</ans>
+    </question>
+
+    <question>
+        <test>A high power rocket loaded with its motor weighs:</test>
+        <A>A. More than 1 pound.</A>
+        <B>B. More than 3.3 pounds.</B>
+        <C>C. Between 3.3 pounds and 115 pounds</C>
+        <sol>B</sol>
+        <ans>B. Rockets that weigh less than 3.3 pounds are considered Class 1 or model rockets. There is no defined weight maximum for a high power rocket, but the maximum total impulse of 40,960 Newton seconds and recommended thrust to weight ratios will combine to limit the overall weight of a high power rocket.</ans>
+    </question>
+
+    <question>
+        <test>What payloads are NOT permitted in a high power rocket?</test>
+        <A>A. Payloads that are flammable or explosive or intended to cause harm.</A>
+        <B>B. Both A and C.</B>
+        <C>C. Vertebrate animals.</C>
+        <sol>B</sol>
+        <ans>B. Per NFPA 1127, 4.11 Payloads. 4.11.1 A high power rocket shall not carry a flammable or explosive payload. 4.11.2 No high power rocket shall be used to launch a vertebrate animal.</ans>
+    </question>
+
+    <question>
+        <test>A high-power rocket (not including motor) may be constructed of what materials?</test>
+        <A>A. Paper wood, fiberglass, plastic and steel.</A>
+        <B>B. Paper, wood, fiberglass or plastic with a minimum amount of ductile metallic when necessary for airframe integrity.</B>
+        <C>C. There are no restrictions on construction materials.</C>
+        <sol>B</sol>
+        <ans>B. Per NFPA 1127, 4.7 Rocket Airframe Materials. A high power rocket intended to be propelled by one or more high power rocket motors shall be constructed using lightweight materials such as paper, wood, rubber, plastic, fiberglass, or, when necessary, ductile metal so that the rocket conforms to the other requirements of this code.</ans>
+    </question>
+
+    <question>
+        <test>Who may own and possess a high power rocket motor?</test>
+        <A>A. A person over the age of 18 who is a certified user.</A>
+        <B>B. Any member of a nationally recognized rocketry organization.</B>
+        <C>C. A Junior flying under the Tripoli Mentoring Program.</C>
+        <sol>A</sol>
+        <ans>A. Only a person who is a certified user can own and possess a high power rocket motor and be the flyer of record on a mentored high power flight. A Junior flying under the Tripoli Mentoring Program must work with a certified user who will handle the motor.</ans>
+    </question>
+
+    <question>
+        <test>Who is allowed to be the flyer of record on a flight under the Tripoli Mentoring Program?</test>
+        <A>A. The Junior flyer.</A>
+        <B>B. Any adult over the age of 18.</B>
+        <C>C. The mentor, who is over 18 years of age and is certified to the level of the motor used.</C>
+        <sol>C</sol>
+        <ans>C. The Tripoli Mentoring Program allows Juniors to fly high power rockets that have been built by the Junior, but federal regulations and Tripoli codes insist that only certified adults can own and use high power rocket motors. Only a certified adult can be the flyer of record on a high power flight. Junior flyers can put their name on the flight card along with the flyer of record.</ans>
+    </question>
+
+    <question>
+        <test>When must the stability of a rocket be determined?</test>
+        <A>A. Before the rocket is prepared for flight.</A>
+        <B>B. If requested by the RSO at the safety inspection.</B>
+        <C>C. At design time for scratch‐built rockets.</C>
+        <sol>A</sol>
+        <ans>A. Range officials perform inspections for the purpose of catching any lapses in construction and design quality, but it is the flyer’s responsibility to ensure that the rocket has been designed and constructed in a safe manner and is stable. Although rockets built from kits will often be stable when built as instructed, this is not always the case. You must always check your rocket’s stability.</ans>
+    </question>
+
+    <question>
+        <test>You are building a scratch built high power rocket using your own untested design. Which of the following methods of determining stability are NOT safe and should not be used?</test>
+        <A>A. Fly it and see if it goes straight. Mark it a “heads‐up” flight on the flight card.</A>
+        <B>B. Use a simulation program like RockSim to determine CP and CG.</B>
+        <C>C. Perform a swing test.</C>
+        <sol>A</sol>
+        <ans>A. It is your responsibility to ensure that your rocket is stable before taking it out to the pad. It is never acceptable to fly a high power rocket if you are not sure that it is stable.</ans>
+    </question>
+
+    <question>
+        <test>You are at the launch site and decide to fly your rocket on a heavier motor than you simulated it on. Before taking the rocket to the RSO for the safety inspection, you should:</test>
+        <A>A. Do nothing. The CG is in the same place as it was with the original motor, so you don’t need to recalculate it.</A>
+        <B>B. Do nothing. The heavier motor has more thrust, so you do not need to test for the CG.</B>
+        <C>C. Recalculate the CG by installing the motor, recovery system and payload and determining the balance point of the rocket as it is ready for flight.</C>
+        <sol>C</sol>
+        <ans>C. The weight of the motor has an effect on CG, so you must calculate the CG of a rocket separately for each motor that you use.</ans>
+    </question>
+
+    <question>
+        <test>The rocket motor you are using gives a 5:1 thrust-to-weight ratio for your rocket. The wind is blowing at 18 miles per hour. The RSO did not approve your rocket for flight because of its thrust-to-weight ratio. What is the best option?</test>
+        <A>A. Use a different motor that gives a 10:1 thrust‐to‐weight ratio.</A>
+        <B>B. Protest to the launch director. You are following all of the safety guidelines.</B>
+        <C>C. Fly it anyway. You are following all of the safety guidelines.</C>
+        <sol>A</sol>
+        <ans>A. On a windy day, the guideline 5:1 thrust‐to‐weight ratio is not high enough. “Faster” motors with higher initial thrust are needed to prevent weather cocking or skywriting. NEVER fly a rocket that has not passed the safety inspection. (The range officials would never allow this anyway.)</ans>
+    </question>
+
+    <question>
+        <test>Your rocket has a predicted altitude of 6000 feet. Your rocket has been approved by the RSO and the RSO has signed your flight card. However, before you can bring the rocket to the pad, a cloud cover forms and the ceiling is now 3000 feet. Which of the following options is NOT acceptable?</test>
+        <A>A. Fly the rocket as is. You have RSO approval and an RSO signed flight card.</A>
+        <B>B. Fly the rocket only when the clouds break and the RSO is allowing flights to your predicted altitude.</B>
+        <C>C. Re‐prep the rocket with a smaller motor that will keep the rocket below the 3000 foot ceiling. Fill out a new flight card and return to the RSO before flight.</C>
+        <sol>A</sol>
+        <ans>A. The RSO performs safety checks to catch any lapses in safety. The LCO would also perform a check and would likely notice the situation. But, even if range officials miss these safety checks, individual flyers have an inherent responsibility to make sound judgments and fly safely. Never launch a rocket into a cloud.</ans>
+    </question>
+
+    <question>
+        <test>Who is responsible for ensuring that your rocket is flown in a safe manner?</test>
+        <A>A. The launch director.</A>
+        <B>B. The RSO.</B>
+        <C>C. You.</C>
+        <sol>C</sol>
+        <ans>C. Range officials will perform safety checks and will be monitoring flight activity for the purpose of catching any lapses in safety, but each and every flyer is responsible for ensuring that his or her rocket follows all safety guidelines and is flown safely. Your mentor is the flyer of record and, therefore, is also responsible for your flights. You and your mentor together must be able to guarantee that you are flying safely.</ans>
+    </question>
+
+    <question>
+        <test>During the safety inspection, the RSO does not notice that you have attached your fins using the wrong type of glue for the material you are using. The rocket “shreds” upon take-off. Who is at fault?</test>
+        <A>A. The RSO because he/she approved the rocket for flight without noticing the fin attachment.</A>
+        <B>B. Your Mentor because he/she is the flyer of record.</B>
+        <C>C. You and your Mentor.</C>
+        <sol>C</sol>
+        <ans>C. Every flyer must take every action to ensure that his/her rockets are safe to fly. Safety inspections and attentive mentoring help to decrease the number of failed flights. But each and every person who constructs and launches a rocket bears the responsibility for ensuring that their construction is safe and competent. Because your mentor is the flyer of record, he/she does bear overall responsibility for the flight, so it is important to listen to your Mentor’s guidance.</ans>
+    </question>
+
+    <question>
+        <test>What is the maximum launch angle from vertical for a high power rocket?</test>
+        <A>A. 30°</A>
+        <B>B. 20°</B>
+        <C>C. There is no maximum launch angle.</C>
+        <sol>B</sol>
+        <ans>B. Per NFPA 1127, 4.12.3 A launching device shall not be used to launch a high power rocket at an angle greater than 20 degrees from vertical.</ans>
+    </question>
+
+    <question>
+        <test>What is the maximum surface wind allowed for a safe launch?</test>
+        <A>A. 30 mph.</A>
+        <B>B. 20 mph.</B>
+        <C>C. 15 mph.</C>
+        <sol>B</sol>
+        <ans>B. Per NFPA 1127, 4.17.2 No person shall launch a high power rocket if the surface wind at the launcher is more than 32 km/h (20 mph).</ans>
+    </question>
+
+    <question>
+        <test>What is the recommended maximum descent rate for a rocket descending under its main parachute?</test>
+        <A>A. 30 feet per second.</A>
+        <B>B. 20 feet per second.</B>
+        <C>C. 15 feet per second.</C>
+        <sol>B</sol>
+        <ans>B. Notice the symmetry of the last three answers: 20 fps maximum descent rate, 20 mph maximum wind and 20° maximum launch rod angle. This makes them easy to remember! Although Tripoli does not require descent rate calculations for its Level 3 process, flyers of all levels are always expected to size their parachutes properly for a safe descent.</ans>
+    </question>
+
+    <question>
+        <test>When should the electronic deployment systems be armed.</test>
+        <A>A. In the prep area.</A>
+        <B>B. After the rocket is vertical on the launch pad.</B>
+        <C>C. After the rocket is vertical on the launch pad and unnecessary personnel have moved to a safe distance.</C>
+        <sol>C</sol>
+        <ans>C. NFPA 1127 Section 4.13 contains discussion of electronics and ignition systems. Arming of onboard electronics should only be done when the rocket is on the pad and in its vertical launch orientation. The movement of the rocket to launch position can trigger previously armed electronics and cause firing circuits to function inadvertently. Also, since malfunctions of the electronics when armed, or errors made in the arming process, could cause firing circuits to function inadvertently, all unnecessary personnel should leave the launch area as a safety measure.</ans>
+    </question>
+
+    <question>
+        <test>Why should anyone who is not needed to arm an electronic recovery system leave the pad when the recovery system is being armed?</test>
+        <A>A. A deployment charge could accidently fire during arming.</A>
+        <B>B. The noise made by extra people makes it harder for the person arming the recovery system to hear the altimeter signals.</B>
+        <C>C. There is no reason for unnecessary people to leave.</C>
+        <sol>A</sol>
+        <ans>A. As noted previously, malfunctions of the electronics when armed, or errors made in the arming process, could cause firing circuits to function inadvertently. Therefore, all unnecessary personnel should leave the launch area as a safety measure.</ans>
+    </question>
+
+    <question>
+        <test>When should the motor igniter be armed?</test>
+        <A>A. Before placing the rocket on the launch pad.</A>
+        <B>B. After the rocket is vertical on the launch pad and deployment electronics are armed.</B>
+        <C>C. After the rocket is vertical on the launch pad, deployment electronics are armed, and unnecessary personnel have moved to a safe distance.</C>
+        <sol>C</sol>
+        <ans>C. The igniter should be the last item addressed at the launch pad. It should be inserted into the rocket motor and connected to ignition leads with all unnecessary personnel departed from the pad area as a safety measure.</ans>
+    </question>
+
+    <question>
+        <test>You will be launching your rocket on the first bank of high power pads. When should you bring your rocket out to the pad?</test>
+        <A>A. When all of the launch pads in the same row as the pad you want to use are empty.</A>
+        <B>B. When you have been assigned a pad and all of the pads in the same row are empty.</B>
+        <C>C. When you have been assigned a pad, and range officials have announced that the pads that you will be using are open.</C>
+        <sol>C</sol>
+        <ans>C. Range officials are in charge of the safe movement of flyers and rockets in the range area. They will ensure the flyer has a pad assignment, and will determine when the pad is safe to be accessed. A flyer should never proceed anywhere on a live rocket range without the permission of range officials.</ans>
+    </question>
+
+    <question>
+        <test>When is it safe to launch a high power rocket?</test>
+        <A>A. After all persons have moved to safe distances from the launch pads and when the sky is clear.</A>
+        <B>B. After warning spectators and giving a 5 second countdown.</B>
+        <C>C. After A and B.</C>
+        <sol>C</sol>
+        <ans>C. Range officials are responsible for ensuring all participants are within safe distance definitions per NFPA 1127 prior to launching any rocket, and also that the sky is sufficiently clear of clouds and overflying aircraft. Also, per NFPA 1127, 4.18.3 The launching of a high power rocket shall be preceded by a 5-second countdown that is audible throughout the launching, spectator, and parking areas.</ans>
+    </question>
+
+    <question>
+        <test>When can you approach a rocket that has misfired?</test>
+        <A>A. After 30 seconds have passed.</A>
+        <B>B. After one minute has passed and a range official has given you permission.</B>
+        <C>C. After two minutes have passed.</C>
+        <sol>B</sol>
+        <ans>B. Range officials will not give you permission until the following conditions are met, per NFPA 1127, 4.18.4: A high power rocket that has misfired shall not be approached until all of the following have occurred: (1) The safety interlock has been engaged; (2) One (1) minute has passed; (3) The RSO has given permission for one person to approach the misfired rocket to inspect it.</ans>
+    </question>
+
+    <question>
+        <test>Your rocket has landed right next to the pad that it was launched from. When is it safe to recover your rocket?</test>
+        <A>A. After the range officials have announced that the range is open and given flyers permission to enter that part of the range.</A>
+        <B>B. When all of the rockets are cleared from the nearby launch pads.</B>
+        <C>C. As soon as it lands.</C>
+        <sol>A</sol>
+        <ans>A. Range officials are in charge of the safe movement of flyers and rockets in the range area. They will only give permission to recover rockets when they know that other launching activity is not taking place.</ans>
+    </question>
+
+    <question>
+        <test>When is it permissible to catch a high power rocket?</test>
+        <A>A. It is never permissible to catch a high power rocket.</A>
+        <B>B. If the rocket weights less than 2.2 pounds or 1 kg.</B>
+        <C>C. If the rocket is falling slowly enough that it is deemed not to be a hazard.</C>
+        <sol>A</sol>
+        <ans>A. Per NFPA 1127, 4.10.4 No attempt shall be made to catch a high power rocket as it approaches the ground.</ans>
+    </question>
+
+    <question>
+        <test>You are in the spectator area. The LCO announces a heads-up flight. You should:</test>
+        <A>A. Continue prepping your own rocket. You know enough about rockets to know that you’ll be able to see anything coming towards you.</A>
+        <B>B. Stand up, face the launch area, and keep your eye on the rocket until the recovery system has deployed and the rocket has landed or is drifting away from the launch and spectator area.</B>
+        <C>C. Stand up, face the launch area, and pay attention until the rocket has left the launch pad.</C>
+        <sol>B</sol>
+        <ans>B. Per NFPA 1127, 4.18.2 Except for those individuals with mobility restrictions, all persons in the launching, prepping, spectator, and parking areas during a countdown and launch shall stand and face the launcher if requested to do so by the RSO.</ans>
+    </question>
+
+    <question>
+        <test>What additional hazards for spectators and launch participants might be associated with a motor cato?</test>
+        <A>A. Pieces of the rocket may become detached and fall to the ground without a safe recovery system.</A>
+        <B>B. The motor‐based ejection charge can fail which leads to failure to deploy the recovery system and ballistic return to the ground.</B>
+        <C>C. Both A and B.</C>
+        <sol>C</sol>
+        <ans>C. Depending on the timing, altitude (if any) and type of cato, the rocket’s airframe and/or motor may project parts and debris into the spectator area. If the rocket remains intact and continues in flight, the cato may have damaged/disabled a motor-based ejection charge, allowing the rocket to fall into a spectator area without proper recovery deployment.</ans>
+    </question>
+
+    <question>
+        <test>When your rocket lands, it becomes entangled in a power line. Which of the following is true?</test>
+        <A>A. You can retrieve the rocket after calling the electric company and informing them that you are doing so.</A>
+        <B>B. You can retrieve the rocket without notifying the electric company if part of the rocket is on the ground.</B>
+        <C>C. You should not try to retrieve the rocket. Instead, you should notify the electric company as soon as possible, and allow the electric company to retrieve the rocket.</C>
+        <sol>C</sol>
+        <ans>C. Never attempt to recover a rocket from an area that is hazardous to people. Per NFPA 1127, 4.10.5 - No attempt shall be made to retrieve a high power rocket from a power line or other life-threatening area.</ans>
+    </question>
+
+    <question>
+        <test>When your rocket lands, it becomes entangled in a power line. When can you approach the power line to retrieve the rocket?</test>
+        <A>A. When your mentor says that it is safe to do so.</A>
+        <B>B. After you have alerted the power company and told them that you will be removing it.</B>
+        <C>C. It is never safe to approach the power line to retrieve your rocket. You must wait for the electric company to retrieve it.</C>
+        <sol>C</sol>
+        <ans>C. Never attempt to recover a rocket from an area that is hazardous to people. Per NFPA 1127, 4.10.5 - No attempt shall be made to retrieve a high power rocket from a power line or other life-threatening area.</ans>
+    </question>
+</exam>
