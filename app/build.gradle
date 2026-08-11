@@ -1,21 +1,24 @@
 apply plugin: 'com.android.application'
 
 android {
-    compileSdk 36
+    compileSdk 37
     defaultConfig {
         applicationId "com.tripolil2test"
         minSdkVersion 23
-        targetSdk 36
-        versionCode 8
-        versionName '1.0.8'
+        targetSdk 37
+        versionCode 10
+        versionName '1.0.10'
     }
     buildTypes {
         release {
             minifyEnabled false
-            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+            proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
         }
     }
     productFlavors {
+    }
+    buildFeatures {
+        buildConfig true
     }
     compileOptions {
         targetCompatibility JavaVersion.VERSION_17
@@ -23,11 +26,12 @@ android {
     }
     buildToolsVersion '36.0.0 rc4'
     namespace 'com.tripolil2test'
+    compileSdkMinor 0
 }
 
 dependencies {
     implementation fileTree(include: ['*.jar'], dir: 'libs')
-    testImplementation 'junit:junit:4.12'
+    testImplementation 'junit:junit:4.13.2'
     //implementation 'com.android.support:appcompat-v7:25.3.1'
     //implementation 'com.android.support:appcompat-v7:28.0.0'
     //implementation 'androidx.appcompat:appcompat:1.7.0'
