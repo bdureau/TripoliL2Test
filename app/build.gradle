@@ -24,9 +24,9 @@ android {
         targetCompatibility JavaVersion.VERSION_17
         sourceCompatibility JavaVersion.VERSION_17
     }
-    buildToolsVersion '36.0.0 rc4'
+    buildToolsVersion '37.0.0'
     namespace 'com.tripolil2test'
-    compileSdkMinor 0
+    compileSdkMinor 2
 }
 
 dependencies {
